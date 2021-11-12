@@ -1,0 +1,1 @@
+Files containing the raw data found online, their transformed data that we should be using (things such as fixing for null values, cleaning up, changing delimiters, etc.) and the scripts used to do the transformation 
