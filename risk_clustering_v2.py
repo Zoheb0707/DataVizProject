@@ -12,12 +12,12 @@ from sklearn.decomposition import PCA
 from sklearn.cluster import KMeans
 import shapefile
 
-flood_zip = pd.read_csv("Flood Risk/01_DATA/Climate_Risk_Statistics/v1.3/Zip_level_risk_FEMA_FSF_v1.3.csv")
+flood_zip = pd.read_csv("flood_risk_data.csv")
 zipcolnames = ['country', 'zipcode', 'place_name', 'state_name', 'state_abbr', 'region', 'region_code', 'region2', 'region2_code', 'latitude', 'longitude', 'accuracy_code']
-zipcode_data = pd.read_csv("Zipcodes/zipcode_data.txt", sep = "\t", header = None)
+zipcode_data = pd.read_csv("zipcode_data.txt", sep = "\t", header = None)
 zipcode_data = zipcode_data.rename(columns = dict(zip(zipcode_data.columns, zipcolnames)))
 census_colnames = ["name", "total_population"]
-census_zipdata = pd.read_csv("Zipcodes/census_zipcode_info.csv", header = 2).iloc[:,1:3]
+census_zipdata = pd.read_csv("census_zipcode_info.csv", header = 2).iloc[:,1:3]
 census_zipdata = census_zipdata.rename(columns = dict(zip(census_zipdata.columns, census_colnames)))
 census_zipdata["zipcode"] = census_zipdata.name.str.split().apply(lambda x : x[1]).astype('int64')
 flood_data = (flood_zip.merge(zipcode_data, on = "zipcode")
@@ -40,7 +40,7 @@ def get_usda_region(state_abbr):
         return "Other"
 flood_data['usda_region'] = flood_data.state_abbr.map(get_usda_region)
 #%%
-shapefilepath = 'Zipcodes/shapefiles/cb_2018_us_zcta510_500k.shp'
+shapefilepath = 'shapefiles/cb_2018_us_zcta510_500k.shp'
 sf = shapefile.Reader(shapefilepath)
 records = sf.records()
 fields = [x[0] for x in sf.fields][1:]
@@ -55,9 +55,14 @@ shapefile_dataframe['pct_water'] = shapefile_dataframe.AWATER10 / (shapefile_dat
 flood_data = shapefile_dataframe.merge(flood_data, on = 'zipcode')
 #just using land area for pop density. Convert from m^2 to km^2 
 flood_data['pop_density'] = 10**6 * flood_data.total_population/flood_data['ALAND10']
-earthquake_risk = pd.read_csv('Earthquake Risk/earthquake_risk_zipcode.csv')
+earthquake_risk = pd.read_csv('earthquake_risk_zipcode.csv')
 risk_data = flood_data.merge(earthquake_risk, how = 'left', left_on = 'zipcode', right_on = 'zip')
-
+#%%
+wildfire_risk = pd.read_csv("wildfire_risk_data.csv")
+risk_data = risk_data.merge(wildfire_risk, how = 'left', left_on = 'zipcode', right_on = 'ZIP')
+#%%
+wildfire_risk_metric = np.log(risk_data['WHP Continuous Mean']+0.1)
+wildfire_risk_metric= scale(wildfire_risk_metric)
 #%%
 #'pct_fs_risk|itude|pct_water|pop_density|mmi'
 #create a single flood risk metric
@@ -75,17 +80,23 @@ normalized_lat = scale(risk_data.latitude)
 normalized_log_density = scale(np.log(risk_data.pop_density+0.1))
 
 cluster_data = pd.DataFrame.from_dict({'log_flood_risk':flood_risk_metric[:, 0], 
+                                       'log_fire_risk' : wildfire_risk_metric,
                                        'quake_risk':earthquake_risk_metric[:, 0],
                                        #'lat':normalized_lat,
                                        #'long':normalized_long,
                                        'log_density':normalized_log_density
                                        })
 
+#%% impute wildfire risk for missing zip codes
+from sklearn.impute import KNNImputer
+
+imputer = KNNImputer(n_neighbors = 5, weights = "uniform")
+cluster_matrix_imputed = imputer.fit_transform(cluster_data)
 
 #3 components gets ~97%, 4 gets ~99%
-PCAfitter = PCA(n_components = 3)
-test = PCAfitter.fit(cluster_data)
-reduced_data = PCAfitter.transform(cluster_data)
+#PCAfitter = PCA(n_components = 3)
+#test = PCAfitter.fit(cluster_data)
+#reduced_data = PCAfitter.transform(cluster_data)
 #%%
 # k_df = pd.DataFrame({"k":[], "score":[], "min_size":[]})
 # for k in range(5,76,5):
@@ -100,7 +111,7 @@ reduced_data = PCAfitter.transform(cluster_data)
 # k_df.plot.line(x='k', y = 'score')
 #%%
 clusterModel = KMeans(n_clusters = 30)
-clusterModel.fit(cluster_data)
+clusterModel.fit(cluster_matrix_imputed)
 risk_data["cluster_label"] = clusterModel.labels_
 
 cluster_groupby = (risk_data.loc[:, risk_data.columns.str.contains('avg_risk_score_all|cluster', regex=True)]
@@ -114,7 +125,7 @@ highest_risk_zips = risk_data.loc[risk_data.cluster_label==highest_risk_cluster,
 lowest_risk_zips = risk_data.loc[risk_data.cluster_label==lowest_risk_cluster, :]
 highest_risk_zips = risk_data.loc[risk_data.cluster_label == highest_risk_cluster, :]
 #%%
-my_zipcode = 90210
+my_zipcode = 10010
 
 my_cluster = risk_data.loc[risk_data.zipcode==my_zipcode, :].cluster_label.iloc[0]
 similar_zips = risk_data.loc[risk_data.cluster_label==my_cluster, :]
@@ -122,9 +133,13 @@ print(similar_zips.usda_region.value_counts(normalize=True))
 
 #%%
 risk_data.rename(columns = {'coords':'geometry'}, inplace=True)
-risk_data = risk_data.loc[:, risk_data.columns.str.contains("zipcode|geom|pct_fs_risk|place_name|state_name|region|total_population|pop_density|cluster_label|itude|count_property|pct_water", regex = True)]
+risk_data = risk_data.loc[:, risk_data.columns.str.contains("zipcode|place_name|state_name|pct_fs_risk|WHP|mmi|region|total_population|pop_density|cluster_label|itude|count_property", regex = True)]
+risk_data['Log Flood Risk'] = cluster_data.log_flood_risk
+risk_data['Log Fire Risk'] = cluster_data.log_fire_risk
+risk_data['Quake Risk'] = cluster_data.quake_risk
+risk_data['Log Population Density'] = cluster_data.log_density
 
-risk_data.to_csv('flood_earthquake_data_clustered.csv')
+risk_data.to_csv('flood_earthquake_wildfire_data_clustered.csv')
 
 #%%
 import matplotlib.pyplot as plt
