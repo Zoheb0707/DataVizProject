@@ -1,0 +1,1819 @@
+zip,actualAmountPaid,numberOfProperties,numberOfFinalProperties,costSharePercentage,projectAmount,benefitCostRatio,netValueBenefits,propertyAction,damageCategory,structureType,cluster_label
+1904,172868.0,1,12,0.75,2172265.0,3.182,7001148.0,Acquisition/Demolition,0 - 49%,Single Family,28
+2045,137364.0,1,1,0.75,192312.0,4.72,1500090.0,Elevation,50 - 99%,Single Family,12
+2066,35500.0,2,28,0.45,547533.0,1.096,600000.0,Elevation,0 - 49%,Single Family,24
+2346,200000.0,2,12,0.75,518859.0,2.7920000000000003,1448502.0,Acquisition of Vacant Land,50 - 99%,Single Family,3
+2351,35000.0,1,11,0.75,1316666.0,1.16,2168607.0,Elevation,0 - 49%,Single Family,3
+2460,1160000.0,3,4,0.7066666666666667,782686.3333333334,3.499333333333334,3711554.6666666665,Acquisition/Relocation,0 - 49%,Non-residential - Public,19
+2532,94000.0,1,4,0.75,634081.0,2.27,334441.0,Acquisition/Demolition,0 - 49%,Single Family,19
+2657,94687.0,1,1,0.75,94687.0,1.01,727433.0,Wind Retrofit,50 - 99%,Non-residential - Public,24
+2864,109252.0,1,1,0.75,173762.0,1.097,324871.0,Acquisition/Demolition,50 - 99%,Single Family,3
+2879,219621.0,1,1,0.75,292828.0,1.089,603232.0,Other (Specify in Comments),50 - 99%,Non-residential - Public,24
+2893,202700.0,1,1,0.75,254610.0,1.021,260025.0,Acquisition/Demolition,0 - 49%,Non-residential - Private,19
+3275,165800.0,6,36,0.75,370571.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Manufactured Home,19
+3431,397783.0,1,1,0.75,397783.0,1.7970000000000002,721595.0,Acquisition/Demolition,0 - 49%,Non-residential - Private,24
+3465,75000.0,1,1,0.75,114205.0,2.616,392333.0,Acquisition/Demolition,0 - 49%,Single Family,14
+3818,55689.0,2,20,0.75,467162.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,24
+3826,320956.0,4,16,0.75,366484.0,1.7950000000000002,657819.0,Acquisition/Demolition,50 - 99%,Single Family,3
+4221,70000.0,1,4,0.75,182525.0,1.0,136894.0,Acquisition/Demolition,0 - 49%,Single Family,22
+4345,93710.0,2,12,0.75,94391.0,1.073,235973.0,Elevation,0 - 49%,Single Family,5
+4574,235439.0,5,45,0.75,536716.0,0.9879999999999999,633312.0,Elevation,0 - 49%,Single Family,5
+4743,146700.0,1,1,0.75,283788.0,1.132,322739.0,Acquisition/Demolition,0 - 49%,Non-residential - Public,24
+4756,110500.0,1,1,0.75,192477.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,23
+4785,47600.0,1,6,0.75,371405.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,24
+4901,526354.0,5,35,0.75,697132.0,2.072,1409702.0,Acquisition/Demolition,0 - 49%,Single Family,10
+5053,34045.0,1,1,0.75,54357.0,1.088,44440.0,Acquisition/Demolition,50 - 99%,Single Family,24
+5488,90671.0,1,1,0.75,120895.0,1.116,168000.0,Acquisition/Demolition,0 - 49%,Single Family,1
+5651,355146.0,4,36,0.75,817932.0,1.011,835031.0,Acquisition/Relocation,50 - 99%,Single Family,1
+5654,103743.0,2,18,0.75,817932.0,1.011,835031.0,Acquisition/Demolition,50 - 99%,Single Family,1
+5655,576851.0,10,130,0.75,966590.0,1.124,209041.0,Acquisition/Demolition,50 - 99%,Single Family,1
+5656,55655.0,1,2,0.75,171255.0,1.08,87903.0,Acquisition/Demolition,50 - 99%,Single Family,24
+5657,171625.0,3,17,0.75,468655.3333333333,1.1463333333333334,380131.0,Acquisition/Demolition,100%,Single Family,24
+5658,19250.0,1,9,0.75,817932.0,1.011,835031.0,Acquisition/Demolition,50 - 99%,Single Family,24
+5819,78099.0,1,1,0.75,104134.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,24
+5832,425000.0,1,1,0.75,3066667.0,0.0,0.0,Acquisition/Demolition,0 - 49%,Non-residential - Private,24
+5843,70209.0,1,1,0.75,93612.0,1.454,143069.0,Acquisition/Demolition,0 - 49%,Single Family,24
+5851,37058.0,1,1,0.75,55675.0,0.997,55519.0,Acquisition/Demolition,50 - 99%,Single Family,24
+6062,2386519.0,13,169,0.75,2693181.0,3.284,9674453.0,Acquisition/Demolition,0 - 49%,Single Family,3
+6460,80004.0,1,1,0.65,123340.0,0.0,0.0,Elevation,0 - 49%,Single Family,19
+6824,100000.0,1,1,0.4,252355.75,0.0,0.0,Elevation,0 - 49%,Single Family,24
+7004,402563.0,3,9,0.75,166700.0,4.035,683364.0,Elevation,0 - 49%,Single Family,24
+7006,125000.0,1,4,0.75,1478831.0,1.472,67541.0,Elevation,0 - 49%,Single Family,3
+7016,3800189.0,13,260,0.75,3800189.0,1.046,4369111.0,Elevation,0 - 49%,Single Family,19
+7033,185678.0,3,15,0.75,217161.0,1.3210000000000002,59599.0,Elevation,0 - 49%,Single Family,25
+7035,2905009.0,12,300,0.75,3181999.0,1.838,12587491.0,Acquisition/Demolition,0 - 49%,Single Family,19
+7039,17472.0,1,65,0.75,4114842.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,3
+7042,217905.0,2,35,0.75,2234118.5,1.1125,154335.0,Elevation,0 - 49%,Single Family,3
+7043,212157.0,1,25,0.75,4011750.0,1.147,114670.0,Elevation,0 - 49%,Single Family,25
+7045,1819358.0,16,256,0.75,2229747.8666666667,1.3831333333333333,121896.33333333333,Elevation,0 - 49%,Single Family,3
+7046,2033507.0,14,310,0.75,3738268.230769231,1.1416923076923078,120772.30769230769,Elevation,0 - 49%,Single Family,19
+7047,266527.0,1,25,0.75,4011750.0,1.147,114670.0,Elevation,0 - 49%,Single Family,3
+7054,5787316.0,39,1870,0.75,7492621.0,1.96,23391264.0,Elevation,50 - 99%,Single Family,3
+7058,246350.0,2,4,0.75,252475.0,1.102,184420.0,Acquisition/Demolition,0 - 49%,Single Family,3
+7071,115625.0,1,9,0.75,3847403.0,2.1060000000000003,155025.0,Elevation,0 - 49%,Single Family,3
+7072,241898.0,4,40,0.75,456487.0,1.078,194000.0,Acquisition/Demolition,0 - 49%,Single Family,19
+7073,118850.0,2,18,0.75,607087.0,1.4460000000000002,76356.0,Acquisition/Demolition,0 - 49%,Single Family,19
+7075,130864.0,2,20,0.75,456487.0,1.078,194000.0,Acquisition/Demolition,0 - 49%,Single Family,25
+7076,518713.0,6,36,0.75,607087.0,1.4460000000000002,76356.0,Acquisition/Demolition,50 - 99%,Single Family,19
+7077,202138.0,2,18,0.75,2227245.0,1.7760000000000002,115690.5,Elevation,0 - 49%,Single Family,19
+7078,1.0,1,10,0.75,456487.0,1.078,194000.0,Elevation,0 - 49%,Single Family,3
+7080,270250.0,2,18,0.75,3847403.0,2.1060000000000003,155025.0,Elevation,0 - 49%,Single Family,3
+7081,542219.0,6,46,0.75,3226169.1666666665,2.0050000000000003,159180.16666666666,Elevation,0 - 49%,Single Family,3
+7424,2761250.0,11,143,0.75,2798275.0,1.01,3964642.0,Acquisition/Demolition,50 - 99%,Single Family,19
+7436,98000.0,1,1,0.75,131000.0,2.018,264313.0,Elevation,50 - 99%,Single Family,19
+7440,1203186.0,8,112,0.75,1777101.0,1.58,8106882.0,Acquisition/Demolition,0 - 49%,Single Family,19
+7442,2185527.0,9,80,0.75,2656852.0,2.19,6561788.0,Acquisition/Demolition,0 - 49%,Single Family,19
+7470,8014596.0,51,2376,0.75,5287741.411764706,1.741470588235294,13807913.11764706,Acquisition/Demolition,50 - 99%,Single Family,19
+7522,1447671.0,12,204,0.75,2893863.0,1.955,4692000.0,Acquisition/Demolition,50 - 99%,Single Family,9
+7646,1198772.0,5,25,0.75,1612301.0,1.0,1611527.0,Acquisition/Demolition,50 - 99%,Single Family,3
+7675,1440678.0,5,25,0.75,2068057.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,19
+7703,394.0,1,132,0.75,3794340.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,6
+7717,30000.0,1,2,0.47,81629.0,2.444,199500.0,Elevation,0 - 49%,Single Family,9
+7728,1544701.0,5,18,0.75,1033994.4,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,25
+7732,39375.0,2,4,0.75,52500.0,2.202,2307837.0,Elevation,50 - 99%,Single Family,6
+7834,1705418.0,6,54,0.75,1746469.0,1.275,3429556.0,Acquisition/Demolition,50 - 99%,Single Family,19
+8048,616486.0,3,12,0.75,640250.0,1.3210000000000002,846087.0,Elevation,50 - 99%,Single Family,3
+8202,30000.0,1,1,0.33,90129.0,0.0,0.0,Elevation,0 - 49%,Single Family,6
+8835,2254785.0,12,168,0.75,3792298.0,1.159,3889055.0,Acquisition/Demolition,0 - 49%,Single Family,19
+8846,653125.0,3,36,0.75,3220740.0,1.215,3716340.6666666665,Acquisition/Demolition,0 - 49%,Single Family,19
+8865,559479.0,3,9,0.75,770000.0,1.159,665713.0,Acquisition/Demolition,100%,Single Family,19
+10271,100000.0,1,1,0.75,18087966.0,1.064,72529.0,Acquisition/Demolition,0 - 49%,2-4 Family,26
+10901,1336374.0,6,20,1.0,897765.3333333334,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,19
+10992,2792036.0,14,163,0.9807692307692307,3474988.230769231,0.2873076923076923,834146.0,Acquisition/Demolition,50 - 99%,Single Family,19
+11701,1.0,1,5,0.75,1521940.0,2.9690000000000003,4167003.0,Elevation,0 - 49%,Single Family,24
+11702,1.0,3,5,0.75,1521940.0,2.9690000000000003,4167003.0,Elevation,0 - 49%,Single Family,6
+11757,62251.0,2,6,0.75,802470.0,2.213,2130496.0,Elevation,0 - 49%,Single Family,12
+11901,1789169.0,10,100,0.75,2291690.0,1.934,1094385.0,Acquisition/Demolition,0 - 49%,Vacant Land,19
+12010,448106.0,4,10,1.0,279040.83,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,24
+12043,213750.0,1,1,0.75,296985.0,1.881,564223.0,Acquisition/Demolition,0 - 49%,Non-residential - Private,24
+12066,49500.0,1,1,0.75,66000.0,6.496,1047630.0,Elevation,0 - 49%,Single Family,21
+12069,265979.0,2,4,1.0,375745.41,1.622,1004873.0,Acquisition/Demolition,50 - 99%,Single Family,6
+12071,440660.0,3,12,1.0,524653.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,6
+12076,210284.0,1,1,1.0,282725.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Manufactured Home,24
+12092,124800.0,1,2,1.0,341550.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,24
+12116,80117.0,1,8,0.75,915792.0,0.0,0.0,Acquisition/Demolition,100%,Manufactured Home,24
+12122,1459902.0,10,55,0.95,1329390.4,1.5302,583580.8,Acquisition/Demolition,50 - 99%,Single Family,24
+12131,250807.0,5,9,0.95,239605.2,0.23279999999999998,11363.0,Acquisition/Demolition,50 - 99%,Single Family,24
+12157,226042.0,5,18,1.0,647198.8,0.0,0.0,Acquisition/Demolition,50 - 99%,Vacant Land,24
+12305,400501.0,3,9,1.0,879569.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Non-residential - Private,12
+12401,149314.0,1,4,1.0,762328.0,1.037,633754.0,Acquisition/Demolition,50 - 99%,Single Family,19
+12407,30030.0,1,1,1.0,41798.0,0.0,0.0,Acquisition of Vacant Land,100%,Vacant Land,1
+12410,577181.0,5,104,1.0,3859364.8,0.20739999999999997,126750.8,Acquisition/Demolition,50 - 99%,Vacant Land,24
+12412,421784.0,1,25,1.0,4633624.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Other (Specify in Comments),24
+12413,49614.0,1,1,1.0,74053.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Manufactured Home,24
+12414,227752.0,2,7,1.0,259772.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,24
+12416,94000.0,1,25,1.0,4633624.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,24
+12424,223880.0,1,1,1.0,306261.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,21
+12446,455423.0,5,125,1.0,4633624.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,14
+12450,275000.0,2,4,1.0,311452.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,6
+12451,125609.0,2,12,1.0,477387.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,14
+12452,346533.0,4,7,1.0,226226.5,1.47,494420.5,Acquisition/Demolition,50 - 99%,Single Family,29
+12457,816272.0,5,125,1.0,4633624.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,24
+12463,31370.0,1,6,1.0,477387.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,24
+12464,180000.0,2,50,1.0,4633624.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Vacant Land,6
+12468,775837.0,4,16,1.0,1150788.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,24
+12480,253447.0,2,50,1.0,4633624.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,6
+12492,42000.0,1,2,1.0,239286.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+12496,53000.0,1,2,1.0,252683.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,14
+12518,305670.0,1,1,0.75,407560.0,1.82,764135.0,Other (Specify in Comments),0 - 49%,Other (Specify in Comments),19
+12553,259061.0,1,1,1.0,230850.0,1.279,438366.0,Acquisition/Demolition,0 - 49%,Single Family,3
+12589,254000.0,2,8,1.0,762328.0,1.037,633754.0,Acquisition/Demolition,50 - 99%,Single Family,3
+12787,67000.0,1,1,0.75,91779.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,24
+12912,784913.0,10,98,1.0,1323164.1,0.3999,363891.4,Acquisition/Demolition,50 - 99%,Single Family,24
+12932,310916.0,3,24,1.0,980422.0,1.003,1176699.0,Acquisition/Demolition,50 - 99%,Single Family,24
+12953,275023.0,10,100,1.0,712761.0,2.244,1683416.0,Acquisition/Demolition,50 - 99%,Single Family,21
+12974,120000.0,1,8,1.0,980422.0,1.003,1176699.0,Acquisition/Demolition,50 - 99%,Single Family,19
+12987,45180.0,1,3,1.0,325853.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,24
+12993,53701.0,1,22,1.0,3110973.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,14
+13309,108000.0,1,1,1.0,157025.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,21
+13323,68599.0,1,2,1.0,155298.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,21
+13339,410100.0,10,110,1.0,1214409.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,24
+13350,76000.0,1,1,1.0,104335.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,24
+13357,1806434.0,26,736,1.0,3948872.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,24
+13407,383672.0,3,9,1.0,648068.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,24
+13421,708741.0,3,12,1.0,1088324.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,21
+13477,164017.0,1,4,1.0,1088324.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,23
+13478,238513.0,2,47,0.875,1699451.0,0.234,336799.5,Acquisition/Demolition,50 - 99%,Single Family,23
+13490,904727.0,5,30,0.75,904727.0,0.0,0.0,Acquisition/Demolition,0 - 49%,Single Family,24
+13730,132120.0,2,2,1.0,124000.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,24
+13732,1655928.0,18,443,1.0,1847436.111111111,0.08861111111111111,73174.66666666667,Elevation,50 - 99%,Single Family,18
+13734,465312.0,9,128,0.9722222222222222,942566.5555555555,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+13748,1702974.0,25,679,0.92,2050421.48,0.09360000000000002,134719.8,Acquisition/Demolition,50 - 99%,Vacant Land,6
+13754,220434.0,2,20,0.75,1027973.5,1.007,1440585.5,Acquisition/Demolition,100%,Single Family,29
+13760,3838579.0,51,1194,0.7944444444444444,3202530.4,4.172822222222222,5754504.244444445,Acquisition/Demolition,50 - 99%,Single Family,18
+13778,166219.0,2,4,0.75,438451.0,1.763,3813541.0,Elevation,0 - 49%,Single Family,21
+13783,519500.0,7,133,0.75,2055368.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,29
+13790,1659247.0,26,1070,0.9782608695652174,8642146.695652174,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,18
+13795,708798.0,17,257,0.7647058823529411,783010.4117647059,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+13820,298700.0,3,24,0.75,915792.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,24
+13825,165000.0,1,8,0.75,915792.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,24
+13827,1163172.0,24,272,0.9895833333333334,784849.5416666666,0.07766666666666668,16841.291666666668,Acquisition/Demolition,50 - 99%,Single Family,29
+13838,499820.0,8,152,0.75,2055368.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,19
+13845,172700.0,4,20,0.75,236725.0,0.0,0.0,Acquisition of Vacant Land,100%,Single Family,6
+13849,129856.0,2,16,0.75,915792.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,29
+13850,4873744.0,71,2101,0.9285714285714286,3861227.2448979593,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,18
+13856,248641.0,3,57,0.75,2055368.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,24
+13865,149000.0,2,4,0.75,181300.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,29
+13901,64000.0,1,15,1.0,1610311.0,2.358,6348000.0,Acquisition/Demolition,50 - 99%,2-4 Family,18
+13903,1631475.0,28,648,0.9285714285714286,1777776.4642857143,0.18450000000000003,371056.9285714286,Acquisition/Demolition,50 - 99%,Single Family,18
+13905,1255028.0,13,129,1.0,1172706.3076923077,0.8820000000000001,1449549.923076923,Acquisition/Demolition,50 - 99%,Vacant Land,18
+14009,109540.0,2,2,0.75,262700.5,2.0905,431947.5,Other (Specify in Comments),0 - 49%,Other (Specify in Comments),29
+14141,82706.0,1,1,0.75,110275.0,1.254,161800.0,Acquisition/Demolition,0 - 49%,Single Family,21
+14892,602868.0,12,131,0.8541666666666666,726940.9166666666,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,18
+15003,51043.0,1,5,0.75,454703.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,9
+15066,279500.0,4,16,0.75,308089.0,1.0,308089.0,Acquisition/Demolition,0 - 49%,Single Family,9
+15084,166147.0,3,9,0.75,196675.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,18
+15101,737624.0,12,144,0.75,802680.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+15116,1835197.0,23,273,0.75,1033601.1739130435,1.3113478260869567,2555038.8260869565,Acquisition/Demolition,50 - 99%,Single Family,9
+15145,144504.0,5,25,0.75,244491.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,12
+15209,370599.0,6,98,0.75,1489164.0,2.9141666666666666,5112034.0,Acquisition/Demolition,50 - 99%,Single Family,9
+15223,394000.0,6,104,0.75,1554088.1666666667,2.387166666666667,4930588.5,Acquisition/Demolition,50 - 99%,Single Family,12
+15237,29379.0,1,2,0.75,114225.0,3.1620000000000004,1088673.0,Acquisition/Demolition,0 - 49%,Single Family,16
+15241,250921.0,1,1,0.75,273548.0,1.0,276000.0,Acquisition/Demolition,0 - 49%,Single Family,16
+15425,1596040.0,10,100,0.75,1508977.93,1.0,1534500.0,Acquisition/Demolition,0 - 49%,Single Family,18
+15431,71500.0,1,1,0.75,87966.0,1.0,95250.0,Acquisition/Demolition,0 - 49%,Single Family,15
+16037,1811982.0,29,684,0.75,1840822.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Vacant Land,15
+16117,957044.0,18,160,0.75,643577.3888888889,0.8135555555555556,717612.7777777778,Acquisition/Demolition,50 - 99%,Vacant Land,9
+16123,50000.0,1,1,0.75,64665.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,15
+16602,2058245.0,21,190,0.75,1074195.0778947368,1.0387894736842105,1116329.894736842,Acquisition/Demolition,0 - 49%,Single Family,16
+16627,56400.0,1,1,0.75,67124.0,1.5490000000000002,108000.0,Acquisition/Demolition,0 - 49%,Single Family,18
+16669,249500.0,3,9,0.75,275219.0,1.003,391443.0,Acquisition/Demolition,0 - 49%,Single Family,29
+16678,346349.0,8,64,0.75,383726.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Vacant Land,29
+16866,709263.0,10,100,0.75,812760.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,21
+17003,2247245.0,26,161,0.75,533297.7692307692,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+17033,788289.0,9,66,0.75,754849.5555555555,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+17036,1314226.0,12,51,0.75,512623.0833333333,0.15783333333333333,133379.33333333334,Acquisition/Demolition,50 - 99%,Single Family,16
+17038,599998.0,8,22,0.75,231788.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,0
+17042,308403.0,4,16,0.75,378716.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+17046,71020.0,2,4,0.75,91796.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,16
+17051,32011.0,1,3,0.75,236954.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+17057,5594451.0,57,455,0.75,793975.4285714285,0.293375,161269.32142857142,Acquisition/Demolition,50 - 99%,Single Family,18
+17070,40277.0,1,1,0.75,73153.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,18
+17078,26110.0,1,2,0.75,198717.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,25
+17082,133075.0,2,2,0.75,72250.0,1.9195,143011.5,Acquisition/Demolition,100%,Single Family,29
+17110,84000.0,1,7,0.75,723171.0,1.894,1600552.0,Acquisition/Demolition,0 - 49%,2-4 Family,12
+17111,1150399.0,14,81,0.75,633540.6923076923,2.9769230769230766,2032753.3076923077,Acquisition/Demolition,0 - 49%,Single Family,16
+17112,98432.0,1,1,0.75,117130.0,1.228,152907.0,Acquisition/Demolition,0 - 49%,Single Family,16
+17201,1331472.0,1,1,0.75,2757090.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Manufactured Home,9
+17315,64430.0,1,1,0.75,75737.0,1.0,108000.0,Acquisition/Demolition,0 - 49%,Single Family,16
+17404,395000.0,5,30,0.75,529736.0,1.0,633879.0,Acquisition/Demolition,0 - 49%,Single Family,16
+17408,220000.0,4,20,0.75,365481.0,1.0,344055.0,Acquisition/Demolition,0 - 49%,Single Family,16
+17701,2491778.0,28,308,0.75,1166861.2142857143,0.8914642857142858,1348055.642857143,Acquisition/Demolition,50 - 99%,Single Family,18
+17728,648520.0,8,52,0.75,807673.8571428572,0.8892857142857142,988613.4285714285,Acquisition/Demolition,50 - 99%,Single Family,29
+17737,55196.0,1,9,0.75,1192964.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,18
+17740,19473.0,1,1,0.75,27078.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+17744,46416.0,1,2,0.75,53370.0,0.0,0.0,Acquisition/Demolition,100%,Manufactured Home,29
+17752,56500.0,1,12,0.75,865989.0,1.338,1813284.0,Acquisition/Demolition,50 - 99%,Single Family,18
+17754,271933.0,3,12,0.75,377708.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,18
+17756,143238.0,2,2,0.75,78170.5,1.4380000000000002,530830.0,Acquisition/Demolition,50 - 99%,Single Family,29
+17771,384777.0,3,16,0.75,504795.0,1.4056666666666668,946848.6666666666,Acquisition/Demolition,50 - 99%,Single Family,29
+17777,97328.0,1,1,0.75,112467.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+17814,64416.0,1,5,0.75,457212.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+17815,7004589.0,83,1045,0.75,1055659.4535365854,0.1951219512195122,260334.1463414634,Acquisition/Demolition,50 - 99%,Single Family,29
+17820,1304165.0,19,119,0.75,436454.1052631579,0.34578947368421054,174360.52631578947,Acquisition/Demolition,50 - 99%,Single Family,29
+17821,81000.0,1,1,0.75,93585.0,1.0,149100.0,Acquisition/Demolition,0 - 49%,Single Family,18
+17830,67700.0,1,1,0.75,81645.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+17837,1227380.0,5,25,0.75,1363596.0,1.028,1422428.0,Acquisition/Demolition,0 - 49%,Single Family,18
+17857,80400.0,1,1,0.75,95044.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,18
+17859,989154.0,9,41,0.75,461404.77777777775,0.3333333333333333,253391.66666666666,Acquisition/Demolition,50 - 99%,Single Family,29
+17872,27513.0,6,42,0.75,70181.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Manufactured Home,29
+17878,427906.0,5,21,0.75,382761.6,0.4168,58281.2,Acquisition/Demolition,50 - 99%,Single Family,21
+17901,176000.0,3,9,0.75,234600.0,1.0,362203.0,Acquisition/Demolition,0 - 49%,Single Family,18
+17941,78374.0,2,4,0.75,140336.0,1.0,188800.0,Acquisition/Demolition,0 - 49%,Single Family,29
+17953,81778.0,1,12,0.75,880369.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,29
+17963,12528886.0,17,163,0.75,729767.4705882353,0.29411764705882354,170955.88235294117,Acquisition/Demolition,50 - 99%,Single Family,21
+18446,204906.0,4,36,0.75,773795.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,21
+18517,50000.0,1,7,0.75,784308.0,1.681,1601880.0,Acquisition/Demolition,0 - 49%,Manufactured Home,16
+18518,631000.0,6,42,0.75,784308.0,1.681,1601880.0,Acquisition/Demolition,0 - 49%,Single Family,16
+18603,293670.0,2,3,0.75,194380.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,18
+18615,661010.0,9,99,0.75,796841.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+18621,101700.0,1,1,0.75,110958.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,21
+18623,114776.0,2,14,0.75,703693.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+18629,638499.0,8,41,0.75,503774.875,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+18630,281717.0,2,19,0.75,874077.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+18632,64800.0,1,1,0.75,67813.0,0.0,0.0,Acquisition/Demolition,50 - 99%,2-4 Family,0
+18634,1610736.0,25,275,0.75,1002036.44,0.81792,1076493.92,Acquisition/Demolition,50 - 99%,Single Family,19
+18635,62344.0,1,2,0.75,269097.0,0.0,0.0,Acquisition/Demolition,50 - 99%,2-4 Family,18
+18640,2557575.0,47,441,0.75,693964.914893617,0.0,0.0,Acquisition/Demolition,50 - 99%,Vacant Land,18
+18643,1125022.0,14,56,0.75,394018.07692307694,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+18651,278811.0,6,67,0.75,999508.0,0.6848333333333333,1008616.3333333334,Acquisition/Demolition,50 - 99%,Single Family,18
+18655,606139874.0,45,521,0.75,543629.0222222222,0.5373333333333333,1141114.288888889,Acquisition/Demolition,50 - 99%,Single Family,29
+18657,2324654.0,32,221,0.75,714538.7931034482,0.20744827586206896,113297.3448275862,Acquisition/Demolition,50 - 99%,Single Family,29
+18660,144143.0,3,9,0.75,195055.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,21
+18702,415728.0,6,48,0.75,573004.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,18
+18705,536640.0,9,81,0.75,705788.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,18
+18801,80000.0,1,14,0.75,781729.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Manufactured Home,0
+18810,49683.0,1,7,0.75,593959.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+18821,315000.0,3,30,0.75,566503.6666666666,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+18822,301600.0,3,42,0.75,781729.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,21
+18834,100000.0,1,14,0.75,781729.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,21
+18840,740483.0,8,46,0.75,517015.5,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,0
+18847,289000.0,8,46,0.75,274536.25,0.15625,14335.375,Acquisition/Demolition,50 - 99%,Single Family,21
+18915,172959.0,1,1,0.75,194455.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+18977,1020000.0,2,4,0.75,1127779.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,24
+19002,715000.0,6,30,0.75,905601.9,1.0,1245400.0,Acquisition/Demolition,0 - 49%,Vacant Land,25
+19015,497900.0,6,36,0.75,642536.0,1.147,852285.0,Acquisition/Demolition,0 - 49%,Single Family,19
+19031,4242305.0,15,125,0.75,3495705.846153846,1.5646923076923078,4971365.307692308,Acquisition/Demolition,50 - 99%,Single Family,3
+19034,716578.0,2,4,0.75,779467.0,2.182,2068590.0,Acquisition/Demolition,0 - 49%,Single Family,16
+19038,543000.0,4,6,0.75,435514.0,1.0,463426.3333333333,Acquisition/Demolition,0 - 49%,Single Family,3
+19040,4064540.0,25,397,0.75,3532268.0416666665,1.187125,6169088.5,Acquisition/Demolition,50 - 99%,Single Family,3
+19046,595000.0,3,6,0.75,980000.0,1.015,994220.0,Acquisition/Demolition,0 - 49%,Single Family,3
+19064,956057.0,6,36,0.75,1006782.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,3
+19067,661756.0,2,4,0.75,731350.0,1.072,800234.0,Acquisition/Demolition,0 - 49%,Single Family,19
+19341,218935.0,1,1,0.75,252902.0,1.807,540295.0,Acquisition/Demolition,0 - 49%,Single Family,25
+19460,146389.0,1,1,0.75,198500.0,1.18,716025.0,Acquisition/Demolition,0 - 49%,Single Family,16
+19465,55000.0,1,1,0.75,78322.0,1.0,205661.0,Acquisition/Demolition,0 - 49%,Single Family,19
+19555,517255.0,5,40,0.75,599496.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,19
+19711,766028.0,3,5,0.6866666666666666,489594.6666666667,3.9360000000000004,2193972.0,Acquisition/Demolition,0 - 49%,Single Family,25
+19934,161436.0,1,1,0.75,205248.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+20613,180000.0,1,1,0.75,205025.0,1.083,351849.0,Acquisition/Demolition,0 - 49%,Single Family,16
+20615,49500.0,1,4,0.75,330584.0,1.0,105042.0,Acquisition/Demolition,0 - 49%,Single Family,12
+20634,200000.0,1,1,0.75,612595.0,1.07,524986.0,Acquisition/Demolition,0 - 49%,Multi-Family Dwelling - 5 or More Units,16
+20646,254074.0,1,1,0.75,254474.0,1.0,1.0,Acquisition/Demolition,50 - 99%,Single Family,16
+20674,128532.0,1,1,0.75,127985.0,1.149,108099.0,Elevation,0 - 49%,Single Family,12
+20676,1.0,1,9,0.75,4275219.0,5.508,25488306.0,Acquisition/Demolition,50 - 99%,Single Family,16
+20764,59000.0,2,15,0.75,587847.0,2.267,1441631.0,Elevation,50 - 99%,Single Family,12
+20902,1487167.0,2,4,0.75,1847497.0,1.855,2946915.0,Floodproofed,0 - 49%,Single Family,16
+21032,59000.0,2,15,0.75,587847.0,2.267,1441631.0,Elevation,50 - 99%,Single Family,18
+21037,516375.0,1,1,0.75,463369.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,18
+21120,57700.0,1,35,0.75,1434858.0,0.998,1850766.0,Elevation,50 - 99%,Single Family,0
+21122,59000.0,7,15,0.75,587847.0,2.267,1441631.0,Elevation,50 - 99%,Single Family,16
+21146,59000.0,1,15,0.75,587847.0,2.267,1441631.0,Elevation,50 - 99%,Single Family,16
+21162,57700.0,1,35,0.75,1434858.0,0.998,1850766.0,Elevation,50 - 99%,Single Family,16
+21204,851861.0,1,6,0.75,2825491.0,1.638,7202300.0,Acquisition/Demolition,0 - 49%,Non-residential - Private,16
+21219,57700.0,8,35,0.75,1434858.0,0.998,1850766.0,Elevation,50 - 99%,Single Family,12
+21220,231504.0,14,105,0.75,1434858.0,0.9979999999999999,1850766.0,Elevation,50 - 99%,Single Family,9
+21221,57700.0,2,35,0.75,1434858.0,0.998,1850766.0,Elevation,50 - 99%,Single Family,16
+21222,57700.0,9,35,0.75,1434858.0,0.998,1850766.0,Elevation,50 - 99%,Single Family,9
+21403,118000.0,2,30,0.75,587847.0,2.267,1441631.0,Elevation,50 - 99%,Single Family,9
+21502,60000.0,1,1,0.75,66750.0,8.392000000000001,560158.0,Acquisition/Demolition,0 - 49%,Single Family,18
+21521,67552.0,2,12,0.75,292612.5,2.9675000000000002,138735.0,Acquisition/Demolition,50 - 99%,Single Family,29
+21532,75000.0,1,1,0.75,145500.0,0.0,0.0,Acquisition/Demolition,0 - 49%,Manufactured Home,18
+21539,254507.0,8,56,0.75,438530.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,12
+21562,422500.0,2,12,0.75,294487.0,0.8955,86660.0,Acquisition/Demolition,0 - 49%,Single Family,29
+21613,53000.0,1,9,0.75,441620.0,1.229,549313.0,Elevation,50 - 99%,Single Family,29
+21627,53000.0,1,9,0.75,441620.0,1.229,549313.0,Elevation,0 - 49%,Single Family,6
+21634,53000.0,1,9,0.75,441620.0,1.229,549313.0,Elevation,50 - 99%,Single Family,6
+21651,216195.0,1,1,0.74,246090.0,0.0,0.0,Acquisition/Demolition,0 - 49%,Single Family,15
+21654,76800.0,2,2,0.75,33138.5,0.0,0.0,Elevation,50 - 99%,Single Family,6
+21672,106000.0,5,18,0.75,441620.0,1.229,549313.0,Elevation,50 - 99%,Single Family,6
+21675,53000.0,1,9,0.75,441620.0,1.229,549313.0,Elevation,50 - 99%,Single Family,6
+21814,53000.0,1,1,0.75,109000.0,3.1590000000000003,167448.0,Elevation,0 - 49%,Single Family,29
+21901,126000.0,2,2,0.75,334820.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+21921,878910.0,7,53,0.7428571428571429,249669.57142857142,0.8668571428571428,533835.4285714285,Acquisition/Demolition,50 - 99%,Single Family,16
+22044,695000.0,1,1,0.75,815076.0,1.022,859567.0,Acquisition/Demolition,0 - 49%,Single Family,16
+22578,245674.0,3,12,0.75,255922.0,1.077,301519.0,Elevation,0 - 49%,Single Family,29
+22980,580099.0,17,47,0.75,457678.8333333333,0.9586666666666667,566478.8333333334,Acquisition/Demolition,50 - 99%,Single Family,18
+23038,40664.0,4,21,0.75,180636.0,1.0,199500.0,Acquisition/Demolition,50 - 99%,Single Family,14
+23061,79577.0,1,13,0.75,1249562.0,1.733,2165382.0,Elevation,0 - 49%,Single Family,21
+23066,306442.0,1,10,0.75,1774180.0,2.492,4421353.0,Acquisition/Demolition,0 - 49%,Single Family,6
+23071,37000.0,1,27,0.75,2252620.0,1.302,3375790.0,Acquisition/Demolition,100%,Single Family,0
+23072,2463798.0,28,399,0.75,1361234.076923077,1.3945769230769232,2099082.1153846155,Elevation,50 - 99%,Single Family,12
+23089,152998.0,3,9,0.75,161050.0,1.078,173687.0,Elevation,0 - 49%,Single Family,21
+23128,236249.0,2,18,0.75,1860325.0,2.047,3832835.0,Acquisition/Demolition,0 - 49%,Single Family,6
+23138,158000.0,1,7,0.71,933601.0,1.116,993195.0,Acquisition/Demolition,0 - 49%,Single Family,6
+23181,125400.0,3,3,0.75,111222.0,1.3665,228760.5,Acquisition/Demolition,50 - 99%,Single Family,29
+23234,600520.0,4,12,0.75,742739.0,2.776,2199840.0,Acquisition/Demolition,0 - 49%,Single Family,3
+23315,176893.0,3,29,0.75,600857.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,0
+23320,1323530.0,6,36,0.75,1403391.0,1.004,1499910.0,Acquisition/Demolition,0 - 49%,Single Family,18
+23324,569100.0,2,10,0.75,1347443.0,1.037,1726345.0,Acquisition/Demolition,0 - 49%,Single Family,9
+23398,35000.0,2,3,0.75,105000.0,7.88,827415.0,Elevation,0 - 49%,Single Family,15
+23430,552601.0,11,78,0.75,492366.625,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,0
+23440,63459.0,5,51,0.75,359600.0,10.171,3112417.0,Elevation,50 - 99%,Single Family,6
+23503,75000.0,6,22,0.75,1316666.0,1.16,2168607.0,Elevation,0 - 49%,Single Family,9
+23508,40000.0,1,11,0.75,1316666.0,1.16,2168607.0,Elevation,0 - 49%,Single Family,12
+23518,70000.0,2,22,0.75,1316666.0,1.16,2168607.0,Elevation,0 - 49%,Single Family,12
+23602,47000.0,1,1,0.75,52985.0,5.306,282396.0,Acquisition/Demolition,50 - 99%,Non-residential - Private,16
+23607,241400.0,4,20,0.75,309176.0,1.048,428497.0,Acquisition/Demolition,50 - 99%,Single Family,9
+23661,115946.0,1,21,0.75,703929.0,1.018,1413134.0,Elevation,50 - 99%,Single Family,9
+23662,1826369.0,16,301,0.75,1082280.3125,1.0,1140524.4375,Elevation,50 - 99%,Single Family,12
+23664,577075.0,5,105,0.75,703929.0,1.018,1413134.0,Elevation,50 - 99%,Single Family,12
+23692,26475.0,1,1,0.75,32333.0,1.404,49409.0,Wind Retrofit,0 - 49%,Non-residential - Public,18
+23829,19400.0,2,24,0.75,145789.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Vacant Land,0
+23833,36100.0,1,75,0.75,3350694.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,0
+23838,351658.0,3,6,0.73,557487.0,3.729,2925445.0,Acquisition/Demolition,0 - 49%,Single Family,23
+23851,77900.0,7,72,0.75,145789.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,0
+23857,19800.0,3,24,0.75,145789.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,21
+24018,70520.0,1,1,0.75,78875.0,1.0,94095.0,Acquisition/Demolition,0 - 49%,Single Family,18
+24059,6000.0,1,4,0.75,32517.0,0.0,0.0,Acquisition/Demolition,100%,Manufactured Home,21
+24136,88065.0,1,1,0.75,119265.0,1.703,265969.0,Acquisition/Demolition,0 - 49%,Single Family,29
+24148,222484.0,4,16,0.75,355000.0,2.459,872833.0,Acquisition/Demolition,0 - 49%,Single Family,23
+24153,781966.0,6,15,0.75,207174.5,1.2046666666666666,339920.6666666667,Acquisition/Demolition,0 - 49%,Single Family,24
+24179,140000.0,3,6,0.75,262000.0,2.379,623300.0,Acquisition/Demolition,0 - 49%,Vacant Land,18
+24219,28600.0,1,1,0.75,37100.0,4.825,179014.0,Acquisition/Demolition,0 - 49%,Single Family,24
+24245,212940.0,4,36,0.75,308350.0,1.562,805041.0,Acquisition/Demolition,50 - 99%,Single Family,29
+24250,139300.0,4,36,0.75,308350.0,1.562,805041.0,Acquisition/Demolition,50 - 99%,Single Family,24
+24251,26600.0,1,9,0.75,308350.0,1.562,805041.0,Acquisition/Demolition,50 - 99%,Single Family,24
+24279,4000.0,2,7,0.75,346800.0,2.249,291516.0,Acquisition/Demolition,50 - 99%,Single Family,6
+24293,1093026.0,27,185,0.75,479265.6666666667,3.152,4231417.666666667,Acquisition/Demolition,0 - 49%,Single Family,24
+24301,120250.0,5,17,0.75,143942.8,1.5126,443846.2,Acquisition/Demolition,0 - 49%,Single Family,24
+24312,220000.0,1,4,0.75,810162.0,1.009,817170.0,Acquisition/Demolition,0 - 49%,Single Family,21
+24416,491243.0,14,160,0.75,608945.5714285715,0.0,0.0,Acquisition/Demolition,50 - 99%,Vacant Land,29
+24426,102265.0,1,1,0.75,120979.0,1.876,226948.0,Acquisition/Demolition,0 - 49%,Single Family,24
+24483,197313.0,4,56,0.75,778391.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,29
+24605,1010840.0,4,5,0.75,455212.0,2.79575,1275446.0,Acquisition/Demolition,50 - 99%,Non-residential - Public,24
+24701,624664.0,6,103,0.75,587969.8333333334,1.4681666666666668,1511941.8333333333,Acquisition/Demolition,50 - 99%,Single Family,24
+24724,27780.0,1,12,0.75,330463.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,18
+24733,29520.0,1,12,0.75,330463.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,24
+24736,327433.0,10,130,0.75,415571.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,24
+24740,223159.0,7,211,0.6785714285714286,1295077.0,0.3788571428571429,113465.71428571429,Acquisition/Demolition,50 - 99%,Single Family,24
+24747,127740.0,3,36,0.75,330463.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,24
+24801,917902.0,28,1815,0.75,2716657.75,0.590607142857143,618926.6071428572,Floodproofed,50 - 99%,Single Family,6
+24808,234025.0,10,157,0.75,406962.7,0.10069999999999998,33526.2,Acquisition/Demolition,50 - 99%,Single Family,6
+24811,30000.0,1,81,0.75,3422245.0,0.0,0.0,Acquisition/Demolition,100%,2-4 Family,6
+24813,14460.0,1,81,0.75,3422245.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,6
+24815,12120.0,1,81,0.75,3422245.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,6
+24818,490640.0,11,260,0.75,1233053.4545454546,1.2954545454545454,1935352.7272727273,Acquisition/Demolition,50 - 99%,Single Family,6
+24828,41739.0,1,1,0.75,59864.0,6.0200000000000005,437366.0,Acquisition/Demolition,0 - 49%,Single Family,6
+24839,248381.0,4,21,0.75,505743.75,0.82275,645636.0,Acquisition/Demolition,50 - 99%,Single Family,6
+24844,66500.0,2,94,0.75,1943902.0,0.5035,167631.0,Acquisition/Demolition,100%,Single Family,6
+24845,28520.0,1,22,0.75,1236820.0,1.425,2128888.0,Acquisition/Demolition,100%,Single Family,6
+24847,98000.0,1,12,0.75,312978.0,1.003,264828.0,Acquisition/Demolition,0 - 49%,Single Family,6
+24849,338658.0,5,125,0.75,994625.4,2.4198,1086455.2,Acquisition/Demolition,50 - 99%,Single Family,6
+24853,296683.0,13,411,0.75,1371794.3846153845,1.8676153846153847,1128767.8461538462,Acquisition/Demolition,50 - 99%,Single Family,6
+24857,268004.0,3,50,0.75,1013859.6666666666,1.3156666666666668,1706208.0,Acquisition/Demolition,50 - 99%,Single Family,6
+24860,1240821.0,29,973,0.75,1035934.0,0.41951724137931035,188532.6551724138,Acquisition/Demolition,50 - 99%,Single Family,6
+24862,20000.0,1,4,0.75,66644.0,2.3320000000000003,452047.0,Acquisition/Demolition,50 - 99%,Single Family,6
+24867,22834.0,1,12,0.75,312978.0,1.003,264828.0,Acquisition/Demolition,100%,Single Family,6
+24868,425414.0,24,900,0.75,1598420.5217391304,2.5273043478260875,3067077.1739130435,Acquisition/Demolition,50 - 99%,Single Family,6
+24870,917200.0,20,305,0.75,829312.8,0.07125000000000001,106444.4,Acquisition/Demolition,50 - 99%,Single Family,6
+24871,1.0,7,35,0.75,1272289.0,5.5920000000000005,7936056.0,Acquisition/Demolition,50 - 99%,Single Family,6
+24872,99360.0,3,243,0.75,3422245.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,6
+24874,185180.0,8,187,0.75,846373.875,1.1640000000000001,316396.5,Acquisition/Demolition,100%,Single Family,6
+24879,60000.0,1,2,0.75,91450.0,0.0,0.0,Acquisition/Demolition,0 - 49%,Single Family,6
+24881,186640.0,4,324,0.75,3422245.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,6
+24970,407072.0,5,13,0.75,230026.6,1.1081999999999999,170620.0,Acquisition/Demolition,0 - 49%,Single Family,29
+25008,13500.0,1,9,0.75,261292.0,1.417,744698.0,Acquisition/Demolition,50 - 99%,Multi-Family Dwelling - 5 or More Units,6
+25015,70000.0,1,4,0.75,465350.0,1.052,489455.0,Acquisition/Demolition,0 - 49%,Single Family,6
+25036,30780.0,1,4,0.75,263478.0,0.595,145019.0,Acquisition/Demolition,50 - 99%,Single Family,6
+25045,1367500.0,18,128,0.7322222222222222,568106.1883333332,2.3287222222222224,1292700.388888889,Acquisition/Demolition,50 - 99%,Single Family,6
+25060,232400.0,8,69,0.75,281009.63625,1.7075,996610.75,Acquisition/Demolition,50 - 99%,Single Family,6
+25064,56000.0,1,4,0.75,301032.0,1.5670000000000002,680008.0,Acquisition/Demolition,50 - 99%,Single Family,12
+25071,364400.0,3,13,0.75,394745.3333333333,1.3796666666666668,643664.6666666666,Acquisition/Demolition,50 - 99%,Single Family,6
+25103,85000.0,1,1,0.75,112918.0,1.381,166513.0,Acquisition/Demolition,0 - 49%,Single Family,6
+25115,20700.0,1,28,0.75,994627.0,1.951,2497384.0,Acquisition/Demolition,100%,Single Family,6
+25119,33000.0,1,4,0.75,162155.0,1.064,384771.0,Acquisition/Demolition,100%,Single Family,6
+25130,306140.0,4,10,0.75,193657.0,6.709250000000001,2347774.25,Acquisition/Demolition,0 - 49%,Single Family,29
+25143,120577.0,1,1,0.75,82600.0,2.289,276000.0,Acquisition/Demolition,0 - 49%,Single Family,12
+25152,73380.0,1,28,0.75,994627.0,1.951,2497384.0,Acquisition/Demolition,100%,Manufactured Home,6
+25161,69500.0,2,56,0.75,994627.0,1.951,2497384.0,Acquisition/Demolition,0 - 49%,Single Family,6
+25177,2772033.0,18,65,0.75,690205.7222222222,1.3741666666666665,990823.0555555555,Acquisition/Demolition,0 - 49%,Single Family,12
+25186,59130.0,2,8,0.75,263478.0,0.595,145019.0,Acquisition/Demolition,50 - 99%,Single Family,6
+25202,60000.0,1,1,0.75,74885.0,1.4420000000000002,108001.0,Acquisition/Demolition,100%,Manufactured Home,6
+25248,220961.0,1,1,0.75,249861.0,2.7350000000000003,334134.0,Acquisition/Demolition,0 - 49%,Single Family,6
+25275,2.0,2,12,0.5,214201.0,1.365,292336.0,Acquisition/Demolition,100%,Single Family,29
+25302,664678.0,8,30,0.75,402817.0,0.63925,286312.375,Acquisition/Demolition,50 - 99%,Single Family,12
+25306,472900.0,5,31,0.75,622925.4,0.7156,410508.6,Acquisition/Demolition,50 - 99%,Single Family,6
+25309,396550.0,6,66,0.75,807850.1666666666,0.16666666666666666,17787.5,Acquisition/Demolition,50 - 99%,Single Family,12
+25311,132000.0,1,3,0.75,222252.0,1.208,268573.0,Acquisition/Demolition,0 - 49%,Single Family,12
+25312,966126.0,14,68,0.75,386518.1642857143,3.2446428571428574,792183.6428571428,Acquisition/Demolition,50 - 99%,Single Family,6
+25313,518000.0,15,124,0.75,704386.7,5.201700000000001,3651869.8,Acquisition/Demolition,50 - 99%,Single Family,18
+25314,523200.0,9,108,0.75,929421.3333333334,0.4603333333333334,241909.55555555556,Acquisition/Demolition,50 - 99%,Single Family,19
+25315,118400.0,2,19,0.75,719790.5,0.523,165840.5,Acquisition/Demolition,50 - 99%,Single Family,6
+25320,694877.0,6,21,0.75,554448.5,1.76,398470.5,Acquisition/Demolition,50 - 99%,Single Family,6
+25419,1015000.0,21,396,0.75,1220208.0,1.22,1995173.0,Acquisition/Demolition,0 - 49%,Vacant Land,18
+25504,397000.0,3,9,0.75,439759.7,3.609,2295540.0,Acquisition/Demolition,0 - 49%,Single Family,29
+25508,286000.0,3,33,0.75,769143.3333333334,2.0260000000000002,1998720.6666666667,Acquisition/Demolition,50 - 99%,Single Family,6
+25510,99000.0,1,1,0.75,106025.0,1.634,272955.0,Acquisition/Demolition,0 - 49%,Single Family,24
+25512,62300.0,1,1,0.75,76752.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,6
+25526,174800.0,2,3,0.75,75405.5,1.8285,276721.5,Acquisition/Demolition,50 - 99%,Single Family,21
+25541,527878.0,7,56,0.75,698450.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+25545,55600.0,1,8,0.75,698450.0,0.0,0.0,Acquisition/Demolition,0 - 49%,Single Family,29
+25601,354272.0,10,113,0.71625,846173.875,6.712125,6823444.125,Acquisition/Demolition,50 - 99%,Single Family,6
+25621,68224.0,1,6,0.75,567939.0,1.097,860848.0,Acquisition/Demolition,100%,Single Family,6
+25637,767772.0,24,183,0.7292307692307692,1033954.2307692308,9.369384615384616,9987028.461538462,Acquisition/Demolition,50 - 99%,Single Family,6
+25646,683500.0,8,90,0.75,805885.0625,3.9035,3225860.625,Acquisition/Demolition,50 - 99%,Single Family,6
+25647,12000.0,1,14,0.75,545668.0,1.0,879051.0,Acquisition/Demolition,50 - 99%,Single Family,6
+25653,7500.0,3,14,0.75,545668.0,1.0,879051.0,Acquisition/Demolition,50 - 99%,Single Family,6
+25670,72000.0,1,5,0.75,155645.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,6
+25672,32732.0,1,6,0.75,176141.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,6
+25676,72000.0,1,5,0.75,155645.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,6
+25678,62792.0,2,12,0.75,176141.0,0.0,0.0,Acquisition/Demolition,100%,Manufactured Home,6
+25701,345450.0,3,9,0.75,351470.0,1.041,400898.0,Acquisition/Demolition,0 - 49%,Single Family,19
+25704,316000.0,3,9,0.75,383386.19,2.256,828000.0,Acquisition/Demolition,0 - 49%,Single Family,18
+25801,305000.0,3,14,0.75,444156.87000000005,3.099,2392000.0,Acquisition/Demolition,0 - 49%,Vacant Land,18
+25810,25200.0,1,22,0.75,1236820.0,1.425,2128888.0,Acquisition/Demolition,50 - 99%,Single Family,6
+25813,60500.0,3,30,0.75,619376.58,4.202,3312000.0,Acquisition/Demolition,0 - 49%,Single Family,24
+25826,39200.0,1,22,0.75,1236820.0,1.425,2128888.0,Acquisition/Demolition,50 - 99%,Single Family,12
+25827,29000.0,1,6,0.75,419033.09,3.741,2760000.0,Acquisition/Demolition,0 - 49%,Single Family,18
+25832,89000.0,1,4,0.75,456718.76,2.778,2208000.0,Acquisition/Demolition,0 - 49%,Manufactured Home,19
+25836,21150.0,1,9,0.75,261292.0,1.417,744698.0,Acquisition/Demolition,50 - 99%,Single Family,24
+25839,464498.0,5,50,0.75,619376.58,4.202,3312000.0,Acquisition/Demolition,0 - 49%,Single Family,6
+25840,127860.0,4,112,0.75,994627.0,1.951,2497384.0,Acquisition/Demolition,100%,Single Family,21
+25845,56700.0,1,22,0.75,1236820.0,1.425,2128888.0,Acquisition/Demolition,50 - 99%,Single Family,6
+25846,62491.0,3,60,0.75,717136.3333333334,1.6553333333333333,1793179.6666666667,Acquisition/Demolition,100%,Single Family,29
+25868,2.0,2,70,0.75,1272289.0,5.5920000000000005,7936056.0,Acquisition/Demolition,50 - 99%,Single Family,21
+25879,196560.0,10,280,0.75,994627.0,1.951,2497384.0,Acquisition/Demolition,50 - 99%,Single Family,6
+25880,251520.0,5,94,0.75,771926.5700000001,2.4744,2492030.4,Acquisition/Demolition,50 - 99%,Single Family,29
+25882,1364605.0,20,287,0.75,937786.45,6.7966,4981727.15,Acquisition/Demolition,50 - 99%,Single Family,6
+25904,35370.0,1,28,0.75,994627.0,1.951,2497384.0,Acquisition/Demolition,50 - 99%,Single Family,24
+25917,138380.0,4,88,0.75,786509.0,1.72925,1969230.75,Acquisition/Demolition,50 - 99%,Single Family,29
+25920,102000.0,1,6,0.75,419033.09,3.741,2760000.0,Acquisition/Demolition,0 - 49%,Single Family,6
+25936,30270.0,1,28,0.75,994627.0,1.951,2497384.0,Acquisition/Demolition,100%,Single Family,6
+25958,449409.0,11,79,0.75,376981.0909090909,1.674090909090909,688622.0909090909,Acquisition/Demolition,50 - 99%,Single Family,29
+25962,432000.0,5,22,0.75,464713.2,0.0,0.0,Acquisition/Demolition,0 - 49%,Single Family,6
+25972,40000.0,1,12,0.75,654129.0,0.793,420245.0,Acquisition/Demolition,100%,Single Family,29
+25984,392377.0,10,87,0.75,435171.4,0.5064,257348.2,Acquisition/Demolition,50 - 99%,Single Family,24
+26003,29000.0,1,1,0.75,52241.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,12
+26031,42000.0,1,3,0.75,142573.0,1.541,380093.0,Acquisition/Demolition,0 - 49%,Single Family,12
+26041,64500.0,2,6,0.75,142573.0,1.541,380093.0,Acquisition/Demolition,0 - 49%,Single Family,29
+26059,19006.0,2,8,0.75,32517.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,29
+26062,424553.0,9,41,0.75,253923.55555555556,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,9
+26070,306115.0,11,45,0.75,350374.28571428574,0.8949999999999999,514810.0,Acquisition/Demolition,0 - 49%,Single Family,12
+26101,290094.0,3,9,0.75,324646.0,1.2970000000000002,421118.0,Acquisition/Demolition,0 - 49%,Single Family,18
+26104,2140222.0,12,61,0.75,846312.8181818182,0.8599999999999999,1245793.8181818181,Acquisition/Demolition,0 - 49%,Single Family,18
+26149,59532.0,1,2,0.75,119064.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,29
+26155,679039.0,10,92,0.75,566428.4,3.285,1656432.2,Acquisition/Demolition,50 - 99%,Single Family,12
+26164,1.0,1,6,0.5,214201.0,1.365,292336.0,Acquisition/Demolition,100%,Single Family,6
+26261,247897.0,6,20,0.75,256050.0,1.5735000000000001,881216.0,Acquisition/Demolition,0 - 49%,Single Family,29
+26287,589954.0,3,15,0.75,589953.0,1.0,700000.0,Elevation,0 - 49%,Single Family,29
+26301,359034.0,6,24,0.75,247487.5,1.064,357481.0,Acquisition/Demolition,50 - 99%,Single Family,18
+26330,372000.0,3,9,0.75,432000.0,2.4330000000000003,1024004.0,Acquisition/Demolition,0 - 49%,Vacant Land,18
+26386,21240.0,1,3,0.75,123130.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+26419,59532.0,1,2,0.75,119064.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,6
+26431,176000.0,5,40,0.75,363052.0,3.4270000000000005,1518215.0,Acquisition/Demolition,100%,Single Family,29
+26438,60000.0,1,3,0.75,120300.0,1.072,195290.0,Acquisition/Demolition,0 - 49%,Single Family,25
+26448,215637.0,4,12,0.75,165940.0,2.2780000000000005,575481.25,Acquisition/Demolition,50 - 99%,Single Family,6
+26451,41700.0,2,6,0.75,123130.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,16
+26501,16257.0,2,158,0.75,2056196.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Manufactured Home,18
+26534,1555000.0,1,1,0.75,170279.0,4.739,816579.0,Acquisition/Demolition,0 - 49%,2-4 Family,12
+26554,435062.0,7,27,0.75,245744.92285714284,1.5408571428571427,623282.2857142857,Acquisition/Demolition,50 - 99%,Single Family,18
+26582,162200.0,3,27,0.75,404417.46,3.8959999999999995,2484000.0,Acquisition/Demolition,0 - 49%,Single Family,6
+26591,96000.0,2,18,0.75,404417.46,3.896,2484000.0,Acquisition/Demolition,0 - 49%,Single Family,29
+26680,45200.0,1,1,0.75,59791.82,3.636,276000.0,Acquisition/Demolition,0 - 49%,Single Family,24
+26764,240000.0,1,1,0.75,260468.0,1.01,276000.0,Acquisition/Demolition,0 - 49%,Single Family,0
+27517,554000.0,2,8,0.75,891663.0,1.01,1104000.0,Acquisition/Demolition,50 - 99%,Single Family,23
+27530,7497117.0,130,8211,0.75,3316599.3119266056,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,23
+27534,199667.0,2,150,0.75,3350694.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+27569,75000.0,2,150,0.75,3350694.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,23
+27597,35391.0,1,1,0.75,47189.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,23
+27604,754000.0,4,32,0.75,2072400.0,1.199,2484000.0,Acquisition/Demolition,50 - 99%,Single Family,3
+27608,870000.0,2,16,0.75,2072400.0,1.199,2484000.0,Acquisition/Demolition,50 - 99%,Single Family,3
+27609,243000.0,1,8,0.75,2072400.0,1.199,2484000.0,Acquisition/Demolition,50 - 99%,Single Family,19
+27801,3327151.0,42,6071,0.75,14363290.02631579,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,23
+27803,8262869.0,81,10295,0.75,15141745.967213115,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+27804,3322266.0,13,1621,0.75,11323640.076923076,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+27805,130000.0,1,66,0.75,3651006.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,23
+27810,633675.0,13,181,0.75,944670.4615384615,4.866615384615385,5424724.846153846,Elevation,0 - 49%,Single Family,6
+27816,41700.0,1,23,0.75,1193975.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,23
+27824,1076675.0,12,300,0.75,1639392.1666666667,6.612333333333333,18352923.833333332,Elevation,50 - 99%,Single Family,6
+27828,63382.0,1,27,0.75,1513843.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Manufactured Home,23
+27834,4007411.0,51,8651,0.75,9591691.586956521,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,21
+27855,98200.0,1,27,0.75,1761594.0,6.545,19395830.0,Elevation,0 - 49%,Single Family,23
+27856,203000.0,2,4,0.75,203000.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,23
+27858,193107.0,2,105,0.75,2006536.46,0.5635,488804.5,Acquisition/Demolition,50 - 99%,Single Family,3
+27870,125000.0,20,138,0.75,342205.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+27875,965025.0,14,198,0.75,1074014.9976923077,3.1554615384615383,7370563.076923077,Mitigation Reconstruction,0 - 49%,Single Family,6
+27885,725514.0,12,276,0.75,1517190.3333333333,6.679666666666667,17310017.666666668,Elevation,50 - 99%,Single Family,6
+27886,863885.0,23,320,0.7727272727272727,457488.9090909091,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,0
+27888,18179.0,1,5,1.0,86393.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,23
+27889,738819.0,17,192,0.8166666666666667,652871.6,0.8271333333333334,801745.5333333333,Wind Retrofit,50 - 99%,Single Family,29
+27893,4399808.0,76,7442,0.75,4609607.375,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+27896,42000.0,1,28,0.75,1364948.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+27910,431500.0,3,198,0.75,3651006.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,23
+27915,1133005.0,8,96,0.75,1418534.5,3.5850000000000004,7724257.0,Elevation,0 - 49%,Single Family,6
+27924,43126.0,1,8,0.75,225882.0,0.0,0.0,Acquisition/Relocation,50 - 99%,Single Family,21
+27932,526825.0,4,4,0.75,146817.1925,2.9924999999999997,738984.0,Elevation,50 - 99%,Single Family,21
+27943,288073.0,3,48,0.75,2205580.0,4.4670000000000005,13702117.0,Elevation,0 - 49%,Single Family,6
+27944,74760.0,1,8,0.75,631489.0,2.7030000000000003,1746397.0,Elevation,0 - 49%,Single Family,29
+27953,205149.0,1,16,0.75,2205580.0,4.4670000000000005,13702117.0,Elevation,0 - 49%,Single Family,6
+27954,380509.0,3,40,0.75,1680883.0,3.879,9716877.0,Elevation,0 - 49%,Single Family,6
+27968,116954.0,1,16,0.75,2205580.0,4.4670000000000005,13702117.0,Elevation,0 - 49%,Single Family,6
+27970,61310.0,1,6,0.75,94528.94,1.527,1151000.0,Acquisition/Demolition,50 - 99%,Manufactured Home,29
+27981,515862.0,5,80,0.75,2205580.0,4.4670000000000005,13702117.0,Elevation,0 - 49%,Single Family,6
+27983,171555.0,5,58,0.85,271505.2,0.0,0.0,Acquisition/Relocation,50 - 99%,Single Family,21
+28081,2700000.0,1,1,0.75,2819490.0,1.981,5584907.0,Acquisition of Vacant Land,0 - 49%,Other (Specify in Comments),3
+28202,305000.0,1,2,0.75,383523.0,1.512,1095821.0,Acquisition/Demolition,0 - 49%,Single Family,25
+28208,142782.0,3,6,0.75,186363.0,0.504,365273.6666666667,Acquisition/Demolition,0 - 49%,Single Family,3
+28215,579436.0,2,2,0.735,355039.005,12.964000000000002,3796186.5,Acquisition/Demolition,0 - 49%,Single Family,3
+28333,237540.0,10,725,0.75,3534972.888888889,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,23
+28350,10750.0,1,30,0.75,452595.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Manufactured Home,23
+28409,200000.0,1,5,0.75,397207.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,18
+28425,998500.0,15,132,0.762,631853.4,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,18
+28428,140000.0,1,5,0.75,621825.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,12
+28457,143000.0,1,10,0.77,784307.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,21
+28466,71408.0,1,1,0.75,69328.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,21
+28469,236053.0,1,1,0.75,314737.0,1.103,352553.0,Acquisition/Relocation,0 - 49%,Other (Specify in Comments),6
+28472,160900.0,4,24,1.0,234147.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,21
+28501,2982709.0,138,10862,0.7772727272727272,3263795.0636363635,0.0,0.0,Acquisition/Demolition,50 - 99%,Vacant Land,21
+28510,90332.0,2,58,0.75,5179032.92,1.415,10500000.0,Elevation,0 - 49%,Single Family,29
+28513,190929.0,2,54,0.75,1513843.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,23
+28515,472996.0,15,184,0.75,3297619.752,4.6522,9934755.2,Elevation,50 - 99%,Single Family,6
+28516,355200.0,3,9,0.75,523851.0,2.317,6696919.0,Elevation,0 - 49%,Single Family,6
+28518,37694.0,1,2,0.75,147104.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,21
+28521,105561.0,1,2,0.75,147104.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,21
+28530,1023206.0,35,917,0.7741935483870968,689494.4735483871,0.14541935483870969,126143.09677419355,Acquisition/Relocation,50 - 99%,Single Family,21
+28537,499953.0,7,176,0.75,2747273.568,3.3717999999999995,8360182.4,Elevation,50 - 99%,Single Family,6
+28540,34441.0,1,1,0.75,38589.0,0.0,0.0,Acquisition/Demolition,0 - 49%,Single Family,23
+28552,244087.0,11,69,0.75,1512718.73,4.07325,5216434.0,Elevation,50 - 99%,Single Family,6
+28553,55404.0,1,1,0.75,55404.0,0.968,53627.0,Elevation,0 - 49%,Single Family,6
+28556,296996.0,6,179,0.75,4003149.69,3.43825,10146722.0,Elevation,50 - 99%,Single Family,6
+28560,175697.0,1,2,0.75,424683.0,2.161,1260069.0,Acquisition of Vacant Land,0 - 49%,Multi-Family Dwelling - 5 or More Units,6
+28562,10275601.0,15,59,0.75,1053456.0,0.54025,315017.25,Acquisition/Demolition,50 - 99%,Single Family,18
+28571,180664.0,4,116,0.75,5179032.92,1.415,10500000.0,Elevation,0 - 49%,Single Family,6
+28573,71336.0,1,1,0.75,71336.0,1.164,261281.0,Acquisition/Demolition,0 - 49%,Single Family,21
+28575,42888.0,1,1,0.75,42888.0,2.257,112522.0,Elevation,0 - 49%,Single Family,12
+28578,391257.0,10,278,0.75,959210.0,0.0,0.0,Acquisition/Relocation,50 - 99%,Single Family,21
+28581,127469.0,1,2,0.75,339917.0,6.152,5383082.0,Elevation,50 - 99%,Single Family,6
+28586,116261.0,2,38,0.75,1263047.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,21
+28587,180664.0,4,116,0.75,5179032.92,1.415,10500000.0,Elevation,0 - 49%,Single Family,6
+28601,27944.0,2,158,0.75,2056196.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Manufactured Home,19
+28607,220000.0,1,1,0.75,246116.0,1.279,276000.0,Acquisition/Demolition,0 - 49%,Single Family,24
+28610,311667.0,1,3,0.75,752617.0,1.365,1279000.0,Acquisition/Demolition,50 - 99%,2-4 Family,3
+28611,61066.0,1,1,0.75,76809.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,24
+28650,63000.0,1,3,0.75,752617.0,1.365,1279000.0,Acquisition/Demolition,100%,Manufactured Home,3
+28652,165127.0,1,9,0.75,1098023.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,6
+28657,932894.0,8,72,0.75,1098023.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,24
+28658,210167.0,1,3,0.75,752617.0,1.365,1279000.0,Acquisition/Demolition,50 - 99%,2-4 Family,3
+28715,530500.0,6,60,0.75,1034435.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,19
+28716,1276882.0,23,417,0.75,1281859.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,24
+28721,2038611.0,14,252,0.75,1611424.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,24
+28742,39700.0,2,12,1.0,234147.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,14
+28753,111000.0,1,10,0.75,1034435.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Manufactured Home,24
+28777,109365.0,1,1,0.75,202465.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Manufactured Home,24
+28778,792384.0,4,22,0.75,729584.75,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,24
+28805,147500.0,1,10,0.75,1034435.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,19
+29150,85308.0,3,12,0.75,578356.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+29205,278000.0,1,1,0.75,345389.5,0.0,0.0,Acquisition/Demolition,50 - 99%,Non-residential - Private,16
+29209,1458000.0,8,80,0.75,2060333.16,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+29526,1749416.0,11,186,0.75,1431375.3636363635,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,18
+30014,147970.0,2,4,0.75,147970.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,23
+30043,431500.0,2,22,0.75,1414953.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,3
+30044,307115.0,5,55,0.75,1414953.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,19
+30047,2209388.0,4,34,0.75,1108180.0,17.557000000000002,3665046.0,Acquisition/Demolition,50 - 99%,Single Family,19
+30067,209100.0,1,12,0.75,2420569.0,2.093,7322924.0,Acquisition/Demolition,0 - 49%,Single Family,19
+30096,101000.0,1,11,0.75,1414953.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,19
+30106,678431.0,7,84,0.75,915439.0,0.0,0.0,Acquisition/Relocation,50 - 99%,Single Family,19
+30122,91805.0,1,1,0.75,105355.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,19
+30127,2766921.0,15,160,0.7433333333333334,1043772.3333333334,0.0,0.0,Acquisition/Relocation,50 - 99%,Single Family,3
+30134,729404.0,5,19,0.75,524979.4,1.9540000000000002,1058522.8,Acquisition/Demolition,0 - 49%,Single Family,3
+30135,321482.0,2,10,0.75,747981.0,0.0,0.0,Acquisition/Demolition,0 - 49%,Single Family,3
+30144,186140.0,1,12,0.75,2420569.0,2.093,7322924.0,Acquisition/Demolition,0 - 49%,Single Family,3
+30152,229170.0,1,12,0.75,2420569.0,2.093,7322924.0,Acquisition/Demolition,0 - 49%,Single Family,3
+30168,628401.0,13,169,0.75,682294.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,3
+30188,450000.0,1,1,0.75,540166.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Multi-Family Dwelling - 5 or More Units,3
+30305,2195183.0,6,108,0.75,5996394.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,19
+30309,972589.0,7,126,0.75,5996394.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,3
+30315,70666.0,1,18,0.75,5996394.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,3
+30327,1694411.0,5,83,0.75,5693078.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,19
+30328,911091.0,2,22,0.75,4479814.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,19
+30331,40606.0,1,1,0.75,54142.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,3
+30342,2698964.0,8,88,0.75,4479814.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,19
+30606,976565.0,6,36,0.75,976565.0,7.863,10388991.0,Acquisition/Demolition,0 - 49%,Single Family,3
+30753,726214.0,54,1350,0.75,1458067.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,21
+30904,67844.0,3,90,0.75,1475865.0,1.4340000000000002,897835.0,Acquisition/Demolition,50 - 99%,Single Family,3
+30906,150.0,1,30,0.75,1475865.0,1.4340000000000002,897835.0,Acquisition/Demolition,0 - 49%,Single Family,19
+30907,496080.0,8,240,0.75,1475865.0,1.4340000000000002,897835.0,Acquisition/Demolition,50 - 99%,Single Family,19
+30909,137150.0,2,60,0.75,1475865.0,1.4340000000000002,897835.0,Acquisition/Demolition,50 - 99%,Single Family,19
+31404,227872.0,3,23,0.75,764775.0,1.3310000000000002,1546764.6666666667,Acquisition/Demolition,0 - 49%,Single Family,18
+31405,150000.0,2,20,0.75,1239254.0,1.1705,2470319.5,Acquisition/Demolition,0 - 49%,Single Family,19
+31406,1114000.0,12,141,0.75,1103789.1666666667,1.4885833333333334,2027374.5833333333,Acquisition/Demolition,0 - 49%,Single Family,18
+31415,226003.0,2,14,0.75,686817.0,1.4605000000000001,1399896.5,Acquisition/Demolition,0 - 49%,Single Family,19
+31419,667618.0,7,77,0.7485714285714286,1000314.8571428572,1.896857142857143,1720687.5714285714,Acquisition/Demolition,0 - 49%,Single Family,19
+31701,49911.0,1,12,0.75,319215.0,0.0,0.0,Acquisition/Demolition,0 - 49%,Single Family,18
+31705,230200.0,3,36,0.75,319215.0,0.0,0.0,Acquisition/Demolition,0 - 49%,Single Family,21
+31763,619623.0,5,135,0.75,2935526.0,1.6220000000000003,4762611.0,Acquisition/Demolition,0 - 49%,Single Family,21
+32063,43615.0,1,7,0.75,247159.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,23
+32068,152606.0,2,2,0.75,101737.5,1.6835,117860.0,Elevation,0 - 49%,Single Family,0
+32082,385576.0,2,2,0.75,257050.5,1.3010000000000002,411115.5,Wind Retrofit,0 - 49%,Non-residential - Public,6
+32132,213777.0,2,4,0.75,213777.0,1.544,340636.0,Acquisition/Demolition,0 - 49%,Single Family,18
+32168,82500.0,1,1,0.75,110000.0,1.059,116451.0,Acquisition/Demolition,0 - 49%,Single Family,29
+32207,231150.0,1,1,0.77,197948.0,1.5590000000000002,360261.0,Acquisition/Demolition,0 - 49%,Single Family,18
+32301,437198.0,6,39,0.75,383206.6666666667,1.3155,1775418.3333333333,Acquisition/Demolition,0 - 49%,Single Family,18
+32303,2336752.0,3,42,0.75,498975.0,2.7880000000000003,7917430.0,Acquisition/Demolition,0 - 49%,Single Family,16
+32321,112405.0,3,9,0.75,105676.0,1.058,253584.0,Acquisition/Demolition,100%,Single Family,21
+32332,66264.0,1,1,0.75,88352.0,1.011,100438.0,Wind Retrofit,0 - 49%,Non-residential - Public,16
+32333,222485.0,1,1,0.75,221622.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,0
+32355,16724.0,1,5,0.75,111490.0,2.226,248181.0,Elevation,100%,Other (Specify in Comments),6
+32401,110210.0,1,1,0.75,146947.0,2.3240000000000003,502100.0,Wind Retrofit,0 - 49%,Non-residential - Public,18
+32405,549903.0,3,3,0.75,201319.66666666666,1.713,318061.6666666667,Acquisition/Demolition,0 - 49%,Single Family,18
+32425,193341.0,4,28,0.75,247159.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,21
+32455,131494.0,1,1,0.75,131494.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Non-residential - Public,21
+32462,51964.0,1,1,0.75,69286.0,2.1060000000000003,157457.0,Wind Retrofit,0 - 49%,Non-residential - Public,29
+32464,52437.0,1,7,0.75,247159.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,21
+32506,5768.0,1,249,0.75,1940427.0,1.1760000000000002,7372196.0,Wind Retrofit,0 - 49%,Single Family,18
+32507,118077.0,1,1,0.75,157436.0,1.197,188410.0,Elevation,50 - 99%,Single Family,18
+32541,53480.0,1,1,0.75,71307.0,2.451,174804.0,Floodproofed,0 - 49%,Non-residential - Public,18
+32569,192124.0,1,1,0.75,256165.0,1.1860000000000002,303936.0,Elevation,50 - 99%,Single Family,18
+32571,49982.0,1,7,0.75,247159.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,18
+32724,162429.0,1,1,0.75,162429.0,1.0510000000000002,170758.0,Acquisition/Demolition,0 - 49%,Single Family,18
+32738,238329.0,1,1,0.75,317772.0,1.339,425536.0,Acquisition/Demolition,0 - 49%,Single Family,16
+33033,92348.0,1,202,0.75,462641.0,16.549,26478.0,Acquisition/Demolition,50 - 99%,Single Family,12
+33040,145054.0,1,1,0.75,145054.0,0.994,258450.0,Elevation,0 - 49%,Single Family,12
+33125,55634.0,1,202,0.75,462641.0,16.549,26478.0,Acquisition/Demolition,50 - 99%,Single Family,12
+33541,278053.0,3,3,0.75,161491.66666666666,3.9023333333333334,627997.6666666666,Acquisition/Demolition,0 - 49%,Single Family,0
+33543,296603.0,1,1,0.75,395470.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+33570,130669.0,1,1,0.75,174225.0,0.614,108111.0,Elevation,0 - 49%,Single Family,12
+33813,49987.0,1,1,0.75,66650.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,25
+33830,134983.0,13,36,0.75,877384.0,12.354,10839037.0,Acquisition/Demolition,0 - 49%,Single Family,0
+33898,62002.0,1,1,0.75,82668.0,3.1710000000000003,262181.0,Acquisition/Demolition,0 - 49%,Single Family,29
+33982,80120.0,1,1,0.75,106826.0,1.1760000000000002,129452.0,Acquisition/Demolition,0 - 49%,Single Family,6
+34242,280329.0,1,1,0.75,373771.0,2.148,624862.0,Elevation,0 - 49%,Single Family,12
+34601,220097.0,1,1,0.75,293463.0,7.414000000000001,2175619.0,Acquisition/Demolition,0 - 49%,Single Family,0
+34602,60093.0,1,1,0.75,60094.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,18
+34604,212655.0,1,1,0.75,283540.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,18
+34606,38919.0,1,1,0.75,38919.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+34654,150734.0,1,1,0.75,200979.0,5.865,1178648.0,Acquisition/Demolition,0 - 49%,Single Family,16
+34667,83572.0,3,3,0.75,37112.666666666664,2.499,233522.33333333334,Acquisition/Relocation,0 - 49%,Manufactured Home,12
+34690,150287.0,1,1,0.75,200383.0,1.093,227545.0,Acquisition/Demolition,0 - 49%,Single Family,18
+35036,2148125.0,36,482,0.7176923076923077,1179352.3846153845,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,6
+35042,2693.0,1,16,0.73,65054.0,1.371,21420.0,Safe Room/Wind Shelter,100%,Single Family,14
+35049,4000.0,1,22,0.69,121208.0,1.371,21420.0,Safe Room/Wind Shelter,100%,Single Family,14
+35068,862100.0,11,105,0.75,720587.3636363636,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,19
+35073,56000.0,1,21,0.68,1475649.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,21
+35077,8000.0,2,43,0.71,113959.0,1.371,21420.0,Safe Room/Wind Shelter,100%,Single Family,14
+35098,3961.0,1,20,0.73,109594.0,1.371,21420.0,Safe Room/Wind Shelter,100%,Single Family,14
+35121,4000.0,2,22,0.69,121208.0,1.371,21420.0,Safe Room/Wind Shelter,100%,Single Family,14
+35127,9361.0,2,32,0.675,77542.5,1.371,21420.0,Safe Room/Wind Shelter,100%,Single Family,3
+35179,4000.0,1,25,0.71,126172.0,1.371,21420.0,Safe Room/Wind Shelter,100%,Single Family,23
+35206,1360695.0,29,832,0.75,2259181.0,0.0,0.0,Acquisition/Demolition,0 - 49%,Vacant Land,19
+35214,1171528.0,17,204,0.7372727272727272,1072145.7272727273,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,19
+35215,601699.0,1,1,0.75,802265.0,1.127,908221.0,Acquisition/Demolition,50 - 99%,Non-residential - Public,19
+35217,755810.0,19,175,0.7461111111111111,481925.22222222225,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,19
+35401,1571745.0,16,255,0.94,2072959.0,1.51,3888158.0,Acquisition/Demolition,50 - 99%,Single Family,19
+35405,3971.0,1,22,0.7,70206.0,1.371,21420.0,Safe Room/Wind Shelter,100%,Single Family,19
+35459,2438.0,1,12,0.7,32711.0,1.371,21420.0,Safe Room/Wind Shelter,100%,Single Family,21
+35504,4000.0,1,18,0.68,95406.0,1.371,21420.0,Safe Room/Wind Shelter,100%,Manufactured Home,14
+35549,6000.0,1,13,0.68,70218.0,1.371,21420.0,Safe Room/Wind Shelter,100%,Single Family,21
+35550,62000.0,1,21,0.68,1475649.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Manufactured Home,24
+35563,2726.0,1,20,0.71,95281.0,1.371,21420.0,Safe Room/Wind Shelter,100%,Single Family,14
+35570,4500.0,1,18,0.71,85219.0,1.371,21420.0,Safe Room/Wind Shelter,100%,Single Family,14
+35622,4000.0,1,20,0.73,109594.0,1.371,21420.0,Safe Room/Wind Shelter,100%,Single Family,14
+35740,30646.0,1,1,0.75,38900.0,3.39,131884.0,Acquisition/Demolition,0 - 49%,Single Family,14
+35749,4000.0,1,22,0.66,133502.0,1.371,21420.0,Safe Room/Wind Shelter,100%,Single Family,19
+35758,3937.0,1,22,0.65,134071.0,1.371,21420.0,Safe Room/Wind Shelter,100%,Single Family,3
+35768,29132.0,1,14,0.75,543798.0,3.754,2551910.0,Acquisition/Demolition,50 - 99%,Single Family,24
+35801,2940017.0,1,1,0.75,2450000.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Non-residential - Private,19
+35824,4000.0,1,22,0.65,134071.0,1.371,21420.0,Safe Room/Wind Shelter,100%,Single Family,19
+35952,3491.0,1,22,0.69,121208.0,1.371,21420.0,Safe Room/Wind Shelter,100%,Single Family,21
+35979,3563.0,1,7,0.67,43303.0,1.371,21420.0,Safe Room/Wind Shelter,100%,Single Family,23
+35986,11600.0,3,13,0.6699999999999999,24495.666666666668,1.3709999999999998,21420.0,Safe Room/Wind Shelter,100%,Single Family,23
+36037,157750.0,3,9,0.75,177588.0,1.554,289645.0,Acquisition/Demolition,0 - 49%,Single Family,21
+36066,248625.0,2,6,0.75,385611.0,1.074,385451.0,Acquisition/Demolition,0 - 49%,Single Family,3
+36067,275410.0,4,10,0.75,216479.25,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,21
+36092,4000.0,1,42,0.66,250314.0,1.371,21420.0,Safe Room/Wind Shelter,100%,Single Family,21
+36105,116150.0,2,14,0.75,530263.0,1.065,974372.0,Acquisition/Demolition,0 - 49%,Single Family,23
+36108,362692.0,4,28,0.75,530263.0,1.065,974372.0,Acquisition/Demolition,0 - 49%,Single Family,21
+36201,110000.0,2,6,0.75,156915.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,24
+36318,43800.0,1,1,0.75,50600.0,1.64,129693.0,Acquisition/Demolition,0 - 49%,Single Family,0
+36340,53520.0,1,1,0.75,59292.0,1.515,91536.0,Acquisition/Demolition,0 - 49%,Non-residential - Private,21
+36509,310091.0,1,1,0.48,645597.0,1.749,723262.0,Acquisition/Demolition,0 - 49%,Non-residential - Public,6
+36526,101557.0,1,1,0.75,135409.0,1.359,487221.0,Acquisition/Demolition,50 - 99%,Single Family,16
+36528,3344969.0,4,10,0.7975,140504.5,1.073,200583.75,Elevation,50 - 99%,Single Family,6
+36532,37223.0,1,1,0.75,49630.0,3.224,160000.0,Elevation,0 - 49%,Single Family,18
+36535,113876.0,2,2,0.75,65318.0,6.0920000000000005,450008.0,Elevation,0 - 49%,Single Family,18
+36580,58526.0,1,1,0.75,78035.0,1.32,103006.0,Elevation,50 - 99%,Single Family,18
+36603,101747.0,6,144,0.75,161438.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,12
+36610,16800.0,1,24,0.75,161438.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,18
+36701,136000.0,2,4,0.75,166034.0,1.483,264947.0,Acquisition/Demolition,0 - 49%,Single Family,24
+36860,124239.0,11,22,0.75,911086.0,1.025,937922.0,Acquisition/Demolition,0 - 49%,Single Family,21
+37013,808279.0,12,876,0.75,12778697.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,28
+37027,1140000.0,2,4,0.75,795470.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,28
+37030,664446.0,14,101,0.75,288232.0,6.076428571428571,3707506.0714285714,Acquisition/Demolition,50 - 99%,Vacant Land,24
+37040,162540.0,1,4,0.74,499776.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,28
+37042,152635.0,1,4,0.74,499776.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,28
+37043,184603.0,2,8,0.74,499776.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,28
+37061,568408.0,12,106,0.75,519597.4075,2.676,2037837.75,Acquisition/Demolition,50 - 99%,Single Family,5
+37064,1138504.0,8,34,0.75,510869.75,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,28
+37066,872648.0,17,391,0.75,933666.0,1.008,1008224.0,Acquisition/Demolition,50 - 99%,Manufactured Home,19
+37069,675859.0,3,9,0.75,675859.0,1.074,801981.0,Acquisition/Demolition,50 - 99%,Single Family,19
+37072,658741.0,5,8,0.75,392909.25,1.5830000000000002,426978.75,Acquisition/Demolition,50 - 99%,Single Family,1
+37075,653467.0,5,25,0.75,675832.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,19
+37082,527000.0,3,3,0.75,181393.66666666666,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,14
+37110,136000.0,1,1,0.75,19000.0,1.291,183367.0,Acquisition/Demolition,50 - 99%,Single Family,14
+37115,3816792.0,48,2083,0.75,6627103.767499999,0.2735416666666667,1632274.8541666667,Acquisition/Demolition,50 - 99%,Single Family,19
+37127,89277.0,1,3,0.75,449821.0,1.007,483009.0,Acquisition/Demolition,50 - 99%,Single Family,3
+37129,162156.0,1,3,0.75,449821.0,1.007,483009.0,Acquisition/Demolition,50 - 99%,Single Family,28
+37160,70000.0,1,1,0.75,71661.0,1.191,102942.0,Acquisition/Demolition,50 - 99%,Single Family,19
+37167,198388.0,1,3,0.75,449821.0,1.007,483009.0,Acquisition/Demolition,0 - 49%,Single Family,19
+37188,81500.0,1,1,0.75,90552.0,1.618,168177.0,Acquisition/Demolition,50 - 99%,Single Family,28
+37189,821819.0,8,436,0.75,8994566.5,0.6365,5353014.0,Acquisition/Demolition,50 - 99%,Single Family,24
+37204,4496451.0,27,1567,0.75,11194467.458333334,0.2323333333333333,1645526.625,Acquisition/Demolition,50 - 99%,Vacant Land,19
+37205,223639.0,1,73,0.75,12778697.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,19
+37207,667196.0,7,289,0.75,6248710.428571428,0.9032857142857144,5834333.285714285,Acquisition/Demolition,50 - 99%,Single Family,28
+37209,5620853.0,63,4369,0.75,5663670.016393443,0.033114754098360656,197602.0,Acquisition/Demolition,50 - 99%,Single Family,19
+37210,1.0,1,73,0.75,12778697.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Manufactured Home,19
+37211,2664711.0,18,266,0.75,2207213.2352941176,4.761235294117647,5810369.470588235,Acquisition/Demolition,50 - 99%,Single Family,28
+37214,6254158.0,36,1031,0.75,5088161.068965517,1.1656206896551724,9207400.51724138,Acquisition/Demolition,50 - 99%,Vacant Land,24
+37216,829887.0,6,238,0.75,5649525.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,28
+37218,3822329.0,44,2562,0.75,4587774.5,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,24
+37219,48935.0,1,81,0.75,5800189.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,28
+37221,1.0,3,73,0.75,12778697.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,28
+37343,327500.0,2,18,0.75,802596.0,1.278,281217.0,Acquisition/Demolition,50 - 99%,Single Family,24
+37379,210000.0,1,2,0.75,211905.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,24
+37410,90000.0,2,18,0.75,802596.0,1.278,281217.0,Acquisition/Demolition,50 - 99%,Single Family,24
+37421,338000.0,3,27,0.75,802596.0,1.278,281217.0,Acquisition/Demolition,50 - 99%,Single Family,19
+37604,110000.0,1,4,0.75,672353.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,19
+37620,102800.0,2,4,0.75,121300.0,1.191,150999.0,Acquisition/Demolition,0 - 49%,Single Family,19
+37643,48000.0,1,4,0.75,62999.0,1.084,2425055.0,Acquisition/Demolition,100%,Non-residential - Private,29
+37687,479577.0,3,12,0.75,62999.0,1.084,2425055.0,Acquisition/Demolition,50 - 99%,Single Family,24
+37863,213310.0,1,1,0.75,284414.0,6.41,1819315.0,Acquisition/Demolition,0 - 49%,Single Family,24
+38012,744841.0,13,80,0.75,316949.8181818182,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,5
+38053,185000.0,1,1,0.75,209376.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,5
+38134,212196.0,2,2,0.75,124120.175,0.742,80749.5,Acquisition/Demolition,100%,Single Family,28
+38301,2929076.0,104,8944,0.75,1794247.2330097088,1.589,9005931.0,Acquisition/Demolition,50 - 99%,Vacant Land,10
+38401,2418885.0,18,188,0.75,921181.4444444445,1.2922777777777779,2011010.888888889,Acquisition/Demolition,50 - 99%,Single Family,14
+38473,189533.0,2,4,0.75,189533.0,1.689,323870.0,Acquisition/Demolition,50 - 99%,Single Family,24
+38601,15392.0,18,32172,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38606,3848.0,46,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38610,11544.0,7,24129,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38611,7696.0,20,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),5
+38614,19240.0,14,40215,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),1
+38617,3848.0,1,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),1
+38618,4232.0,30,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),5
+38619,7696.0,20,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38620,3848.0,21,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38621,7696.0,2,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),24
+38622,7696.0,5,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),25
+38623,3848.0,1,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),24
+38625,3848.0,1,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38626,42337.0,3,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),5
+38629,11544.0,7,24129,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38630,3848.0,1,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),24
+38631,3848.0,1,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),5
+38635,3848.0,47,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),5
+38639,3848.0,1,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38642,3848.0,1,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38643,3848.0,2,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38644,3848.0,1,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),10
+38645,3848.0,1,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),1
+38646,185348.0,9,8169,0.7857142857142857,3434080.8571428573,1.3397142857142856,1246218.0,Safe Room/Wind Shelter,50 - 99%,Single Family,14
+38650,5848.0,12,8655,0.875,11221735.5,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Single Family,14
+38652,15958.0,42,33396,0.9166666666666666,14170916.333333334,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Single Family,14
+38654,3848.0,3,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),10
+38655,8508.0,144,16098,0.9833333333333334,13382938.333333334,0.6206666666666667,133138.66666666666,Seismic Retrofit,50 - 99%,Other (Specify in Comments),14
+38658,15378.0,22,32172,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38659,3848.0,5,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),5
+38661,7696.0,5,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),5
+38663,11928.0,51,32172,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38665,11544.0,5,24129,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),5
+38666,7696.0,29,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38668,4232.0,10,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),10
+38670,3848.0,3,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),5
+38673,7696.0,3,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),24
+38676,15392.0,17,32172,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),5
+38677,14620.0,11,84,0.95,10259.0,1.862,399416.0,Seismic Retrofit,50 - 99%,Other (Specify in Comments),28
+38683,3500.0,2,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Single Family,14
+38685,3848.0,12,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38703,680963.0,6,36,0.75,1091214.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,1
+38767,3848.0,2,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38801,12906.0,10,24422,0.915,15476531.0,0.5,344325.5,Safe Room/Wind Shelter,50 - 99%,Single Family,19
+38804,3848.0,4,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38824,19240.0,27,40215,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38826,11928.0,16,32172,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38828,7696.0,13,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38829,3848.0,36,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38834,51868.0,9,72387,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Single Family,14
+38841,11544.0,25,24129,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38843,15392.0,22,32172,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38846,7336.0,2,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Single Family,14
+38847,15391.0,13,32172,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38849,7696.0,3,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38850,26936.0,26,56301,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38851,11544.0,49,24129,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38855,19240.0,50,40215,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38856,19240.0,14,40215,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),24
+38858,7696.0,7,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38859,3848.0,2,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),20
+38860,46174.0,17,24129,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38863,54224.0,178,48258,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38864,13040.0,14,24422,0.915,15476531.0,0.5,344325.5,Safe Room/Wind Shelter,50 - 99%,Single Family,14
+38865,6623.0,3,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Single Family,14
+38868,7696.0,2,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38869,7696.0,3,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),28
+38871,15392.0,12,32172,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38876,11544.0,6,24129,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),20
+38879,2163.0,1,293,0.66,1698290.0,2.0,1377302.0,Safe Room/Wind Shelter,100%,Single Family,19
+38901,7696.0,12,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38913,3848.0,1,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38914,3848.0,2,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),24
+38915,3848.0,1,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),24
+38920,7696.0,6,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),20
+38921,626035.0,31,24194,0.9624999999999999,5248365.583333333,0.6666666666666666,303674.6666666667,Safe Room/Wind Shelter,50 - 99%,Single Family,24
+38922,15392.0,7,32172,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38925,3848.0,4,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),24
+38927,3848.0,1,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),24
+38929,3848.0,1,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),24
+38940,11544.0,12,24129,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),24
+38948,11544.0,10,24129,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38949,7696.0,4,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38953,3848.0,1,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38957,3848.0,1,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),1
+38962,3848.0,2,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),6
+38963,7696.0,3,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),1
+38965,23088.0,24,48258,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+38966,7696.0,3,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+39039,11544.0,10,24129,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39040,7696.0,24,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39042,135219.0,4,16,0.75,389981.0,1.116,515970.0,Acquisition/Demolition,50 - 99%,Single Family,21
+39046,68000.0,1,1,0.75,68915.0,1.335,98636.0,Acquisition/Demolition,0 - 49%,Single Family,21
+39057,3848.0,3,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39092,3848.0,2,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39108,3848.0,1,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),20
+39111,7696.0,2,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39114,20000.0,1,1,0.75,27075.0,1.838,80022.0,Acquisition/Demolition,50 - 99%,Single Family,21
+39116,3848.0,2,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39117,3848.0,2,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39119,7696.0,2,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39153,3848.0,3,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39156,110057.0,3,15,0.59,241723.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+39168,7696.0,2,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39170,3848.0,1,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39179,3848.0,1,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),24
+39180,1383568.0,46,8772,0.7508333333333334,1574182.1944444445,1.8499444444444444,2974165.222222222,Safe Room/Wind Shelter,50 - 99%,Single Family,21
+39183,150079.0,4,8066,0.7324999999999999,5194283.75,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Single Family,29
+39194,11928.0,19,32172,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39209,106333.0,1,41,0.75,3375360.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,19
+39325,3848.0,1,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39327,7696.0,9,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39332,11544.0,7,24129,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39337,7696.0,3,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39338,7696.0,5,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39339,11544.0,27,24129,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39345,3848.0,10,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39346,8080.0,7,24129,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39348,3848.0,1,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39356,3848.0,1,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39365,7696.0,8,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39367,7696.0,14,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39401,2139063.0,1,1,1.0,2139063.0,1.975,6326641.0,Safe Room/Wind Shelter,50 - 99%,Non-residential - Public,18
+39402,650054.0,14,141,0.75,753609.2727272727,2.590909090909091,2360986.3636363638,Acquisition/Demolition,0 - 49%,Single Family,19
+39422,3848.0,5,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39423,7696.0,4,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),29
+39425,3848.0,1,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39428,7696.0,3,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39439,3848.0,2,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39440,341286.0,12,104,0.75,473671.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,19
+39443,3848.0,1,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39465,35000.0,1,14,0.75,812163.0,2.85,2597085.0,Acquisition/Demolition,0 - 49%,Single Family,21
+39466,275718.0,4,28,0.58,704298.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,18
+39470,83333.0,1,7,0.58,704298.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,21
+39476,7696.0,7,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Vacant Land,21
+39479,7696.0,3,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39481,3848.0,5,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39482,3848.0,1,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39501,1239455.0,3,924,0.925,22681890.5,2.507,146537376.0,Wind Retrofit,50 - 99%,Single Family,18
+39503,14598628.0,9,57,0.9499999999999998,24657477.0,2.382,61495806.0,Wind Retrofit,50 - 99%,Non-residential - Public,18
+39507,84624.0,2,1810,0.9,20706304.0,2.632,231578946.0,Wind Retrofit,50 - 99%,Single Family,12
+39520,2820370.0,12,8152,0.9208333333333334,15796092.666666666,2.085666666666667,173957595.91666666,Wind Retrofit,50 - 99%,Single Family,6
+39525,32078.0,2,4,0.95,32078.0,4.571000000000001,157540.0,Wind Retrofit,50 - 99%,Non-residential - Public,18
+39530,1225795.0,4,22,0.8,877452.75,2.101,2166900.25,Wind Retrofit,50 - 99%,Single Family,12
+39531,542243.0,7,2743,0.8142857142857143,9330100.57142857,2.189142857142857,100242328.28571428,Wind Retrofit,50 - 99%,Single Family,18
+39532,2628957.0,5,957,0.86,14187559.2,1.9520000000000004,71155538.0,Wind Retrofit,50 - 99%,Single Family,6
+39540,1244520.0,4,1829,0.9166666666666666,22023361.666666668,2.548666666666667,174884566.0,Wind Retrofit,50 - 99%,Single Family,12
+39553,94000.0,1,119,0.9,2300454.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,6
+39556,1494803.0,1,1,1.0,1494803.0,42.114,6103123.0,Safe Room/Wind Shelter,50 - 99%,Non-residential - Public,6
+39560,504158.0,25,21839,0.9,19970070.0,2.52672,222315788.16,Wind Retrofit,50 - 99%,Single Family,18
+39562,2731204.0,48,3906,0.8468749999999999,1783494.3958333333,0.07387500000000001,37722.875,Acquisition/Demolition,50 - 99%,Single Family,6
+39563,87072.0,4,3620,0.9,20706304.0,2.632,231578946.0,Wind Retrofit,50 - 99%,Single Family,6
+39564,2789391.0,18,9420,0.9117647058823529,12821010.88235294,2.2402941176470588,136730081.2352941,Wind Retrofit,50 - 99%,Single Family,6
+39567,587189.0,10,1015,0.9049999999999999,2278444.2,3.9966,23626206.3,Wind Retrofit,50 - 99%,Vacant Land,12
+39571,1643051.0,15,11785,0.8933333333333333,19601882.8,2.5199333333333334,204816688.33333334,Wind Retrofit,50 - 99%,Single Family,6
+39572,1626041.0,15,1155,1.0,1201700.0,1.001,539692.0,Acquisition/Demolition,50 - 99%,Single Family,6
+39574,1232876.0,2,19,0.95,24657477.0,2.382,61495806.0,Wind Retrofit,50 - 99%,Non-residential - Public,21
+39576,168669.0,5,3623,0.9199999999999999,16651914.0,2.1056,185263156.8,Wind Retrofit,50 - 99%,Single Family,12
+39577,7195629.0,1,1,1.0,7195629.0,1.0,5100000.0,Safe Room/Wind Shelter,50 - 99%,Non-residential - Public,21
+39581,40000.0,1,7,0.75,458269.0,1.1820000000000002,603566.0,Acquisition/Demolition,0 - 49%,Single Family,6
+39635,3848.0,1,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),0
+39641,3848.0,2,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39648,3848.0,3,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39652,7696.0,2,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39654,7696.0,12,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39663,3848.0,3,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39666,3848.0,1,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),21
+39756,3848.0,1,8043,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),24
+39759,2965.0,1,612,0.75,2374193.0,0.0,0.0,Safe Room/Wind Shelter,100%,Single Family,19
+39776,7696.0,12,16086,1.0,20069278.0,0.0,0.0,Safe Room/Wind Shelter,50 - 99%,Other (Specify in Comments),14
+39817,3649565.0,13,127,0.75,2969447.6923076925,1.6739230769230768,5016872.461538462,Acquisition/Demolition,0 - 49%,Single Family,18
+40160,197067.0,2,4,0.75,199167.0,7.471,1637358.0,Acquisition/Demolition,50 - 99%,Single Family,3
+40202,2390226.0,1,1,0.75,2390226.0,3.507,8830980.0,Floodproofed,0 - 49%,Non-residential - Private,11
+40211,1100490.0,27,1075,0.75,6673152.0,2.135,7452000.0,Acquisition/Demolition,0 - 49%,Single Family,28
+40213,1334000.0,17,502,0.75,6216504.666666667,2.0871666666666666,6440000.0,Acquisition/Demolition,0 - 49%,Single Family,19
+40219,16101.0,1,6,0.75,726827.0,1.133,243430.0,Acquisition/Demolition,0 - 49%,Single Family,19
+40313,137697.0,3,42,0.75,772519.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+40351,134000.0,2,15,0.75,423969.57,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+40383,447550.0,4,20,0.75,581825.0,1.046,647158.0,Acquisition/Demolition,50 - 99%,Single Family,1
+40391,16850.0,16,16,0.75,295700.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Manufactured Home,19
+40422,63625.0,1,12,0.75,726368.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Manufactured Home,1
+40475,267795.0,1,1,0.75,317132.0,10.477,3405070.0,Acquisition/Demolition,0 - 49%,Single Family,19
+40484,396875.0,6,63,0.75,640450.8333333334,0.18216666666666667,50929.333333333336,Acquisition/Demolition,50 - 99%,Single Family,14
+40489,304500.0,8,30,0.75,468616.5,0.5465,152788.0,Acquisition/Demolition,50 - 99%,Single Family,0
+40505,1056750.0,7,49,0.75,1034625.0,5.513,7316296.0,Acquisition/Demolition,0 - 49%,Single Family,11
+40815,411000.0,10,200,0.75,928895.0,0.0,0.0,Acquisition/Demolition,0 - 49%,Single Family,6
+40819,96000.0,3,60,0.75,928895.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,6
+40829,67500.0,1,20,0.75,928895.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,6
+40831,265000.0,6,120,0.75,928895.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,6
+41017,1043000.0,10,124,0.75,1460680.6,1.439,2322300.8,Acquisition/Demolition,0 - 49%,Single Family,11
+41041,75000.0,1,7,0.75,630630.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,21
+41049,173212.0,2,14,0.75,630630.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,0
+41051,142000.0,2,4,0.75,168970.0,13.298,2974322.0,Acquisition/Demolition,0 - 49%,Single Family,11
+41102,135000.0,1,3,0.75,399468.0,4.147,1108617.0,Acquisition/Demolition,50 - 99%,Single Family,24
+41129,57500.0,1,3,0.75,399468.0,4.147,1108617.0,Acquisition/Demolition,50 - 99%,Single Family,24
+41141,65200.0,2,36,0.75,444825.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+41179,952188.0,23,292,0.75,426393.26086956525,0.29113043478260875,42866.086956521736,Acquisition/Demolition,50 - 99%,Single Family,29
+41224,46900.0,1,2,0.75,182108.0,4.492,1180601.0,Acquisition/Demolition,0 - 49%,2-4 Family,6
+41240,119500.0,1,1,0.75,129557.0,1.073,148888.0,Acquisition/Demolition,50 - 99%,Single Family,6
+41501,1841619.0,16,375,0.75,3025621.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,6
+41712,71033.0,1,1,0.75,78402.55,25.422,2298177.0,Acquisition/Demolition,50 - 99%,Single Family,6
+42001,272491.0,5,75,0.75,654949.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,28
+42003,330341.0,5,75,0.75,654949.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,28
+42029,150000.0,1,1,0.75,243872.0,1.15,433341.0,Acquisition/Demolition,0 - 49%,Non-residential - Public,14
+42103,247766.0,1,1,0.75,247767.0,9.199,2632890.0,Acquisition/Demolition,0 - 49%,Non-residential - Public,28
+42240,3700445.0,30,819,0.75,4021093.9226666666,1.4536666666666667,6053665.3,Acquisition/Demolition,50 - 99%,Single Family,1
+42301,1211636.0,9,81,0.75,1083562.0,1.0,1126162.0,Acquisition/Demolition,0 - 49%,Single Family,1
+43062,110000.0,1,1,0.75,118598.0,1.537,182327.0,Acquisition/Demolition,50 - 99%,Single Family,8
+43146,148800.0,1,1,0.63,177500.0,1.0570000000000002,187600.0,Acquisition/Demolition,100%,Single Family,8
+43223,1279918.0,15,240,0.75,1918159.0,4.3420000000000005,12881983.0,Acquisition/Demolition,0 - 49%,Single Family,11
+43229,447500.0,3,9,0.75,490886.0,1.689,963225.0,Acquisition/Demolition,0 - 49%,Single Family,11
+43348,25260.0,2,2,0.64,49995.0,2.1470000000000002,112483.5,Acquisition/Demolition,50 - 99%,Single Family,11
+43449,89714.0,1,9,0.64,276669.0,1.606,674640.0,Elevation,0 - 49%,Single Family,29
+43452,187473.0,3,27,0.64,276669.0,1.606,674640.0,Elevation,0 - 49%,Single Family,8
+43512,1267500.0,28,756,0.75,1680683.0,0.0,0.0,Acquisition/Demolition,0 - 49%,Vacant Land,15
+43609,60400.0,5,153,0.666,763573.4,0.9714,340137.0,Acquisition/Demolition,50 - 99%,Single Family,9
+43612,233385.0,4,20,0.75,473076.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,11
+43615,72999.0,1,5,0.75,473076.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,11
+43717,207000.0,4,16,0.75,238192.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,12
+43723,325000.0,6,186,0.73,1428608.0,10.344,21144358.0,Acquisition/Demolition,0 - 49%,Single Family,18
+43724,61701.0,1,3,0.72,134319.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+43730,34000.0,1,1,0.75,46374.0,0.0,0.0,Acquisition/Demolition,0 - 49%,Single Family,29
+43733,483000.0,14,434,0.7299999999999999,1428608.0,10.344,21144358.0,Acquisition/Demolition,0 - 49%,Single Family,0
+43749,137248.0,6,186,0.73,1428608.0,10.344,21144358.0,Acquisition/Demolition,0 - 49%,Single Family,15
+43756,849395.0,22,484,0.75,854474.5454545454,1.0036363636363637,873886.7272727273,Acquisition/Demolition,50 - 99%,Single Family,29
+43772,109000.0,2,62,0.73,1428608.0,10.344,21144358.0,Acquisition/Demolition,0 - 49%,Single Family,15
+43773,89000.0,3,93,0.73,1428608.0,10.344,21144358.0,Acquisition/Demolition,0 - 49%,Single Family,15
+43779,56979.0,2,6,0.72,134319.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+43905,50800.0,1,36,0.75,1239869.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,12
+43906,956081.0,33,1152,0.75,1239869.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,12
+43914,366873.0,15,224,0.74,968419.0,1.954,3001071.0,Acquisition/Demolition,0 - 49%,Single Family,6
+43940,23000.0,1,1,0.75,31560.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,12
+43946,181815.0,1,16,0.74,968419.0,1.954,3001071.0,Acquisition/Demolition,0 - 49%,Single Family,29
+44011,160598.0,1,1,0.75,211535.03,0.0,0.0,Acquisition/Demolition,0 - 49%,Single Family,9
+44077,1894410.0,56,1130,0.7171428571428571,2552258.714285714,0.0,0.0,Acquisition/Demolition,50 - 99%,Multi-Family Dwelling - 5 or More Units,8
+44113,496000.0,4,12,0.36999999999999994,708897.0,1.206,723816.0,Acquisition/Demolition,0 - 49%,Single Family,9
+44125,447706.0,4,23,0.6924999999999999,867431.75,0.43525,625514.0,Acquisition/Demolition,0 - 49%,Single Family,9
+44133,352000.0,2,4,0.75,395503.0,1.028,439491.0,Acquisition/Demolition,0 - 49%,Single Family,11
+44212,132000.0,1,1,0.68,167006.0,2.018,308610.0,Acquisition/Demolition,0 - 49%,Single Family,11
+44215,226479.0,8,348,0.4275,865010.75,2.04375,1952642.75,Acquisition/Demolition,0 - 49%,Single Family,9
+44216,187500.0,2,4,0.75,252035.0,1.09,303532.0,Acquisition/Demolition,0 - 49%,Single Family,8
+44221,286047.0,4,20,0.75,501971.0,1.0,559856.0,Acquisition/Demolition,0 - 49%,Single Family,11
+44224,185000.0,1,1,0.75,196502.0,1.179,270592.0,Acquisition/Demolition,0 - 49%,Single Family,11
+44446,24225.0,1,1,0.75,31398.0,1.038,38829.0,Acquisition/Demolition,0 - 49%,Single Family,11
+44622,640000.0,5,30,0.75,806697.0,0.0,0.0,Acquisition/Demolition,0 - 49%,Single Family,18
+44641,352550.0,4,32,0.65,430028.0,4.636,5229253.0,Acquisition/Demolition,0 - 49%,Vacant Land,8
+44644,697174.0,12,156,0.18000000000000002,912205.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+44683,252094.0,9,99,0.55,549575.0,1.007,540536.0,Acquisition/Demolition,0 - 49%,Single Family,15
+44688,112900.0,2,4,0.75,141306.0,1.1880000000000002,431438.0,Acquisition/Demolition,0 - 49%,Single Family,29
+44691,265671.0,9,63,0.68,573822.0,10.06,8263504.0,Acquisition/Demolition,0 - 49%,Single Family,8
+44720,1845350.0,13,169,0.75,2026985.0,0.0,0.0,Acquisition/Demolition,0 - 49%,Single Family,11
+44820,661515.0,27,361,0.6023076923076924,501861.23076923075,0.6830769230769231,720477.6923076923,Acquisition/Demolition,50 - 99%,Single Family,8
+44827,5087.0,1,1,0.72,9190.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Manufactured Home,8
+44875,1709634.0,43,697,0.708048780487805,1427513.975609756,4.281512195121952,3646920.8292682925,Acquisition/Demolition,50 - 99%,Single Family,8
+45014,1751437.0,14,157,0.75,1904158.3076923077,1.3496153846153844,4924524.846153846,Acquisition/Demolition,0 - 49%,Single Family,8
+45140,100000.0,1,1,0.75,135500.0,3.2950000000000004,446509.0,Acquisition/Demolition,0 - 49%,Single Family,9
+45227,560459.0,17,299,0.38,920198.0,1.478,1550501.0,Floodproofed,0 - 49%,Single Family,9
+45238,1577538.0,16,145,0.6266666666666667,1216992.0,1.7996666666666665,2986729.6666666665,Acquisition/Demolition,0 - 49%,Single Family,11
+45239,85500.0,1,1,0.75,114387.0,1.132,803849.0,Acquisition/Demolition,0 - 49%,Single Family,11
+45328,87200.0,1,7,0.38,806000.0,1.595,1252341.0,Acquisition/Demolition,0 - 49%,Single Family,16
+45419,746539.0,19,684,0.75,1840222.0,1.9189999999999998,5469778.0,Acquisition/Demolition,0 - 49%,Single Family,11
+45502,120000.0,1,1,0.75,158443.0,1.31,210314.0,Acquisition/Demolition,0 - 49%,Single Family,8
+45640,212383.0,1,1,0.63,327968.0,1.216,346228.0,Acquisition/Demolition,0 - 49%,Non-residential - Private,18
+45669,78000.0,1,17,0.74,1053509.0,1.816,2172926.0,Acquisition/Relocation,0 - 49%,Single Family,12
+45686,489396.0,13,195,0.45000000000000007,616802.0,1.274,707165.0,Floodproofed,0 - 49%,Single Family,29
+45732,335309.0,12,132,0.57,540331.0,0.0,0.0,Acquisition/Demolition,0 - 49%,Single Family,29
+45745,13281.0,1,1,0.75,22798.0,1.546,97375.0,Acquisition/Demolition,0 - 49%,Single Family,29
+45746,55899.0,2,4,0.7,90968.0,1.006,94559.0,Acquisition/Demolition,0 - 49%,Single Family,29
+45840,3097675.0,44,796,0.6752272727272728,1483879.4772727273,0.6343409090909091,966762.4090909091,Acquisition/Demolition,50 - 99%,Single Family,9
+45875,2844632.0,47,536,0.6880851063829788,771531.9361702128,0.0,0.0,Acquisition/Demolition,50 - 99%,Vacant Land,8
+46001,123622.0,4,24,0.75,312080.0,0.0,0.0,Acquisition/Relocation,50 - 99%,Single Family,1
+46016,356634.0,18,504,0.75,536425.0,1.026,825253.0,Acquisition/Demolition,50 - 99%,Vacant Land,9
+46060,239347.0,5,25,0.71,296260.0,7.337999999999999,2634311.0,Acquisition/Demolition,50 - 99%,Single Family,8
+46072,360478.0,12,132,0.75,428930.0,1.232,1104000.0,Acquisition/Demolition,50 - 99%,Vacant Land,15
+46124,45774.0,1,36,0.74,4594452.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,1
+46131,3021565.0,77,5810,0.74,4136588.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Vacant Land,8
+46143,3274045.0,32,1044,0.74,4594452.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,11
+46151,5906222.0,75,1891,0.7412162162162163,2007059.6351351351,0.0,0.0,Acquisition/Demolition,50 - 99%,Vacant Land,1
+46156,96250.0,1,33,0.78,2306021.0,0.0,0.0,Acquisition/Demolition,0 - 49%,Single Family,8
+46166,455626.0,5,90,0.672,2119857.2,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,24
+46236,112500.0,1,5,0.75,130877.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,11
+46311,329992.0,2,4,0.75,358809.0,1.0570000000000002,387496.0,Acquisition/Demolition,50 - 99%,Single Family,18
+46563,622783.0,15,92,0.7528571428571428,258011.92857142858,2.053,791330.0,Acquisition/Demolition,50 - 99%,Vacant Land,8
+46706,52740.0,1,1,0.75,46571.0,11.807,830127.0,Acquisition/Demolition,50 - 99%,Single Family,8
+46714,506270.0,11,166,0.75,554575.4545454546,0.5676363636363637,527694.9090909091,Acquisition/Demolition,50 - 99%,Single Family,8
+46733,2956895.0,49,1267,0.7411363636363636,2170540.25,0.7757045454545455,254945.4090909091,Acquisition/Demolition,50 - 99%,Single Family,8
+46738,447250.0,5,24,0.75,585430.0,3.096,2047012.0,Acquisition/Demolition,50 - 99%,Single Family,8
+46743,92505.0,1,36,0.74,4594452.0,0.0,0.0,Acquisition/Demolition,0 - 49%,Single Family,8
+46802,1241284.0,36,481,0.7485714285714286,703360.6571428571,10.442485714285715,10053583.371428572,Acquisition/Demolition,50 - 99%,Vacant Land,9
+46803,7000.0,1,2,0.75,22752.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Other (Specify in Comments),11
+46804,118653.0,4,43,0.75,527521.75,9.356,8419967.25,Acquisition/Demolition,50 - 99%,Single Family,11
+46806,14500.0,1,17,0.75,734375.0,12.361,12293249.0,Acquisition/Demolition,0 - 49%,Single Family,11
+46807,351451.0,5,68,0.742,914026.0,1.7598000000000003,1314791.0,Acquisition/Demolition,50 - 99%,Single Family,11
+46809,93640.0,2,24,0.75,586146.0,8.799000000000001,6573955.0,Acquisition/Demolition,50 - 99%,Single Family,9
+46815,114000.0,1,1,0.75,143075.0,1.71,274013.0,Acquisition/Demolition,0 - 49%,Single Family,11
+46816,246500.0,2,15,0.745,574397.5,0.534,128810.0,Acquisition/Demolition,50 - 99%,Single Family,11
+46819,216500.0,3,42,0.7399999999999999,995996.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,8
+46901,1418767.0,21,241,0.75,864699.1428571428,0.6549523809523811,23188.904761904763,Acquisition/Demolition,0 - 49%,Single Family,8
+46902,155283.0,1,9,0.75,1336679.0,0.0,0.0,Acquisition/Demolition,0 - 49%,Single Family,11
+47201,2912319.0,51,2413,0.7507843137254901,3014574.294117647,0.07913725490196077,7440.235294117647,Acquisition/Demolition,50 - 99%,Single Family,1
+47234,337740.0,6,60,0.6999999999999998,489858.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,1
+47302,171000.0,2,4,0.75,234350.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,8
+47383,99500.0,1,2,0.75,134139.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,8
+47433,276386.0,3,78,0.68,3119850.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,24
+47448,1100669.0,30,1485,0.6866666666666668,1362273.3333333333,0.3968333333333333,61175.166666666664,Acquisition/Demolition,50 - 99%,Vacant Land,24
+47460,519884.0,14,221,0.75,851555.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+47468,128141.0,4,171,0.68,1584874.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,24
+47711,132500.0,1,1,0.94,145205.0,1.544,272288.0,Acquisition/Demolition,50 - 99%,Single Family,28
+47712,148500.0,2,4,0.53,171587.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,5
+47834,620778.0,13,182,0.7369230769230769,768603.3076923077,0.5219230769230769,369789.23076923075,Acquisition/Demolition,0 - 49%,Single Family,1
+47862,599993.0,17,748,0.68,968208.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+47874,39260.0,1,7,0.75,133632.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+47885,243405.0,5,63,0.8300000000000001,116109.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Vacant Land,1
+47905,104445.0,2,8,0.71,323606.0,1.361,623943.0,Acquisition/Demolition,50 - 99%,Single Family,8
+47909,155000.0,1,2,0.75,229301.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,8
+47920,122900.0,2,6,0.73,276453.5,0.6805,311971.5,Acquisition/Demolition,50 - 99%,Single Family,15
+47978,505656.0,8,72,0.75,637817.0,1.09,612332.0,Acquisition/Demolition,0 - 49%,Single Family,8
+48042,444718.0,3,18,0.75,762231.0,1.3470000000000002,1325168.0,Floodproofed,50 - 99%,Single Family,8
+48169,196828.0,3,12,0.75,584887.0,1.134,793113.0,Acquisition/Demolition,0 - 49%,Manufactured Home,9
+48439,654000.0,5,20,0.75,1640067.0,1.005,1715282.0,Acquisition/Demolition,0 - 49%,Single Family,11
+48519,105000.0,1,1,0.72,114397.0,5.214,575646.0,Acquisition/Demolition,50 - 99%,Single Family,11
+48910,63000.0,2,42,0.75,299003.0,1.38,1381001.0,Acquisition/Demolition,0 - 49%,Single Family,9
+48911,28000.0,1,21,0.75,299003.0,1.38,1381001.0,Acquisition/Demolition,0 - 49%,Single Family,11
+49058,61939.0,1,1,0.75,90440.0,2.88,575991.0,Acquisition/Demolition,50 - 99%,Single Family,8
+49306,254418.0,5,45,0.75,435164.8,3.4892000000000003,3429465.4,Acquisition/Demolition,0 - 49%,Single Family,9
+49321,780181.0,10,84,0.75,629440.5,1.9816000000000003,2234508.1,Acquisition/Demolition,0 - 49%,Single Family,9
+49401,264034.0,1,1,0.69,270730.0,1.08,574492.0,Acquisition/Demolition,0 - 49%,Single Family,16
+49525,254084.0,2,18,0.75,778840.0,1.09,1691327.0,Acquisition/Demolition,0 - 49%,Single Family,9
+50009,280000.0,1,1,0.75,335500.0,3.65,1224552.0,Acquisition/Demolition,0 - 49%,Single Family,11
+50158,59699.0,1,1,0.75,105893.0,1.0,175214.0,Acquisition/Demolition,0 - 49%,Single Family,15
+50161,19000.0,1,1,0.75,37028.0,0.0,0.0,Acquisition/Demolition,0 - 49%,Single Family,15
+50169,38487.0,1,8,0.75,667679.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Manufactured Home,8
+50232,17470.0,2,6,0.75,70562.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+50265,35451.0,1,3,0.75,70562.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+50312,306570.0,2,198,0.75,5627643.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,9
+50317,7046571.0,69,4758,0.75,4135161.5454545454,0.05636363636363636,14252.272727272728,Acquisition/Demolition,50 - 99%,Single Family,9
+50325,225000.0,3,6,0.75,450950.0,0.0,0.0,Acquisition/Demolition,0 - 49%,Single Family,16
+50401,7227707.0,97,5721,0.75,3551302.5208333335,1.0425416666666667,5066461.541666667,Acquisition/Relocation,50 - 99%,Vacant Land,15
+50435,98307.0,1,4,0.75,115723.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+50468,462925.0,11,102,0.7618181818181818,421075.9090909091,0.21727272727272728,2994.6363636363635,Acquisition/Demolition,50 - 99%,Single Family,15
+50501,711017.0,9,90,0.75,921437.0,1.206,476123.0,Acquisition/Demolition,50 - 99%,Single Family,8
+50595,117667.0,2,6,0.75,76593.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+50613,11531752.0,167,20948,0.7602424242424243,5021777.1878787875,0.09961212121212121,72135.30303030302,Acquisition/Demolition,50 - 99%,Vacant Land,9
+50616,894358.0,18,115,0.8005555555555556,250903.55555555556,2.437722222222222,464990.8888888889,Floodproofed,50 - 99%,Single Family,15
+50619,577000.0,7,56,0.75,667679.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+50626,697794.0,19,325,0.8799999999999999,677961.8421052631,3.5079473684210525,4096374.5789473685,Acquisition/Demolition,50 - 99%,Vacant Land,15
+50636,1051850.0,19,193,0.75,476131.4210526316,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+50644,1242247.0,32,646,0.871875,813500.78125,1.6104375000000002,3171545.6875,Acquisition/Demolition,50 - 99%,Single Family,15
+50647,507177.0,8,136,0.76625,600007.5,0.12775,87790.625,Acquisition/Demolition,50 - 99%,Single Family,15
+50648,111815.0,2,8,0.88,216351.0,3.1,427645.0,Acquisition/Demolition,50 - 99%,Single Family,15
+50651,826542.0,14,189,0.75,625633.4285714285,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+50653,40051.0,1,4,0.75,115723.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+50658,11209.0,1,1,0.88,13869.0,1.831,21629.0,Acquisition/Demolition,50 - 99%,Single Family,15
+50660,1683688.0,22,505,0.7559090909090909,685178.0,0.18054545454545454,2588.0,Acquisition/Demolition,50 - 99%,Single Family,29
+50670,692153.0,14,100,0.8242857142857142,382905.4285714286,1.1365714285714286,725346.2857142857,Acquisition/Demolition,50 - 99%,Single Family,15
+50677,5295840.0,77,4742,0.7619736842105262,4629655.97368421,1.3705526315789474,573962.6578947369,Acquisition/Demolition,50 - 99%,Single Family,15
+50701,7994265.0,64,4382,0.75,4061727.3,0.0,0.0,Acquisition/Demolition,50 - 99%,Vacant Land,9
+50703,307801.0,3,282,0.75,4369933.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+51012,895049.0,36,1330,0.75,1817914.0,0.0,0.0,Acquisition/Relocation,50 - 99%,Single Family,15
+51246,2562556.0,51,1095,0.75,1373199.68,0.39099999999999996,493946.9,Acquisition/Demolition,50 - 99%,Single Family,8
+51247,237000.0,2,4,0.75,263676.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+51501,2094052.0,14,148,0.75,1441490.3333333333,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,18
+51526,2545063.0,19,646,0.75,3222144.0,1.334,2689685.0,Acquisition/Demolition,50 - 99%,Single Family,29
+51542,226844.0,3,102,0.75,3222144.0,1.3340000000000003,2689685.0,Acquisition/Demolition,50 - 99%,Single Family,29
+51555,213918.0,3,102,0.75,3222144.0,1.3340000000000003,2689685.0,Acquisition/Demolition,50 - 99%,Single Family,29
+51560,127984.0,1,1,0.75,170646.0,1.072,205331.0,Acquisition/Demolition,0 - 49%,Single Family,15
+52001,1564339.0,43,877,0.75,1210457.0277777778,0.1807777777777778,36942.61111111111,Acquisition/Demolition,50 - 99%,Single Family,9
+52003,188415.0,2,8,0.75,274279.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,8
+52039,54498.0,1,10,0.75,740229.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+52040,972315.0,14,147,0.7778571428571429,973695.3571428572,2.331357142857143,1965682.5,Acquisition/Relocation,50 - 99%,Single Family,15
+52042,358020.0,1,1,0.75,477360.0,1.476,1450496.0,Safe Room/Wind Shelter,100%,Other (Specify in Comments),15
+52043,1611771.0,25,602,0.75,1277868.88,1.2144,3352884.48,Acquisition/Demolition,50 - 99%,Single Family,15
+52044,1085701.0,32,1024,0.75,1108250.0,2.2920000000000003,2701665.0,Acquisition/Demolition,50 - 99%,Single Family,15
+52048,324440.0,8,58,0.75,277191.25,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+52057,1116542.0,15,125,0.75,530547.6666666666,1.7526000000000002,1359413.4,Acquisition/Demolition,50 - 99%,Single Family,15
+52073,221000.0,1,1,0.75,254500.0,0.0,0.0,Acquisition/Demolition,0 - 49%,Manufactured Home,15
+52101,982500.0,5,30,0.75,1176225.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+52132,54000.0,1,6,0.75,1176225.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+52168,344138.0,4,16,0.75,361788.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,18
+52214,388402.0,6,26,0.88,337761.1666666667,1.09,914700.3333333334,Acquisition/Demolition,50 - 99%,Single Family,15
+52215,79550.0,3,5,0.75,60544.666666666664,0.4506666666666667,19948.0,Acquisition/Relocation,50 - 99%,Single Family,29
+52218,90221.0,2,18,0.815,875754.0,0.645,505898.5,Acquisition/Demolition,50 - 99%,Single Family,15
+52227,293708.0,2,28,0.75,1638205.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+52240,2147911.0,16,206,0.75,1685025.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,0
+52241,2659096.0,17,289,0.75,2326859.0,1.507,535483.0,Acquisition/Demolition,50 - 99%,Single Family,16
+52245,822329.0,4,113,0.75,6291677.25,0.0,0.0,Acquisition/Demolition,50 - 99%,Vacant Land,16
+52246,8468006.0,34,1101,0.75,7529674.03030303,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+52253,216920.0,1,14,0.75,1753290.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+52302,144014.0,2,4,0.75,147589.0,1.769,396053.0,Acquisition/Demolition,50 - 99%,Single Family,16
+52310,1378655.0,11,73,0.75,476941.1818181818,0.46236363636363637,123264.81818181818,Acquisition/Demolition,50 - 99%,Single Family,15
+52314,227419.0,2,28,0.75,1638205.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+52320,307037.0,4,14,0.75,177980.5,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+52324,891220.0,9,133,0.75,1124426.0,6.273555555555556,5975709.444444444,Acquisition/Demolition,50 - 99%,Single Family,15
+52341,13629.0,2,5,0.815,57347.5,0.645,505898.5,Acquisition/Demolition,50 - 99%,Single Family,15
+52349,1691920.0,30,787,0.75,1273402.0344827587,0.9598965517241378,165222.3103448276,Acquisition/Demolition,50 - 99%,Single Family,15
+52403,1867192.0,22,1283,0.75,2915001.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Vacant Land,16
+52405,2704250.0,72,6097,0.75,4013657.0,0.0,0.0,Acquisition/Relocation,50 - 99%,Vacant Land,16
+52574,163612.0,8,160,0.75,227796.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+52601,252340.0,4,40,0.75,552631.0,145.39600000000002,89496850.0,Acquisition/Demolition,50 - 99%,Single Family,1
+52637,62590.0,2,44,0.75,843669.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,1
+52646,155936.0,2,44,0.75,843669.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,6
+52653,772937.0,18,321,0.75,688913.1666666666,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+52655,28820.0,1,10,0.75,552631.0,145.39600000000002,89496850.0,Acquisition/Demolition,50 - 99%,Single Family,16
+52720,1766833.0,19,263,0.75,1159280.6315789474,0.0,0.0,Acquisition/Demolition,50 - 99%,Vacant Land,29
+52722,1381000.0,10,100,0.75,1507672.0,0.0,0.0,Acquisition/Demolition,0 - 49%,Single Family,9
+52731,22957.0,1,1,0.75,26062.0,1.366,31370.0,Acquisition/Demolition,50 - 99%,Single Family,15
+52738,200189.0,5,110,0.75,843669.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+52760,33253.0,1,17,0.75,1378413.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+52772,150403.0,2,34,0.75,1378413.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+52801,1369169.0,32,1024,0.75,1607986.0,11.063,13537034.0,Acquisition/Demolition,0 - 49%,Single Family,9
+52802,31367.0,1,3,0.75,161880.0,12.436,1696420.0,Acquisition/Demolition,0 - 49%,Single Family,9
+52803,552500.0,5,25,0.75,292780.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+53038,150042.0,1,46,0.75,6943186.0,1.017,1696037.0,Acquisition/Demolition,50 - 99%,Single Family,0
+53066,163893.0,2,66,0.75,4707749.0,1.0285,1722962.5,Acquisition/Demolition,50 - 99%,Vacant Land,8
+53079,64000.0,1,14,0.75,1057716.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+53089,334838.0,2,6,0.75,558500.0,0.0,0.0,Acquisition/Demolition,0 - 49%,Single Family,16
+53094,199373.0,3,138,0.75,6943186.0,1.017,1696037.0,Acquisition/Demolition,50 - 99%,Single Family,8
+53121,796627.0,5,25,0.75,855498.0,1.8809999999999998,246574.0,Acquisition/Demolition,50 - 99%,Single Family,8
+53122,816666.0,3,5,0.75,574663.0,10.872666666666667,3049469.3333333335,Acquisition/Demolition,0 - 49%,Non-residential - Private,11
+53168,3790216.0,42,567,0.75,1120302.4761904762,1.2315952380952382,2294053.4523809524,Acquisition/Demolition,50 - 99%,Single Family,9
+53170,536576.0,6,75,0.75,1091905.8333333333,1.321,2096610.6666666667,Acquisition/Demolition,0 - 49%,Single Family,16
+53177,239000.0,2,4,0.75,241494.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,8
+53179,137256.0,1,17,0.75,1395656.0,1.042,2434320.0,Acquisition/Demolition,50 - 99%,Single Family,16
+53185,156469.0,1,46,0.75,6943186.0,1.017,1696037.0,Acquisition/Demolition,50 - 99%,Single Family,9
+53217,689456.0,3,15,0.75,1003152.0,0.0,0.0,Acquisition/Demolition,0 - 49%,Single Family,11
+53534,572368.0,3,18,0.75,1075745.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,8
+53538,8221726.0,58,1998,0.75,4965644.379310345,1.0553620689655172,1642803.948275862,Acquisition/Demolition,50 - 99%,Vacant Land,8
+53545,221754.0,2,12,0.75,1075745.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+53546,88348.0,1,6,0.75,1075745.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,8
+53548,481711.0,8,64,0.75,669621.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+53549,274728.0,3,9,0.75,361946.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+53563,475442.0,2,92,0.75,6943186.0,1.017,1696037.0,Acquisition/Demolition,50 - 99%,Single Family,16
+53575,96879.0,1,1,0.75,105064.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+53581,129706.0,2,2,0.75,83868.0,0.776,75005.5,Acquisition/Demolition,50 - 99%,Single Family,29
+53588,4505882.0,28,784,0.75,4913299.0,1.339,7200222.0,Acquisition/Demolition,50 - 99%,Single Family,29
+53801,44000.0,2,8,0.75,420967.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+53807,171795.0,2,7,0.75,318656.5,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+53810,60000.0,1,3,0.75,216346.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+53811,208900.0,1,4,0.75,420967.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+53813,128000.0,2,10,0.73,479273.0,1.288,279016.0,Acquisition/Demolition,50 - 99%,Single Family,15
+53818,67000.0,1,3,0.75,216346.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Manufactured Home,15
+53820,239095.0,3,15,0.73,479273.0,1.288,279016.0,Acquisition/Demolition,50 - 99%,Single Family,29
+53913,136253.0,1,1,0.75,136253.0,3.329,499289.0,Acquisition/Demolition,0 - 49%,Non-residential - Private,18
+53929,214027.0,5,30,0.75,261356.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+53959,1796664.0,21,401,0.75,1988241.9523809524,5.0009523809523815,3557500.0,Acquisition/Demolition,50 - 99%,Single Family,18
+53961,968409.0,19,380,0.75,1380360.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+54020,913000.0,6,50,0.75,408016.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,0
+54024,85857.0,1,1,0.75,87436.0,1.013,59855.0,Acquisition/Demolition,100%,Single Family,0
+54401,595000.0,7,49,0.75,673818.0,1.456,1285219.0,Acquisition/Demolition,0 - 49%,Single Family,18
+54448,60000.0,1,1,0.75,76648.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,0
+54621,736046.0,11,79,0.75,447257.36363636365,0.39272727272727276,183049.0909090909,Acquisition/Demolition,50 - 99%,Single Family,29
+54628,25000.0,1,1,0.75,65028.0,1.124,55650.0,Acquisition/Demolition,0 - 49%,Single Family,15
+54631,1685483.0,33,504,0.75,659345.21875,0.733375,186559.875,Elevation,50 - 99%,Single Family,29
+54655,25000.0,1,5,0.75,173781.0,1.218,181927.0,Acquisition/Demolition,50 - 99%,Manufactured Home,29
+54661,416925.0,8,64,0.75,653916.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+54701,1292000.0,9,72,0.75,1537882.0,1.001,1851787.0,Acquisition/Demolition,50 - 99%,Single Family,18
+54874,90000.0,1,1,0.75,101202.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,4
+54880,185600.0,2,4,0.75,197568.0,1.5,307720.0,Acquisition/Demolition,0 - 49%,Single Family,0
+54904,339000.0,2,4,0.75,394654.0,4.05,1664895.0,Acquisition/Demolition,0 - 49%,Single Family,16
+54935,930000.0,12,168,0.75,1057716.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,9
+54937,39000.0,1,14,0.75,1057716.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,0
+55009,24000.0,1,7,0.75,353026.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+55012,53900.0,1,1,0.75,71804.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,0
+55038,195023.0,1,1,0.75,217225.0,1.8,395971.0,Acquisition/Demolition,50 - 99%,Single Family,16
+55057,177300.0,1,1,0.75,191297.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+55060,622252.0,4,6,0.75,284711.0,0.72225,418592.25,Acquisition/Demolition,50 - 99%,Single Family,8
+55382,180038.0,3,7,0.75,114729.66666666667,0.8633333333333334,203656.0,Acquisition/Demolition,50 - 99%,Single Family,0
+55707,153500.0,2,4,0.75,201728.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,4
+55783,1910432.0,14,448,0.75,3909812.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,0
+55795,1923356.0,14,418,0.75,3637544.6428571427,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,4
+55807,47517.0,1,7,0.75,719699.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,18
+55808,382388.0,4,28,0.75,719699.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,18
+55810,37019.0,1,7,0.75,719699.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,0
+55811,177232.0,1,7,0.75,719699.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+55909,261000.0,1,1,0.75,269905.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,8
+55910,214431.0,4,24,0.75,301275.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+55912,653920.0,5,25,0.75,686178.6,1.0016,582113.6,Acquisition/Relocation,50 - 99%,Single Family,8
+55953,58500.0,1,6,0.75,835596.0,1.252,727642.0,Acquisition/Relocation,0 - 49%,Single Family,8
+55957,148528.0,2,4,0.75,201981.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+55959,186497.0,2,4,0.75,292065.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+55960,430400.0,5,25,0.75,542550.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+55963,94200.0,1,1,0.75,198724.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+55965,70700.0,2,2,0.74,49257.5,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+55991,1107545.0,16,229,0.75,1122523.625,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+56001,340000.0,1,1,0.75,379695.0,2.209,861960.0,Acquisition/Demolition,100%,Single Family,8
+56003,81196.0,1,1,0.75,108024.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,8
+56016,181588.0,4,44,0.75,451255.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,8
+56034,59500.0,1,1,0.75,67687.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+56085,164500.0,1,1,0.75,174550.0,4.824,841980.0,Acquisition/Demolition,0 - 49%,Single Family,15
+56241,1214018.0,12,142,0.75,1117245.5454545454,1.0689090909090908,1405907.7272727273,Acquisition/Demolition,50 - 99%,Single Family,29
+56546,223410.0,2,14,0.75,1363963.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+56547,268080.0,1,7,0.75,1363963.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+56548,128317.0,2,6,0.75,341508.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+56550,136000.0,1,3,0.75,341508.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+56560,3556480.0,6,25,0.75,932296.6,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,8
+56574,290980.0,3,8,0.75,316339.0,0.4046666666666667,50893.666666666664,Acquisition/Demolition,50 - 99%,Single Family,15
+56744,188598.0,3,33,0.75,713215.0,0.9979999999999999,1091327.0,Acquisition/Demolition,50 - 99%,Single Family,29
+56750,168794.0,1,2,0.75,518259.0,4.5840000000000005,2401830.0,Acquisition/Demolition,0 - 49%,Single Family,4
+57021,208804.0,4,20,0.75,320163.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+57273,176196.0,3,6,0.75,225708.33333333334,0.0,0.0,Acquisition/Relocation,0 - 49%,Single Family,4
+58038,83500.0,1,3,0.75,206756.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+58045,62700.0,1,3,0.75,206756.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+58046,13512.0,1,15,0.75,620843.0,1.416,879075.0,Acquisition/Demolition,50 - 99%,Single Family,4
+58072,1163148.0,21,213,0.75,519631.3333333333,1.2185714285714286,736118.8095238095,Acquisition/Demolition,50 - 99%,Single Family,15
+58078,508293.0,6,36,0.75,588893.0,1.207,785321.0,Acquisition/Demolition,50 - 99%,Single Family,9
+58102,146000.0,2,2,0.75,68160.0,1.0,51120.0,Acquisition/Demolition,50 - 99%,Single Family,16
+58104,23356119.0,3,132,0.75,9088385.0,1.134,150745.0,Acquisition/Demolition,50 - 99%,Single Family,9
+58201,222232.0,1,1,0.75,270802.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+58220,70440.0,1,2,0.75,136177.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,4
+58222,280792.0,8,50,0.75,285495.375,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+58237,656726.0,13,81,0.75,401732.6153846154,0.710076923076923,476509.23076923075,Acquisition/Demolition,50 - 99%,Single Family,15
+58256,70351.0,2,2,0.75,49153.5,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+58257,150153.0,3,9,0.75,177853.0,1.17,360507.0,Acquisition/Demolition,50 - 99%,Single Family,15
+58261,256534.0,6,30,0.75,302986.3333333333,0.33266666666666667,363775.6666666667,Acquisition/Demolition,50 - 99%,Single Family,29
+58265,68708.0,1,2,0.75,234863.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+58282,194967.0,2,4,0.75,185520.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,4
+58301,663318.0,2,6,0.75,914399.0,1.116,1020281.0,Acquisition/Demolition,0 - 49%,Single Family,0
+58327,80011.0,1,1,0.75,92036.0,1.427,95747.0,Acquisition/Demolition,0 - 49%,Single Family,4
+58361,60870.0,1,1,0.75,85685.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,4
+58362,818500.0,9,81,0.75,926594.0,1.427,966256.0,Acquisition/Demolition,0 - 49%,Single Family,4
+58433,5414500.0,2,4,0.75,126407.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,4
+58458,98189.0,1,2,0.75,229123.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,4
+58472,82829.0,1,2,0.75,229123.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,4
+58479,186342.0,2,4,0.75,232516.0,10.284,1949765.0,Acquisition/Demolition,50 - 99%,Single Family,4
+58501,84702.0,1,1,0.75,112936.0,3.585,404909.0,Acquisition/Demolition,50 - 99%,Single Family,16
+58552,187264.0,5,7,0.75,96501.4,1.4608,416496.0,Acquisition/Demolition,0 - 49%,Single Family,4
+58646,179138.0,5,45,0.75,247007.0,3.973,1564448.0,Acquisition/Demolition,0 - 49%,Single Family,4
+58703,776454.0,4,24,0.75,1141392.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+58722,158593.0,1,6,0.75,1141392.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,4
+59047,40855.0,2,2,0.75,22716.0,1.0,22716.0,Elevation,50 - 99%,Single Family,20
+59072,171500.0,3,9,0.75,147128.0,1.0,365605.0,Acquisition/Demolition,100%,Single Family,21
+59230,66617.0,1,1,0.75,88822.0,1.144,96157.0,Elevation,50 - 99%,Single Family,4
+59401,183860.0,1,28,0.75,3074005.0,2.096,21908334.0,Acquisition/Demolition,0 - 49%,Single Family,11
+59457,106180.0,1,1,0.75,126037.0,0.0,0.0,Acquisition/Demolition,0 - 49%,Single Family,4
+59521,209963.0,2,2,0.75,139975.0,0.5,0.5,Acquisition/Demolition,0 - 49%,Single Family,4
+59722,27080.0,1,1,0.75,36420.0,1.0,75027.0,Acquisition/Demolition,100%,Single Family,14
+59804,137000.0,1,1,0.74,160716.0,1.0,160716.0,Acquisition/Demolition,100%,Single Family,20
+59923,22125.0,1,1,0.75,13333.0,1.568,46259.0,Elevation,0 - 49%,Single Family,20
+59935,25500.0,1,1,0.75,34000.0,1.136,38633.0,Elevation,0 - 49%,Single Family,20
+60013,473857.0,3,9,0.75,1295060.0,1.272,1647060.0,Acquisition/Demolition,0 - 49%,Single Family,9
+60016,16107203.0,54,1608,0.7975471698113208,9928352.62264151,1.394754716981132,18500720.660377357,Acquisition/Demolition,50 - 99%,Single Family,9
+60018,497667.0,2,72,0.79,11551753.0,1.634,24946575.0,Acquisition/Demolition,0 - 49%,Single Family,9
+60025,9632500.0,17,238,0.32,11792401.25,1.203,12630100.0,Acquisition/Demolition,0 - 49%,Single Family,11
+60031,3155000.0,3,11,0.5766666666666667,1748794.6666666667,2.779333333333333,5879921.0,Acquisition/Demolition,0 - 49%,Single Family,11
+60046,529000.0,6,30,0.75,917226.0,1.09,1000000.0,Acquisition/Demolition,0 - 49%,Vacant Land,11
+60073,180000.0,2,10,0.75,1004217.0,2.385,3107908.0,Acquisition/Demolition,0 - 49%,Single Family,11
+60081,253700.0,4,18,0.75,1219359.0,2.35,3036000.0,Acquisition/Demolition,0 - 49%,Single Family,9
+60101,2721678.0,12,124,0.9758333333333334,2545695.0,1.4433333333333334,4578689.25,Acquisition/Demolition,0 - 49%,Single Family,9
+60160,199500.0,2,14,0.75,756500.0,1.0,719900.0,Acquisition/Demolition,0 - 49%,Single Family,9
+60172,315000.0,1,3,0.71,805000.0,1.095,1101383.0,Acquisition/Demolition,0 - 49%,Single Family,11
+60178,1471400.0,1,133,1.0,6212937.0,1.036,5855446.0,Acquisition/Demolition,0 - 49%,Other (Specify in Comments),8
+60188,351633.0,2,6,0.75,572445.0,1.063,1128550.0,Acquisition/Demolition,0 - 49%,Single Family,11
+60191,948841.0,3,9,0.75,1458330.0,1.056,1186015.0,Acquisition/Demolition,50 - 99%,Single Family,9
+60447,151439.0,1,15,0.0,3010385.0,1.0,5146000.0,Acquisition/Demolition,0 - 49%,Single Family,8
+60515,520000.0,2,6,0.75,785553.0,1.009,1104000.0,Acquisition/Demolition,0 - 49%,Single Family,16
+60516,185000.0,1,3,0.75,785553.0,1.009,1104000.0,Acquisition/Demolition,0 - 49%,Single Family,11
+60532,460000.0,3,7,0.7366666666666667,475822.0,1.285,735127.6666666666,Acquisition/Demolition,0 - 49%,Single Family,9
+60544,2334261.0,7,105,0.0,3010385.0,1.0,5146000.0,Acquisition/Demolition,0 - 49%,Single Family,8
+60586,208183.0,1,15,0.0,3010385.0,1.0,5146000.0,Acquisition/Demolition,0 - 49%,Single Family,11
+61025,377404.0,7,49,0.7000000000000001,524488.5714285715,0.8330000000000001,2078421.0,Acquisition/Demolition,0 - 49%,Single Family,15
+61060,187550.0,5,35,0.75,756500.0,1.0,719900.0,Acquisition/Demolition,0 - 49%,Single Family,15
+61073,1040649.0,6,36,1.0,1141091.0,2.1750000000000003,4652142.0,Acquisition/Demolition,0 - 49%,Vacant Land,8
+61074,128500.0,7,48,0.75,317625.0,6.952000000000001,2208000.0,Acquisition/Demolition,0 - 49%,Single Family,15
+61088,184596.0,1,3,0.75,572445.0,1.063,1128550.0,Acquisition/Demolition,0 - 49%,Single Family,8
+61102,928635.0,25,600,1.0,1195967.0,1.6849999999999998,2931152.0,Acquisition/Demolition,0 - 49%,Vacant Land,9
+61104,5788050.0,74,2560,0.581304347826087,3240832.7391304346,1.2910434782608695,5102596.826086956,Acquisition/Demolition,50 - 99%,Vacant Land,9
+61115,1908731.0,24,617,0.7104347826086956,3431239.1739130435,1.066,6004498.695652174,Acquisition/Demolition,50 - 99%,Single Family,9
+61236,47974.0,28,850,1.0,847672.0,1.0,1600517.0,Acquisition/Demolition,0 - 49%,Manufactured Home,6
+61259,107000.0,1,5,0.75,1176560.0,0.731,1609936.0,Acquisition/Demolition,0 - 49%,Single Family,29
+61284,381500.0,3,41,0.7033333333333335,737847.3333333334,0.957,1553876.0,Acquisition/Demolition,0 - 49%,Single Family,15
+61364,166249.0,2,2,1.0,109535.5,0.5,107500.0,Acquisition/Demolition,50 - 99%,Non-residential - Private,8
+61611,1936421.0,14,98,0.38,1774734.0,1.7255,5494977.0,Acquisition/Demolition,0 - 49%,Single Family,8
+61956,210000.0,3,12,1.0,352288.0,1.0,833700.0,Acquisition/Demolition,50 - 99%,Single Family,1
+62477,18000.0,1,3,0.75,874862.0,3.786,3312000.0,Acquisition/Demolition,0 - 49%,Single Family,15
+62530,448346.0,8,64,0.7,567577.0,1.4240000000000002,751617.0,Acquisition/Demolition,0 - 49%,Single Family,1
+62561,308252.0,6,36,0.7200000000000001,367988.0,1.061,384341.0,Acquisition/Demolition,0 - 49%,Single Family,1
+62707,217074.0,21,441,0.75,428344.0,0.835,357635.0,Acquisition/Demolition,50 - 99%,Vacant Land,1
+62821,719250.0,20,450,1.0,969806.0,6.437,6072000.0,Acquisition/Demolition,50 - 99%,Vacant Land,1
+62901,29700.0,1,30,1.0,1847991.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Manufactured Home,28
+62910,39985.0,2,12,0.875,451373.5,1.505,414000.0,Acquisition/Demolition,50 - 99%,Single Family,22
+62934,61200.0,1,13,1.0,1291084.0,1.0,1865828.0,Acquisition/Demolition,0 - 49%,Single Family,24
+62946,294800.0,3,15,0.8333333333333334,654171.6666666666,1.0,671713.3333333334,Acquisition/Demolition,50 - 99%,Single Family,28
+62954,666470.0,7,91,1.0,1291084.0,1.0,1865828.0,Acquisition/Demolition,0 - 49%,Single Family,24
+62960,316891.0,10,110,1.0,627624.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,5
+62979,16980.0,1,13,1.0,1291084.0,1.0,1865828.0,Acquisition/Demolition,0 - 49%,Single Family,5
+62984,216300.0,3,39,1.0,1291084.0,1.0,1865828.0,Acquisition/Demolition,0 - 49%,Single Family,5
+63010,718347.0,11,51,0.71625,518848.88749999995,0.675,585022.375,Acquisition/Demolition,50 - 99%,Single Family,28
+63016,209114.0,3,21,0.75,370986.6666666667,1.109,2044489.0,Acquisition/Demolition,0 - 49%,Single Family,5
+63023,66385.0,2,26,0.75,671060.0,1.245,1643787.0,Acquisition/Demolition,50 - 99%,Single Family,5
+63025,461501.0,6,59,0.75,518445.8333333333,1.0035,1469998.0,Acquisition/Demolition,50 - 99%,Single Family,5
+63026,1.0,1,1,0.75,275.0,0.0,0.0,Acquisition/Demolition,0 - 49%,Single Family,28
+63038,240000.0,2,6,0.75,312140.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,28
+63049,32000.0,1,3,0.75,140300.0,1.041,2244840.0,Acquisition/Demolition,0 - 49%,Single Family,5
+63050,72500.0,2,16,0.75,405680.0,1.143,1944313.5,Acquisition/Demolition,0 - 49%,Single Family,5
+63069,1134572823.0,38,528,0.75,2111069.693076923,0.8415384615384617,2117122.3076923075,Acquisition/Demolition,50 - 99%,Single Family,5
+63077,87000.0,1,1,0.75,91054.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,14
+63084,789761.0,16,272,0.75,837781.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,5
+63105,5847546.0,11,132,0.75,6276063.0,1.6230000000000002,10639201.0,Acquisition/Demolition,0 - 49%,Single Family,28
+63130,3788723.0,24,576,0.75,3955191.0,9.616,38396448.0,Acquisition/Demolition,0 - 49%,Single Family,28
+63136,112900.0,3,9,0.75,148652.0,4.837000000000001,884743.0,Acquisition/Demolition,0 - 49%,Single Family,28
+63301,212244.0,5,35,0.75,417352.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,1
+63373,120400.0,2,14,0.75,417352.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,24
+63401,260901.0,15,210,0.75,442230.0,1.0,994810.0,Acquisition/Demolition,0 - 49%,Vacant Land,1
+63448,282784.0,8,64,0.74,386822.0,1.083,1052293.0,Acquisition/Demolition,0 - 49%,Single Family,1
+63638,60338.0,2,52,0.75,1025891.0,0.909,988045.0,Acquisition/Demolition,100%,Single Family,22
+63645,128580.0,4,67,0.75,605955.5,1.3125,764888.5,Acquisition/Demolition,0 - 49%,Single Family,5
+63655,1000.0,1,1,0.75,240637.0,1.333,240637.0,Acquisition/Demolition,0 - 49%,Single Family,22
+63670,91000.0,1,1,0.75,101438.0,0.0,0.0,Acquisition/Demolition,0 - 49%,Single Family,5
+63701,76000.0,2,4,0.75,88557.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,5
+63745,1001997.0,11,121,0.75,1060935.0,1.411,1590436.0,Acquisition/Demolition,0 - 49%,Single Family,22
+63764,313983.0,4,8,0.75,127733.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,5
+63845,403443.0,13,228,0.75,290290.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,27
+63935,307166.0,11,121,0.75,369491.9181818182,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,5
+63941,424401.0,10,140,0.75,557410.7,0.0,0.0,Acquisition/Demolition,100%,Single Family,22
+63957,888332.0,31,425,0.75,535865.9677419355,0.21012903225806454,200289.5483870968,Acquisition/Demolition,50 - 99%,Single Family,22
+63965,351500.0,6,54,0.75,441887.5,0.0,0.0,Acquisition/Demolition,100%,Single Family,5
+64401,17788.0,1,1,0.73,22679.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,1
+64746,1566659.0,26,500,0.75,1141673.8461538462,1.259076923076923,1718606.1538461538,Acquisition/Demolition,50 - 99%,Single Family,21
+64804,6122.0,1,3,0.75,126640.0,1.973,373380.0,Acquisition/Demolition,100%,Single Family,3
+64850,1275520.0,1,1,0.75,1275520.0,2.865,3694339.0,Safe Room/Wind Shelter,0 - 49%,Non-residential - Public,21
+65529,155000.0,2,8,0.75,260097.17,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,22
+65550,60000.0,1,4,0.75,260097.17,0.0,0.0,Acquisition/Demolition,50 - 99%,2-4 Family,22
+65608,34250.0,1,1,0.75,46425.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,14
+65616,1044815.0,20,253,0.75,846588.2631578947,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,3
+65672,3257000.0,9,74,0.75,2468458.4444444445,0.39611111111111114,698672.6666666666,Safe Room/Wind Shelter,50 - 99%,Single Family,3
+65708,195501.0,4,16,0.75,656665.52,0.0,0.0,Acquisition/Demolition,0 - 49%,Non-residential - Public,19
+65775,310000.0,4,16,0.75,172885.7,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,10
+65802,23460.0,1,5,0.75,255957.0,10.827,4637359.0,Acquisition/Demolition,0 - 49%,Single Family,3
+65804,143000.0,2,10,0.75,255957.0,10.827,4637359.0,Acquisition/Demolition,0 - 49%,Single Family,3
+65810,126815.0,1,2,0.75,302874.0,12.56,3524914.0,Acquisition/Demolition,0 - 49%,Single Family,3
+66047,623724.0,1,1,0.75,602072.0,1.499,922931.0,Safe Room/Wind Shelter,0 - 49%,Non-residential - Public,3
+66102,930695.0,5,25,0.75,303599.0,3.002,1380573.0,Acquisition/Demolition,50 - 99%,Single Family,3
+66205,35000.0,1,3,0.75,587829.0,1.709,1004866.0,Acquisition/Demolition,0 - 49%,Vacant Land,3
+66503,887727.0,3,7,0.75,601003.51,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,0
+66713,187941.0,4,63,0.75,828762.5,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,23
+66720,80708.0,6,30,0.75,113880.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,0
+66733,172361.0,10,100,0.75,365629.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+66736,90590.0,3,9,0.75,109050.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+66739,586128.0,19,283,0.75,712718.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,21
+66748,42766.0,1,5,0.75,248644.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,1
+66749,1321701.0,109,2828,0.75,321290.32710280374,0.0,0.0,Acquisition/Demolition,50 - 99%,Vacant Land,15
+66757,482219.0,24,672,0.75,618943.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,15
+66770,202416.0,3,51,0.75,998366.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,23
+67214,214547.0,1,10,0.83,2082153.0,2.472,5146650.0,Safe Room/Wind Shelter,0 - 49%,Non-residential - Public,9
+67301,1564280.0,90,6810,0.75,1339298.7777777778,0.0,0.0,Acquisition/Demolition,50 - 99%,Vacant Land,0
+67335,460044.0,1,17,0.75,613393.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,23
+67336,12962.0,3,36,0.75,319952.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,1
+67337,502120.0,9,89,0.75,366488.1111111111,0.52,172463.66666666666,Safe Room/Wind Shelter,50 - 99%,Single Family,14
+67344,24071.0,1,17,0.75,613393.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,24
+67351,3279.0,1,47,0.85,388691.0,2.27,880945.0,Acquisition/Demolition,50 - 99%,Single Family,15
+67357,394351.0,47,2039,0.8414893617021276,362094.5319148936,2.257872340425532,816947.4255319149,Acquisition/Relocation,50 - 99%,Vacant Land,1
+67431,4835.0,1,1,0.75,4835.0,1.42,487060.0,Safe Room/Wind Shelter,50 - 99%,2-4 Family,21
+67544,126290.0,12,187,0.75,152674.0,1.318,416475.0,Acquisition/Relocation,50 - 99%,Single Family,15
+68005,45000.0,1,35,0.75,2437508.0,1.352,1065433.0,Acquisition/Demolition,50 - 99%,Single Family,16
+68008,82220.0,1,1,0.75,95483.0,1.068,100957.0,Acquisition/Demolition,0 - 49%,Single Family,21
+68064,108921.0,3,9,0.75,152158.0,2.354,1519147.0,Acquisition/Demolition,0 - 49%,Single Family,15
+68123,1936523.0,29,910,0.75,2437508.0,1.352,1065433.0,Acquisition/Demolition,50 - 99%,Vacant Land,9
+68310,233509.0,4,8,0.75,131732.25,2.089,419634.5,Acquisition/Demolition,50 - 99%,Other (Specify in Comments),1
+68701,135500.0,2,6,0.75,159795.0,2.128,278703.0,Acquisition/Demolition,0 - 49%,Single Family,0
+68760,76654.0,1,1,0.75,76654.0,2.8360000000000003,139821.0,Elevation,50 - 99%,Single Family,29
+70001,134578.0,1,37,0.81,3816172.0,2.225,8625121.0,Elevation,0 - 49%,Single Family,9
+70002,440783.0,3,123,0.8833333333333333,4762800.0,1.8316666666666668,8599526.333333334,Elevation,0 - 49%,Single Family,9
+70003,5059361.0,34,1356,0.8475757575757576,5924453.606060606,1.6863939393939396,9297644.212121213,Mitigation Reconstruction,50 - 99%,Single Family,9
+70005,371550.0,3,123,0.8833333333333333,4762800.0,1.8316666666666668,8599526.333333334,Elevation,0 - 49%,Single Family,9
+70006,1058111.0,6,228,0.7916666666666666,6916531.833333333,1.4628333333333334,9874741.833333334,Mitigation Reconstruction,50 - 99%,Single Family,9
+70036,378549.0,3,132,0.81,8291060.0,1.381,10296947.0,Elevation,0 - 49%,Single Family,6
+70037,524824.0,2,4,0.7949999999999999,424930.0,4.768000000000001,2000330.0,Mitigation Reconstruction,50 - 99%,Single Family,29
+70047,590185.0,4,19,1.0,857839.3333333334,1.1836666666666666,1334936.6666666667,Elevation,0 - 49%,Single Family,12
+70049,125657.0,1,1,1.0,125657.0,2.096,263990.0,Acquisition/Demolition,0 - 49%,Single Family,29
+70053,898789.0,5,165,0.818,4600650.0,1.8462,8033117.8,Elevation,0 - 49%,Single Family,9
+70056,3158000.0,20,825,0.858,5808862.2,1.7331500000000002,9413951.6,Elevation,50 - 99%,Single Family,9
+70058,1822453.0,10,388,0.844,5680439.4,1.8686,9890311.4,Wind Retrofit,50 - 99%,Single Family,9
+70062,50211.0,1,41,1.0,4048442.0,1.258,5094874.0,Elevation,0 - 49%,Single Family,9
+70065,1820838.0,17,2971,0.8600000000000001,48028115.058823526,1.8818823529411766,150341257.0,Elevation,50 - 99%,Single Family,12
+70067,120000.0,1,44,0.81,8291060.0,1.381,10296947.0,Elevation,0 - 49%,Single Family,6
+70070,2545425.0,6,39,0.974,1301168.8,1.2488,2798765.0,Wind Retrofit,50 - 99%,Single Family,12
+70072,2441629.0,15,516,0.8046666666666666,4767071.533333333,1.8310666666666668,8718766.133333333,Other (Specify in Comments),50 - 99%,Single Family,12
+70079,200000.0,2,34,1.0,2083333.0,1.07,3228514.0,Elevation,0 - 49%,Single Family,12
+70080,953000.0,2,18,1.0,1463293.0,1.5035,2430900.0,Wind Retrofit,0 - 49%,Single Family,29
+70083,316770.0,1,3,0.59,582470.0,2.5580000000000003,2112869.0,Mitigation Reconstruction,50 - 99%,Single Family,6
+70087,100000.0,4,17,1.0,2083333.0,1.07,3228514.0,Elevation,0 - 49%,Single Family,6
+70090,1414365.0,2,2,1.0,707182.5,3.1945,3374994.5,Wind Retrofit,0 - 49%,Non-residential - Public,8
+70094,605152.0,5,180,0.8099999999999999,5934050.0,1.8381999999999998,9008044.0,Elevation,50 - 99%,Single Family,18
+70114,894711.0,8,74,0.97,1643040.142857143,2.0395714285714286,2777381.285714286,Wind Retrofit,0 - 49%,Single Family,9
+70118,97180.0,1,16,0.99,2550781.0,1.171,3176346.0,Elevation,0 - 49%,Single Family,9
+70121,260380.0,1,45,0.84,6423786.0,2.012,12078584.0,Elevation,0 - 49%,Single Family,9
+70122,31182.0,1,16,0.99,2550781.0,1.171,3176346.0,Elevation,0 - 49%,Single Family,9
+70123,3495496.0,17,633,0.8111764705882354,6446385.352941177,1.4160588235294118,9133095.470588235,Other (Specify in Comments),50 - 99%,Single Family,9
+70126,789529.0,4,44,0.9099999999999999,1794900.0,3.2,4673572.5,Other (Specify in Comments),0 - 49%,Single Family,18
+70127,10162104.0,1,2,1.0,10162104.0,1.235,15012019.0,Wind Retrofit,0 - 49%,Non-residential - Public,12
+70131,1923493.0,8,108,0.95,2172840.5,2.1855,3924959.25,Other (Specify in Comments),0 - 49%,Single Family,18
+70301,1238307.0,10,53,0.925,364883.8,1.5449,775402.7,Wind Retrofit,0 - 49%,Single Family,18
+70339,517735.0,2,8,0.75,443580.5,1.986,1115522.0,Wind Retrofit,0 - 49%,Single Family,12
+70341,115000.0,1,7,1.0,800122.0,1.138,917696.0,Wind Retrofit,0 - 49%,Non-residential - Public,15
+70344,354067.0,2,30,1.0,1598163.0,1.667,2795382.0,Elevation,50 - 99%,Single Family,6
+70345,658605.0,4,21,0.885,553083.5,2.36125,1878309.5,Mitigation Reconstruction,50 - 99%,Single Family,29
+70353,143274.0,1,15,1.0,1598163.0,1.667,2795382.0,Elevation,0 - 49%,Single Family,6
+70357,484421.0,4,13,1.0,354183.225,1.7645,849469.0,Other (Specify in Comments),50 - 99%,Single Family,6
+70360,2684023.0,1,1,1.0,2684023.0,1.45,4617476.0,Wind Retrofit,50 - 99%,Non-residential - Public,12
+70363,575102.0,3,36,1.0,1312216.0,1.7053333333333331,2348107.3333333335,Elevation,0 - 49%,Single Family,12
+70364,443606.0,3,20,0.9166666666666666,614136.0,2.017,1526911.3333333333,Elevation,0 - 49%,Single Family,12
+70372,134968.0,1,3,0.75,670000.0,2.651,2171445.0,Wind Retrofit,0 - 49%,Non-residential - Public,15
+70374,655538.0,5,14,0.866,318211.4,1.7484000000000002,458505.0,Wind Retrofit,0 - 49%,Single Family,6
+70377,946447.0,7,49,1.0,775941.8571428572,2.220428571428571,1866839.5714285714,Elevation,50 - 99%,Single Family,6
+70390,797297.0,8,11,0.9166666666666666,690312.3333333334,1.8339999999999999,1534058.0,Wind Retrofit,0 - 49%,Non-residential - Public,15
+70395,226202.0,2,16,0.875,1076581.5,1.524,1780981.0,Elevation,0 - 49%,Single Family,15
+70397,192576.0,1,15,1.0,1598163.0,1.667,2795382.0,Elevation,0 - 49%,Single Family,6
+70401,263561.0,2,11,0.875,340771.5,1.528,2062964.5,Wind Retrofit,50 - 99%,Non-residential - Public,12
+70403,767458.0,7,16,0.9642857142857143,184777.57142857142,1.2975714285714286,702749.2857142857,Wind Retrofit,50 - 99%,Single Family,18
+70422,51378.0,1,1,1.0,51378.0,1.607,87651.0,Wind Retrofit,0 - 49%,Non-residential - Public,21
+70427,1414464.0,4,25,1.0,855281.5,1.16575,1487269.25,Wind Retrofit,50 - 99%,Single Family,21
+70431,159068.0,1,20,1.0,2427464.0,1.7160000000000002,8475540.0,Elevation,0 - 49%,Single Family,21
+70433,841220.0,4,36,1.0,1316549.0,1.6215000000000002,3364956.0,Elevation,50 - 99%,Single Family,18
+70438,1996088.0,13,83,1.0,827927.6923076923,1.9541538461538461,1700958.076923077,Wind Retrofit,0 - 49%,Single Family,21
+70444,148000.0,1,1,1.0,144463.0,1.083,297709.0,Wind Retrofit,50 - 99%,Non-residential - Public,21
+70445,88200.0,1,4,1.0,426550.0,4.083,5582931.0,Mitigation Reconstruction,100%,Single Family,6
+70448,881766.0,6,31,0.7949999999999999,688459.3333333334,1.9693333333333332,1766146.5,Mitigation Reconstruction,50 - 99%,Single Family,18
+70450,178598.0,1,4,1.0,863461.0,1.001,883224.0,Wildfire Retrofit,0 - 49%,Non-residential - Public,21
+70452,231186.0,1,16,1.0,2082262.0,1.951,6018413.0,Elevation,50 - 99%,Single Family,18
+70454,247500.0,1,10,0.75,560644.0,1.919,3934476.0,Wind Retrofit,50 - 99%,Non-residential - Public,6
+70458,4910863.0,41,597,0.9236,2093325.64,1.97576,5915501.84,Mitigation Reconstruction,50 - 99%,Single Family,6
+70460,3011896.0,14,157,0.9821428571428571,1482349.857142857,2.0532142857142857,4943280.714285715,Other (Specify in Comments),50 - 99%,Single Family,6
+70461,1794289.0,9,150,1.0,2098362.5555555555,1.8061111111111114,6770361.555555556,Elevation,50 - 99%,Single Family,6
+70462,1628533.0,10,103,0.922,1379268.3,1.9883000000000002,3552836.7,Mitigation Reconstruction,50 - 99%,Single Family,6
+70471,467735.0,2,24,0.8200000000000001,1543136.0,1.5425,4621377.0,Elevation,0 - 49%,Single Family,12
+70503,261548.0,1,13,1.0,1687799.0,1.185,2644685.0,Acquisition/Demolition,0 - 49%,Single Family,9
+70507,652900.0,8,91,1.0,1687799.0,1.185,2644685.0,Acquisition/Demolition,0 - 49%,Single Family,9
+70508,288633.0,2,10,1.0,659531.0,1.135,968189.0,Elevation,0 - 49%,Single Family,9
+70510,7952340.0,14,56,0.9971428571428572,1696665.0714285714,1.375357142857143,2419535.9285714286,Wind Retrofit,50 - 99%,Single Family,6
+70515,128462.0,1,10,1.0,890599.0,1.016,920237.0,Wind Retrofit,50 - 99%,Non-residential - Public,18
+70520,437847.0,4,36,1.0,1173665.0,1.1600000000000001,1806437.0,Elevation,0 - 49%,Single Family,18
+70524,58325.0,1,10,1.0,890599.0,1.016,920237.0,Wind Retrofit,50 - 99%,Non-residential - Public,29
+70525,78123.0,1,2,1.0,330285.0,1.0450000000000002,371711.0,Acquisition/Demolition,0 - 49%,Single Family,29
+70526,210594.0,1,2,1.0,210594.0,1.0,369355.0,Elevation,0 - 49%,Single Family,29
+70528,608927.0,11,101,1.0,473532.1818181818,2.3525454545454547,890741.3636363636,Elevation,0 - 49%,Vacant Land,12
+70535,252162.0,1,2,1.0,330285.0,1.0450000000000002,371711.0,Acquisition/Demolition,0 - 49%,Single Family,18
+70538,758290.0,3,6,0.9933333333333333,275796.6666666667,3.8200000000000003,1998062.6666666667,Wind Retrofit,0 - 49%,Single Family,12
+70546,15620.0,2,18,0.75,489442.0,1.891,925467.0,Wind Retrofit,0 - 49%,Non-residential - Public,18
+70548,1064263.0,1,5,1.0,4030802.0,1.028,4486116.0,Wind Retrofit,0 - 49%,Non-residential - Public,6
+70554,108396.0,1,10,1.0,890599.0,1.016,920237.0,Wind Retrofit,0 - 49%,Non-residential - Public,29
+70560,868559.0,23,152,1.0,1024842.25,2.077666666666667,2502962.6666666665,Wind Retrofit,50 - 99%,Single Family,12
+70563,46279.0,1,18,1.0,1415268.0,2.555,3706918.0,Wind Retrofit,50 - 99%,Non-residential - Public,9
+70576,69550.0,1,10,1.0,890599.0,1.016,920237.0,Wind Retrofit,0 - 49%,Non-residential - Public,16
+70583,144793.0,1,5,1.0,659531.0,1.135,968189.0,Elevation,0 - 49%,Single Family,18
+70585,59539.0,1,10,1.0,890599.0,1.016,920237.0,Wind Retrofit,0 - 49%,Non-residential - Public,9
+70586,466328.0,4,40,1.0,890599.0,1.016,920237.0,Wind Retrofit,50 - 99%,Non-residential - Public,21
+70592,226236.0,1,13,1.0,1687799.0,1.185,2644685.0,Acquisition/Demolition,0 - 49%,Single Family,9
+70601,425796.0,4,21,1.0,864600.25,1.2205000000000001,360168.0,Wind Retrofit,0 - 49%,Single Family,18
+70605,2267036.0,10,90,0.967,1316654.4,1.0836999999999999,1270794.2,Other (Specify in Comments),50 - 99%,Single Family,6
+70607,1152148.0,5,60,1.0,1971236.6,0.7718,1471991.2,Wind Retrofit,50 - 99%,Single Family,6
+70611,449648.0,3,42,1.0,2395807.0,0.0,0.0,Elevation,50 - 99%,Single Family,18
+70615,370877.0,7,47,0.8214285714285714,338487.1928571429,1.6014285714285716,924585.7142857143,Wind Retrofit,0 - 49%,Single Family,12
+70631,241184.0,4,20,0.875,301893.0,1.25875,579667.75,Wind Retrofit,50 - 99%,Non-residential - Public,6
+70632,8629.0,1,9,0.75,489442.0,1.891,925467.0,Wind Retrofit,0 - 49%,Non-residential - Public,6
+70634,1059164.0,8,26,1.0,445646.25,1.4265,707739.0,Acquisition/Demolition,50 - 99%,Single Family,21
+70645,468758.0,1,2,1.0,948402.0,1.339,1338842.0,Wind Retrofit,0 - 49%,Non-residential - Public,6
+70663,1683821.0,11,101,0.9672727272727273,1418897.1818181819,1.4286363636363637,888915.0,Wind Retrofit,50 - 99%,Single Family,29
+70665,461360.0,4,35,0.9275,1409131.5,0.6275000000000001,294500.0,Elevation,50 - 99%,Single Family,6
+70669,265312.0,2,10,0.98,787762.5,1.371,1089205.5,Elevation,0 - 49%,Single Family,18
+70723,2129205.0,2,2,1.0,1064603.0,1.1895000000000002,1174089.0,Wind Retrofit,0 - 49%,Non-residential - Public,15
+70726,809806.0,5,53,0.9620000000000001,1389880.0,2.1526000000000005,3855420.0,Elevation,50 - 99%,Single Family,18
+70734,177151.0,1,2,1.0,246567.0,1.069,638273.0,Floodproofed,0 - 49%,Non-residential - Public,18
+70737,933361.0,7,30,1.0,688366.8571428572,1.2124285714285714,1078336.142857143,Floodproofed,0 - 49%,Single Family,18
+70767,168882.0,1,5,1.0,1276074.0,1.63,2299933.0,Acquisition/Demolition,0 - 49%,Single Family,15
+70769,2241414.0,11,83,0.9781818181818182,760910.9090909091,1.4670909090909092,1101000.0,Mitigation Reconstruction,50 - 99%,Single Family,18
+70774,147405.0,1,5,1.0,1276074.0,1.63,2299933.0,Acquisition/Demolition,0 - 49%,Single Family,29
+70775,68935.0,2,4,1.0,68935.0,2.9250000000000003,391903.0,Elevation,0 - 49%,Single Family,21
+70776,563194.0,1,1,0.75,563194.0,1.083,934986.0,Wind Retrofit,50 - 99%,Non-residential - Public,29
+70802,342575.0,5,21,1.0,543916.8574999999,2.55025,993159.0,Wind Retrofit,50 - 99%,Single Family,9
+70811,107000.0,1,9,1.0,1645372.43,1.075,2238324.0,Acquisition/Demolition,50 - 99%,Single Family,16
+70814,508114.0,3,27,1.0,1645372.43,1.075,2238324.0,Acquisition/Demolition,50 - 99%,Single Family,16
+70817,558983.0,3,27,1.0,1645372.43,1.075,2238324.0,Acquisition/Demolition,50 - 99%,Single Family,16
+70818,268700.0,1,9,1.0,1645372.43,1.075,2238324.0,Acquisition/Demolition,50 - 99%,Single Family,16
+71037,923906.0,10,158,0.75,1283547.3,1.2397,1628400.0,Acquisition/Demolition,50 - 99%,Single Family,19
+71047,530840.0,7,42,0.75,553780.0,8.246,1808985.3333333333,Acquisition/Demolition,0 - 49%,Single Family,21
+71051,91183.0,1,17,0.75,1342593.0,1.192,1656000.0,Acquisition/Demolition,50 - 99%,Single Family,29
+71101,240000.0,4,8,1.0,738567.0,1.136,1190502.0,Acquisition/Demolition,0 - 49%,Single Family,9
+71106,252000.0,2,18,0.75,695000.0,4.034,451823.0,Acquisition/Demolition,0 - 49%,Single Family,19
+71111,210948.0,3,5,0.8333333333333334,191324.33333333334,2.3493333333333335,492245.3333333333,Acquisition/Demolition,0 - 49%,Single Family,16
+71112,561347.0,3,21,0.9166666666666666,591010.3333333334,1.1273333333333333,711468.0,Acquisition/Demolition,50 - 99%,Single Family,19
+71118,308000.0,2,18,0.75,695000.0,4.034,451823.0,Acquisition/Demolition,0 - 49%,Single Family,16
+71119,59086.0,1,1,0.75,75750.0,1.35,102261.0,Elevation,0 - 49%,Single Family,19
+71237,166461.0,2,3,0.94,165682.5,1.0465,185011.5,Acquisition/Demolition,50 - 99%,Single Family,15
+71263,243905.0,2,3,0.94,190405.0,0.5145,150551.5,Acquisition/Demolition,50 - 99%,Single Family,21
+71266,52500.0,1,1,0.75,145000.0,1.211,87804.0,Acquisition/Demolition,0 - 49%,Single Family,24
+71295,730168.0,5,30,1.0,742314.0,2.367,2348020.0,Wind Retrofit,50 - 99%,Non-residential - Public,15
+71303,361571.0,2,4,1.0,361571.0,1.109,781970.0,Wind Retrofit,50 - 99%,Non-residential - Public,18
+71336,12146.0,1,6,1.0,742314.0,2.367,2348020.0,Wind Retrofit,50 - 99%,Non-residential - Public,15
+71351,211985.0,2,3,0.75,194379.5,2.571,1045125.0,Mitigation Reconstruction,100%,Single Family,15
+71417,300000.0,1,2,1.0,603449.0,1.056,637319.0,Wind Retrofit,50 - 99%,Non-residential - Public,29
+71418,127200.0,2,4,1.0,127200.0,1.2990000000000002,165180.0,Wind Retrofit,0 - 49%,Non-residential - Public,24
+71449,800766.0,2,4,1.0,800766.0,1.054,853825.0,Wind Retrofit,50 - 99%,Non-residential - Public,23
+72102,661500.0,1,1,0.75,882000.0,3.0780000000000003,2714443.0,Safe Room/Wind Shelter,50 - 99%,Non-residential - Public,14
+72454,19400.0,1,1,0.75,19400.0,1.4460000000000002,28061.0,Acquisition/Relocation,50 - 99%,Other (Specify in Comments),5
+73006,873316.0,23,239,0.7091304347826086,491353.347826087,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,14
+73044,1365.0,1,525,0.75,999763.0,0.0,0.0,Safe Room/Wind Shelter,0 - 49%,Single Family,28
+73067,1724.0,1,125,0.67,373396.0,8.316,22037.0,Safe Room/Wind Shelter,0 - 49%,Single Family,14
+73099,2000.0,2,690,0.59,2330724.0,3.5940000000000003,11412.0,Safe Room/Wind Shelter,0 - 49%,Single Family,3
+73132,144626.0,1,3,0.75,561509.0,3.69,3584625.0,Acquisition/Demolition,0 - 49%,Single Family,28
+73141,742000.0,10,190,0.75,1751755.0,1.288,2296681.0,Acquisition/Demolition,50 - 99%,Single Family,1
+73401,65067.0,1,1,0.75,87247.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,3
+73507,1500.0,1,305,0.75,608691.0,0.0,0.0,Safe Room/Wind Shelter,0 - 49%,Single Family,3
+73750,140732.0,7,77,0.75,219241.0,2.6340000000000003,1185522.0,Acquisition/Demolition,50 - 99%,Single Family,1
+74003,28000.0,1,4,0.74,153250.0,2.4210000000000003,291150.0,Acquisition/Demolition,50 - 99%,Single Family,23
+74008,1347066.0,28,812,0.75,4189459.0,2.46,4507088.0,Acquisition/Demolition,50 - 99%,Single Family,5
+74063,2869264.0,25,575,0.75,2250516.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,5
+74066,1704000.0,26,624,0.75,2245150.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,10
+74070,40000.0,1,1,0.69,57736.0,1.108,99736.0,Acquisition/Demolition,50 - 99%,Single Family,21
+74104,314855.0,2,8,0.75,595804.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,11
+74105,130220.0,1,4,0.75,595804.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,9
+74114,101099.0,1,11,0.75,1597215.0,1.891,3720000.0,Acquisition/Demolition,50 - 99%,Single Family,16
+74115,94979.0,1,11,0.75,1597215.0,1.891,3720000.0,Acquisition/Demolition,50 - 99%,Single Family,28
+74127,484060.0,1,11,0.75,1597215.0,1.891,3720000.0,Acquisition/Demolition,50 - 99%,Single Family,24
+74130,101016.0,1,11,0.75,1597215.0,1.891,3720000.0,Acquisition/Demolition,50 - 99%,Single Family,16
+74132,272531.0,2,6,0.75,561509.0,3.69,3584625.0,Acquisition/Demolition,0 - 49%,Single Family,28
+74133,696879.0,3,33,0.75,1597215.0,1.891,3720000.0,Acquisition/Demolition,50 - 99%,Single Family,28
+74135,273715.0,2,15,0.75,1096509.5,0.9455,1860000.0,Acquisition/Demolition,50 - 99%,Single Family,28
+74136,288721.0,1,11,0.75,1597215.0,1.891,3720000.0,Acquisition/Demolition,50 - 99%,Single Family,9
+74137,156004.0,1,11,0.75,1597215.0,1.891,3720000.0,Acquisition/Demolition,50 - 99%,Single Family,28
+74346,0.0,1,58,0.57,168600.0,28.143,73171.0,Safe Room/Wind Shelter,100%,Single Family,21
+74403,721232.0,11,169,0.6818181818181818,865083.5454545454,1.3425454545454545,962732.8181818182,Safe Room/Wind Shelter,50 - 99%,Single Family,19
+74429,688604.0,11,132,0.7400000000000001,1010466.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,23
+74464,50000.0,1,1,0.75,50000.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,21
+74525,371992.0,2,2,0.75,248308.0,0.5,72476.5,Safe Room/Wind Shelter,50 - 99%,Single Family,14
+74601,398307.0,6,32,0.75,526416.0,1.346,657699.0,Acquisition/Demolition,50 - 99%,Single Family,28
+74604,239846.0,2,8,0.75,429294.0,1.3780000000000001,625071.0,Acquisition/Demolition,50 - 99%,Single Family,23
+74701,867699.0,17,306,0.75,1231180.0,1.234,1630000.0,Acquisition/Demolition,50 - 99%,Single Family,23
+74830,133401.0,1,1,0.74,180825.0,8.68,1135101.0,Safe Room/Wind Shelter,0 - 49%,Other (Specify in Comments),25
+74962,1871.0,1,69,0.62,216154.0,6.55,1310000.0,Safe Room/Wind Shelter,0 - 49%,Single Family,10
+75146,91000.0,1,15,0.75,1412269.0,1.114,1779252.0,Acquisition/Demolition,50 - 99%,Single Family,25
+75601,46902.0,1,14,0.75,1586100.0,16.604,19277765.0,Acquisition/Demolition,0 - 49%,Single Family,3
+75605,732364.0,12,168,0.75,1586100.0,16.604,19277765.0,Acquisition/Demolition,0 - 49%,Single Family,23
+75831,304737.0,3,108,0.5,201697.0,2.301,856.0,Safe Room/Wind Shelter,0 - 49%,Single Family,0
+75846,5229.0,2,72,0.5,201697.0,2.301,856.0,Safe Room/Wind Shelter,0 - 49%,Single Family,0
+75855,14250.0,5,144,0.5,201697.0,2.301,856.0,Safe Room/Wind Shelter,0 - 49%,Single Family,4
+75901,1731000.0,11,132,0.75,1252647.0,1.016,1453202.0,Acquisition/Demolition,50 - 99%,Single Family,0
+75932,270928.0,11,132,0.75,1840995.0,1.249,3089572.0,Acquisition/Demolition,50 - 99%,Single Family,21
+76053,492945.0,7,49,0.75,568537.0,1.3830000000000002,1054309.0,Acquisition/Demolition,50 - 99%,Single Family,2
+76063,2198401.0,7,29,0.75,619900.7142857143,1.4564285714285714,904028.8571428572,Acquisition/Demolition,50 - 99%,Single Family,25
+76240,285000.0,2,2,0.75,570000.0,1.061,604577.0,Acquisition/Demolition,0 - 49%,Single Family,23
+76305,135000.0,1,1,0.75,151876.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,21
+76308,338521.0,3,9,0.75,438439.0,2.43,1964071.0,Acquisition/Demolition,50 - 99%,Single Family,19
+76537,2186.0,1,36,0.5,201697.0,2.301,856.0,Safe Room/Wind Shelter,0 - 49%,Single Family,25
+76801,90387.0,1,1,0.75,120516.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,0
+77002,611214.0,7,4018,0.75,59148597.0,1.124,66500000.0,Acquisition/Demolition,50 - 99%,Single Family,9
+77004,142880.0,1,574,0.75,59148597.0,1.124,66500000.0,Acquisition/Demolition,50 - 99%,Single Family,9
+77007,92469.0,1,574,0.75,59148597.0,1.124,66500000.0,Acquisition/Demolition,50 - 99%,Single Family,16
+77008,2518078.0,15,6999,0.75,47894599.2,0.8992000000000001,53200000.0,Acquisition/Demolition,50 - 99%,Single Family,11
+77009,625287.0,5,1796,0.75,36640601.4,0.6744000000000001,39900000.0,Acquisition/Demolition,50 - 99%,Single Family,9
+77013,4435657.0,73,33530,0.75,53110572.92307692,1.0029538461538463,59338461.538461536,Acquisition/Demolition,50 - 99%,Single Family,12
+77015,1025315.0,11,3608,0.75,33700270.90909091,0.6130909090909091,36272727.27272727,Acquisition/Demolition,50 - 99%,Single Family,9
+77016,266596.0,6,3444,0.75,59148597.0,1.124,66500000.0,Acquisition/Demolition,50 - 99%,Single Family,16
+77018,70956.0,2,611,0.75,31013602.5,0.562,33250000.0,Acquisition/Demolition,50 - 99%,Single Family,16
+77022,1293540.0,22,8790,0.75,43206539.0,0.802857142857143,47500000.0,Acquisition/Demolition,50 - 99%,Single Family,9
+77023,2452371.0,12,711,0.75,6997832.916666667,0.09366666666666668,5541666.666666667,Acquisition/Demolition,50 - 99%,Single Family,9
+77025,1473606.0,8,2444,0.75,31013602.5,0.562,33250000.0,Acquisition/Demolition,50 - 99%,Single Family,9
+77026,354673.0,9,5166,0.75,59148597.0,1.124,66500000.0,Acquisition/Demolition,50 - 99%,Single Family,16
+77027,482062.0,7,4018,0.75,59148597.0,1.124,66500000.0,Acquisition/Demolition,50 - 99%,Single Family,11
+77028,229159.0,4,2296,0.75,59148597.0,1.124,66500000.0,Acquisition/Demolition,50 - 99%,Single Family,16
+77029,42500.0,1,574,0.75,59148597.0,1.124,66500000.0,Acquisition/Demolition,50 - 99%,Single Family,18
+77032,3345494.0,76,6801,0.75,4249998.2463768115,0.058782608695652175,1268115.9420289856,Acquisition/Demolition,50 - 99%,Single Family,18
+77033,55606.0,1,574,0.75,59148597.0,1.124,66500000.0,Acquisition/Demolition,50 - 99%,Single Family,9
+77034,220706.0,5,2870,0.75,59148597.0,1.124,66500000.0,Acquisition/Demolition,50 - 99%,Single Family,16
+77037,834346.0,21,5163,0.75,22563401.05,0.3934,23275000.0,Acquisition/Demolition,50 - 99%,Single Family,18
+77038,3557696.0,85,7241,0.75,4157176.5443037977,0.014227848101265823,841772.1518987342,Acquisition/Demolition,50 - 99%,Single Family,12
+77039,2718672.0,111,8956,0.75,6836597.714285715,0.06422857142857144,3800000.0,Acquisition/Relocation,50 - 99%,Single Family,18
+77040,17952454.0,260,74185,0.75,42179338.428571425,1.6531428571428572,51348241.75824176,Acquisition/Relocation,50 - 99%,Single Family,9
+77045,507672.0,8,4592,0.75,59148597.0,1.124,66500000.0,Acquisition/Demolition,50 - 99%,Single Family,18
+77050,124301.0,4,289,0.75,3274694.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+77057,67000.0,1,574,0.75,59148597.0,1.124,66500000.0,Acquisition/Demolition,50 - 99%,Single Family,11
+77060,1195803.0,18,5215,0.75,28304177.555555556,0.4995555555555556,29555555.555555556,Acquisition/Demolition,50 - 99%,Single Family,18
+77066,93569.0,3,800,0.75,21879769.0,0.3746666666666667,22166666.666666668,Acquisition/Demolition,50 - 99%,Single Family,18
+77074,168300.0,1,75,0.75,10058026.85,1.107,11000000.0,Acquisition/Demolition,50 - 99%,Single Family,9
+77078,1013839.0,19,10906,0.75,59148597.0,1.124,66500000.0,Acquisition/Demolition,50 - 99%,Single Family,16
+77079,48235.0,1,574,0.75,59148597.0,1.124,66500000.0,Acquisition/Demolition,50 - 99%,Single Family,9
+77080,156656.0,2,60,0.75,3351394.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,11
+77082,394.0,1,94,0.75,2696370.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,9
+77088,8999662.0,109,53125,0.75,55712839.8367347,1.055183673469388,62428571.428571425,Acquisition/Demolition,50 - 99%,Single Family,9
+77089,1178824.0,16,7573,0.75,48597974.0625,0.9132500000000001,54031250.0,Acquisition/Demolition,50 - 99%,Single Family,16
+77090,265759.0,2,639,0.75,31631719.5,0.562,33250000.0,Acquisition/Demolition,50 - 99%,Single Family,16
+77092,2122080.0,26,5516,0.75,21636885.5,2.539846153846154,44480145.84615385,Acquisition/Demolition,50 - 99%,Single Family,16
+77093,2350216.0,54,21962,0.75,45400431.6122449,0.8487346938775511,50214285.71428572,Acquisition/Demolition,50 - 99%,Single Family,18
+77096,567830.0,3,1722,0.75,59148597.0,1.124,66500000.0,Acquisition/Demolition,50 - 99%,Single Family,9
+77304,1545994.0,20,420,0.75,1788372.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+77327,313500.0,11,560,0.75,3293091.0,1.848,18500000.0,Acquisition/Demolition,50 - 99%,Single Family,29
+77328,107250.0,3,168,0.75,3293091.0,1.848,18500000.0,Acquisition/Demolition,50 - 99%,Single Family,21
+77331,42824.0,1,1,0.75,72484.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,18
+77338,259384.0,2,95,0.75,3247588.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+77339,135000.0,1,574,0.75,59148597.0,1.124,66500000.0,Acquisition/Demolition,50 - 99%,Single Family,18
+77346,37672.0,1,94,0.75,2696370.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+77357,30304.0,1,3,0.75,256632.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,18
+77368,3750.0,1,56,0.75,3293091.0,1.848,18500000.0,Acquisition/Demolition,50 - 99%,Single Family,29
+77373,75247.0,1,3,0.75,256632.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+77396,1012016.0,45,4742,0.75,8114662.542857143,0.09634285714285715,5700000.0,Acquisition/Relocation,50 - 99%,Single Family,16
+77488,102240.0,1,2,0.75,136320.0,2.891,394035.0,Acquisition/Demolition,50 - 99%,Single Family,4
+77503,89474.0,1,1,0.75,2188861.0,3.39,8456456.0,Acquisition/Demolition,50 - 99%,Single Family,16
+77505,2896521.0,43,1935,0.75,5455076.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+77506,757468.0,8,248,0.75,3857217.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,9
+77530,26660.0,1,3,0.75,256632.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,18
+77535,874397.0,31,1624,0.75,3293091.0,1.8480000000000003,18500000.0,Acquisition/Demolition,50 - 99%,Single Family,29
+77546,16369313.0,120,13794,0.75,19189062.0,0.0,0.0,Acquisition/Relocation,50 - 99%,Single Family,18
+77547,26704.0,1,1,0.75,36650.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,18
+77554,14297970.0,48,2256,0.75,14779624.41,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,12
+77561,35250.0,1,56,0.75,3293091.0,1.848,18500000.0,Acquisition/Demolition,50 - 99%,Single Family,15
+77575,822500.0,12,408,0.75,2205151.727272727,3.1574545454545455,12714715.636363637,Acquisition/Demolition,50 - 99%,Single Family,18
+77581,8392130.0,78,6984,0.75,10604640.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,18
+77586,231545.0,2,60,0.75,3351394.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,12
+77611,2367466.0,34,1253,0.75,4049132.2278787876,0.27745454545454545,14069.424242424242,Acquisition/Demolition,50 - 99%,Single Family,6
+77625,42000.0,1,10,0.75,835348.0,1.381,1528690.0,Acquisition/Demolition,50 - 99%,Single Family,21
+77630,1021932.0,8,241,0.75,3187298.77,1.1445,58036.375,Acquisition/Demolition,50 - 99%,Single Family,6
+77655,58290.0,1,59,0.75,6154208.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,6
+77656,50372.0,1,10,0.75,835348.0,1.381,1528690.0,Acquisition of Vacant Land,50 - 99%,Single Family,0
+77657,345348.0,4,40,0.75,835348.0,1.381,1528690.0,Acquisition/Demolition,50 - 99%,Single Family,0
+77659,341404.0,4,40,0.75,835348.0,1.381,1528690.0,Acquisition/Demolition,50 - 99%,Single Family,21
+77662,171311.0,3,11,0.75,258747.66666666666,6.457000000000001,335194.0,Acquisition/Demolition,50 - 99%,Single Family,18
+77665,151984.0,1,46,0.75,5755907.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+77703,271664.0,12,144,0.75,406840.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+77705,10788016.0,103,5433,0.75,5978486.970588235,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+77707,83275.0,1,1,0.75,88960.0,3.1260000000000003,337429.0,Acquisition/Demolition,50 - 99%,Single Family,16
+77807,2987.0,1,36,0.5,201697.0,2.301,856.0,Safe Room/Wind Shelter,0 - 49%,Single Family,0
+77836,21687.0,7,252,0.5,201697.0,2.3009999999999997,856.0,Safe Room/Wind Shelter,0 - 49%,Single Family,0
+77837,3000.0,1,36,0.5,201697.0,2.301,856.0,Safe Room/Wind Shelter,0 - 49%,Manufactured Home,21
+77840,88554.0,4,552,0.6875,3798529.0,0.57525,214.0,Safe Room/Wind Shelter,50 - 99%,Single Family,25
+77845,7975.0,4,108,0.5,201697.0,2.301,856.0,Safe Room/Wind Shelter,0 - 49%,Single Family,16
+77856,2987.0,1,36,0.5,201697.0,2.301,856.0,Safe Room/Wind Shelter,0 - 49%,Single Family,0
+77861,2353.0,1,36,0.5,201697.0,2.301,856.0,Safe Room/Wind Shelter,0 - 49%,Single Family,0
+77868,2987.0,1,36,0.5,201697.0,2.301,856.0,Safe Room/Wind Shelter,0 - 49%,Single Family,0
+77871,3000.0,1,36,0.5,201697.0,2.301,856.0,Safe Room/Wind Shelter,0 - 49%,Single Family,0
+77872,3000.0,1,36,0.5,201697.0,2.301,856.0,Safe Room/Wind Shelter,0 - 49%,Single Family,0
+77901,21770.0,1,10,0.75,467709.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+77905,183764.0,6,60,0.75,467709.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,0
+77963,316236.0,13,61,0.75,175848.46153846153,1.9356923076923078,339060.23076923075,Other (Specify in Comments),50 - 99%,Single Family,0
+77968,263000.0,2,4,0.75,316681.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,4
+78013,391662.0,8,64,0.75,530851.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,0
+78022,1726620.0,44,1068,0.75,1282841.7272727273,0.0,0.0,Other (Specify in Comments),50 - 99%,Single Family,4
+78028,92723.0,1,17,0.75,997160.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,0
+78113,692167.0,13,121,0.75,224605.0,1.4366153846153848,338878.6153846154,Other (Specify in Comments),50 - 99%,Single Family,4
+78114,624493.0,11,56,0.75,388925.8181818182,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,0
+78130,1772707.0,20,479,0.75,2481443.5263157897,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+78132,456559.0,4,112,0.75,3245836.0,0.0,0.0,Other (Specify in Comments),50 - 99%,Single Family,0
+78133,1597658.0,15,420,0.75,3245836.0,0.0,0.0,Other (Specify in Comments),50 - 99%,Single Family,0
+78163,817442.0,10,110,0.75,1144395.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,0
+78201,413.0,1,14,0.75,530325.0,0.0,0.0,Other (Specify in Comments),50 - 99%,Single Family,25
+78209,582750.0,2,4,0.75,776999.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+78213,32640.0,1,14,0.75,530325.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Manufactured Home,25
+78227,42747.0,1,14,0.75,530325.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,16
+78228,98866.0,2,28,0.75,530325.0,0.0,0.0,Other (Specify in Comments),50 - 99%,Single Family,16
+78257,223077.0,9,126,0.75,530325.0,0.0,0.0,Other (Specify in Comments),50 - 99%,Single Family,0
+78368,677802.0,10,110,0.75,908012.0,0.0,0.0,Other (Specify in Comments),50 - 99%,Single Family,0
+78617,305742.0,8,64,0.75,548215.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Manufactured Home,0
+78654,300565.0,8,72,0.75,396067.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,29
+78676,1414749.0,28,784,0.75,1466126.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,21
+78719,228000.0,3,12,0.75,369628.0,1.234,968198.0,Acquisition/Demolition,0 - 49%,Single Family,18
+78744,1155413.0,11,321,0.75,2982177.8181818184,0.25872727272727275,2158293.090909091,Acquisition/Demolition,50 - 99%,Single Family,16
+78745,7249171.0,27,629,0.75,7262222.527777778,4.279629629629629,934553.7037037037,Acquisition/Demolition,50 - 99%,Single Family,16
+78753,660000.0,2,4,0.75,712549.38,1.163,880408.0,Acquisition/Demolition,0 - 49%,Single Family,16
+78839,80463.0,3,9,0.75,107284.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,4
+78840,2585851.0,88,14104,0.75,4997473.0,0.0,0.0,Acquisition/Relocation,50 - 99%,Single Family,0
+78945,693449.0,11,154,0.75,974407.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,0
+79501,80500.0,1,12,0.75,1252647.0,1.016,1453202.0,Acquisition/Demolition,50 - 99%,Single Family,0
+79905,51755391.0,8,88,0.75,1021975.0,1.66,1881333.0,Acquisition/Demolition,50 - 99%,Single Family,9
+80302,2133498.0,6,162,0.75,9131159.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,21
+80455,1373241.0,6,60,0.75,1565861.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,20
+80503,213000.0,1,27,0.75,9131159.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,3
+80540,9206702.0,30,828,0.75,6234274.4,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,20
+80808,163800.0,1,1,0.75,218400.0,1.098,239750.0,Safe Room/Wind Shelter,50 - 99%,Non-residential - Public,23
+80829,248947.0,3,9,0.75,123361.0,1.0,123361.0,Acquisition/Demolition,50 - 99%,Single Family,24
+80905,1511990.0,5,45,0.75,8319889.720000001,2.3240000000000003,37672095.0,Acquisition/Demolition,50 - 99%,Single Family,19
+80906,3576079.0,6,66,0.75,5369201.86,2.3240000000000003,37672095.0,Acquisition/Demolition,50 - 99%,Single Family,18
+81050,1239107.0,32,1312,0.41,2186642.0,1.888,4128000.0,Acquisition/Demolition,50 - 99%,Single Family,23
+82007,110000.0,1,1,0.55,127265.0,0.934,5985950.0,Acquisition/Demolition,0 - 49%,Manufactured Home,23
+82225,539858.0,6,36,0.75,454991.11000000004,1.0,507840.0,Acquisition/Demolition,50 - 99%,Vacant Land,21
+84713,182000.0,1,1,0.75,216663.0,1.152,249642.0,Acquisition/Demolition,0 - 49%,Single Family,0
+85320,355870.0,5,76,0.75,482628.0,1.0,361971.0,Acquisition/Demolition,50 - 99%,Single Family,23
+85357,411987.0,29,640,0.75,444808.0,1.0,447683.0,Acquisition/Relocation,50 - 99%,Vacant Land,23
+85545,266767.0,3,9,0.75,298388.0,1.235,526457.0,Acquisition/Demolition,50 - 99%,Single Family,4
+94044,833359.0,1,2,0.53,1567444.0,0.0,0.0,Acquisition/Demolition,100%,Single Family,17
+95451,41000.0,1,1,0.75,864775.0,3.325,2767164.0,Wildfire Retrofit,0 - 49%,Other (Specify in Comments),17
+96142,3465.0,1,354,0.75,4465139.0,6.965000000000001,36202963.0,Wildfire Retrofit,0 - 49%,Single Family,10
+96150,23942.0,4,1416,0.75,4465139.0,6.965000000000001,36202963.0,Wildfire Retrofit,0 - 49%,Single Family,27
+97016,392238.0,6,234,0.75,5694397.0,1.04,354374.0,Elevation,100%,Single Family,22
+97045,811370.0,4,16,0.75,1019770.0,0.0,0.0,Elevation,50 - 99%,Single Family,10
+97049,620192.0,3,12,0.75,684842.0,4.416,1424214.0,Acquisition/Demolition,50 - 99%,Single Family,22
+97064,8157321.0,71,4882,0.7497142857142857,10289428.414285714,0.06417142857142857,24809.185714285715,Floodproofed,50 - 99%,Single Family,22
+97141,2198657.0,4,6,0.74,881645.25,0.35550000000000004,81738.75,Elevation,50 - 99%,Non-residential - Private,22
+97202,10159.0,2,46,0.75,136190.0,3.2590000000000003,512413.0,Seismic Retrofit,0 - 49%,Single Family,28
+97211,8878.0,2,46,0.75,136190.0,3.2590000000000003,512413.0,Seismic Retrofit,0 - 49%,Single Family,28
+97212,26087.0,6,138,0.75,136190.0,3.2590000000000003,512413.0,Seismic Retrofit,0 - 49%,Single Family,28
+97214,3491.0,1,23,0.75,136190.0,3.2590000000000003,512413.0,Seismic Retrofit,0 - 49%,Single Family,5
+97215,4734.0,1,23,0.75,136190.0,3.2590000000000003,512413.0,Seismic Retrofit,0 - 49%,Single Family,28
+97217,13202.0,3,69,0.75,136190.0,3.2590000000000003,512413.0,Seismic Retrofit,0 - 49%,Single Family,28
+97219,5967.0,2,46,0.75,136190.0,3.2590000000000003,512413.0,Seismic Retrofit,0 - 49%,Single Family,28
+97330,782238.0,2,2,0.7150000000000001,536810.5,10.389999999999999,3572119.0,Acquisition/Relocation,50 - 99%,Single Family,5
+97361,108049.0,1,1,0.69,155534.0,1.32,180229.0,Elevation,50 - 99%,Single Family,5
+97374,536694.0,3,5,0.75,281016.3333333333,2.2946666666666666,571213.6666666666,Seismic Retrofit,50 - 99%,Single Family,22
+97392,97392.0,1,1,0.73,97392.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,22
+97420,440670.0,4,28,0.75,967383.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,5
+97444,256943.0,1,1,0.75,256943.0,3.502,934051.0,Acquisition/Demolition,50 - 99%,Single Family,17
+97453,77903.0,1,1,0.75,103871.0,2.155,223852.0,Elevation,0 - 49%,Single Family,22
+97459,190082.0,1,1,0.71,190082.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,5
+97520,52019.0,1,2,0.75,506700.0,1.59,76472.0,Elevation,0 - 49%,Single Family,14
+97526,379541.0,1,2,0.75,506700.0,1.59,76472.0,Acquisition/Demolition,50 - 99%,Single Family,22
+97604,63986.0,1,75,0.75,11048020.0,0.0,0.0,Elevation,0 - 49%,Single Family,20
+98003,130421.0,1,1,0.75,130421.0,3.0740000000000003,400875.0,Seismic Retrofit,0 - 49%,Non-residential - Public,27
+98014,807309376.0,3,39,0.75,1388117.0,1.438,1995757.0,Elevation,0 - 49%,Single Family,22
+98019,544200.0,2,16,0.75,931456.5,1.714,1584300.5,Elevation,0 - 49%,Single Family,10
+98024,238000.0,3,6,0.75,637302.0,0.0,0.0,Acquisition/Demolition,50 - 99%,Single Family,22
+98027,1498725.0,8,34,0.75,931163.75,1.9460000000000002,1747393.625,Elevation,100%,Single Family,5
+98031,91179.0,1,3,0.75,404893.0,2.5500000000000003,1555598.0,Seismic Retrofit,0 - 49%,Other (Specify in Comments),27
+98032,193036.0,2,6,0.75,404893.0,2.5500000000000003,1555598.0,Seismic Retrofit,0 - 49%,Other (Specify in Comments),22
+98038,210000.0,1,4,0.75,890459.0,1.005,906338.0,Acquisition/Demolition,0 - 49%,Single Family,5
+98045,1111273.0,6,26,0.75,838754.8333333334,1.7886666666666668,1550329.5,Other (Specify in Comments),50 - 99%,Single Family,22
+98058,838384.0,3,12,0.75,902717.3333333334,1.186,1086303.0,Acquisition/Demolition,100%,Single Family,27
+98065,4476409.0,49,400,0.75,1058464.2432432433,1.014,1054062.6486486488,Elevation,50 - 99%,Single Family,5
+98103,5500.0,13,162,0.75,1000000.0,1.007,1006725.0,Seismic Retrofit,0 - 49%,Single Family,7
+98105,5500.0,8,162,0.75,1000000.0,1.007,1006725.0,Seismic Retrofit,0 - 49%,Single Family,27
+98106,5500.0,11,162,0.75,1000000.0,1.007,1006725.0,Seismic Retrofit,0 - 49%,Single Family,27
+98107,5500.0,3,162,0.75,1000000.0,1.007,1006725.0,Seismic Retrofit,0 - 49%,Single Family,27
+98108,5500.0,7,162,0.75,1000000.0,1.007,1006725.0,Seismic Retrofit,0 - 49%,Single Family,27
+98109,5500.0,2,162,0.75,1000000.0,1.007,1006725.0,Seismic Retrofit,0 - 49%,Single Family,7
+98112,5500.0,3,162,0.75,1000000.0,1.007,1006725.0,Seismic Retrofit,0 - 49%,Single Family,27
+98115,5500.0,11,162,0.75,1000000.0,1.007,1006725.0,Seismic Retrofit,0 - 49%,Single Family,27
+98116,5500.0,10,162,0.75,1000000.0,1.007,1006725.0,Seismic Retrofit,0 - 49%,Single Family,27
+98117,5500.0,17,162,0.75,1000000.0,1.007,1006725.0,Seismic Retrofit,0 - 49%,Single Family,7
+98118,5500.0,20,162,0.75,1000000.0,1.007,1006725.0,Seismic Retrofit,0 - 49%,Single Family,27
+98119,5500.0,2,162,0.75,1000000.0,1.007,1006725.0,Seismic Retrofit,0 - 49%,Single Family,7
+98122,5500.0,11,162,0.75,1000000.0,1.007,1006725.0,Seismic Retrofit,0 - 49%,Single Family,7
+98125,5500.0,6,162,0.75,1000000.0,1.007,1006725.0,Seismic Retrofit,0 - 49%,Single Family,27
+98126,5500.0,11,162,0.75,1000000.0,1.007,1006725.0,Seismic Retrofit,0 - 49%,Single Family,7
+98133,5500.0,5,162,0.75,1000000.0,1.007,1006725.0,Seismic Retrofit,0 - 49%,Single Family,27
+98136,5500.0,2,162,0.75,1000000.0,1.007,1006725.0,Seismic Retrofit,0 - 49%,Single Family,27
+98144,5500.0,6,162,0.75,1000000.0,1.007,1006725.0,Seismic Retrofit,0 - 49%,Single Family,27
+98177,5500.0,6,162,0.75,1000000.0,1.007,1006725.0,Seismic Retrofit,0 - 49%,Single Family,7
+98178,5500.0,2,162,0.75,1000000.0,1.007,1006725.0,Seismic Retrofit,0 - 49%,Single Family,27
+98188,260833.0,2,4,0.75,1230529.0,1.944,2670044.0,Seismic Retrofit,0 - 49%,Other (Specify in Comments),27
+98198,2869163.0,2,8,0.75,1230529.0,1.944,2670044.0,Seismic Retrofit,0 - 49%,Other (Specify in Comments),27
+98199,5500.0,5,162,0.75,1000000.0,1.007,1006725.0,Seismic Retrofit,0 - 49%,Single Family,27
+98220,389755.0,1,1,0.75,414755.0,1.63,708965.0,Acquisition/Demolition,0 - 49%,Single Family,22
+98223,4690565.0,39,3000,0.75,3943016.717948718,2.3500769230769234,25635302.82051282,Acquisition/Relocation,100%,Vacant Land,5
+98226,303795.0,3,5,0.75,201865.33333333334,2.384,223533.33333333334,Acquisition/Demolition,50 - 99%,Single Family,5
+98233,32287.0,1,100,0.75,4666748.0,2.607,33423960.0,Acquisition of Vacant Land,100%,Single Family,5
+98237,527082.0,5,22,0.75,539724.8,1.9134,1051748.0,Acquisition/Demolition,50 - 99%,Single Family,22
+98244,893020.0,10,50,0.75,966987.0,1.241,1239406.0,Acquisition/Demolition,0 - 49%,Single Family,22
+98248,488750.0,2,4,0.75,608228.0,2.011,1223123.0,Acquisition/Relocation,0 - 49%,Single Family,5
+98256,211035.0,1,1,0.75,273874.0,3.641,1018259.0,Acquisition/Demolition,0 - 49%,Single Family,22
+98257,400239.0,1,1,0.75,400238.0,5.119000000000001,2048771.0,Seismic Retrofit,0 - 49%,Non-residential - Public,22
+98262,74900.0,1,1,0.75,74900.0,3.516,263383.0,Seismic Retrofit,0 - 49%,Non-residential - Public,10
+98282,178450.0,1,2,0.75,319800.0,1.5670000000000002,501132.0,Acquisition/Demolition,0 - 49%,Manufactured Home,17
+98290,299343.0,1,2,0.75,255948.0,8.112,2076206.0,Floodproofed,0 - 49%,Non-residential - Public,5
+98292,146000.0,1,2,0.75,142875.0,1.083,114746.0,Elevation,0 - 49%,Single Family,5
+98294,591371.0,3,5,0.75,354183.6666666667,2.4473333333333334,852012.6666666666,Acquisition/Demolition,50 - 99%,Single Family,22
+98360,835702531.0,13,43,0.75,659330.2307692308,6.621538461538463,3738795.230769231,Acquisition/Demolition,50 - 99%,Single Family,22
+98368,1369999.0,1,1,0.75,1826665.0,1.168,2266424.0,Seismic Retrofit,0 - 49%,Non-residential - Public,27
+98390,461442.0,2,6,0.75,666119.0,0.0,0.0,Acquisition/Demolition,100%,Manufactured Home,22
+98443,2331219.0,11,48,0.75,1113144.4,12.301400000000001,16290013.9,Acquisition/Demolition,50 - 99%,Single Family,27
+98501,6482.0,1,21,0.75,111854.0,2.988,334248.0,Seismic Retrofit,0 - 49%,Other (Specify in Comments),27
+98506,2241313.0,1,1,0.75,2241313.0,4.5,14600844.0,Seismic Retrofit,0 - 49%,Non-residential - Public,27
+98512,935303.0,1,1,0.75,875536.0,2.408,2107856.0,Seismic Retrofit,0 - 49%,Non-residential - Public,17
+98520,31193.0,1,1,0.75,31193.0,5.743,204579.0,Seismic Retrofit,0 - 49%,Non-residential - Public,22
+98531,1849018.0,26,561,0.75,1519025.576923077,1.3048076923076926,2399245.0,Elevation,50 - 99%,Single Family,22
+98532,263371.0,15,64,0.75,1191982.0,1.177,1407387.0,Elevation,50 - 99%,Single Family,22
+98568,169925.0,3,5,0.75,88098.0,1.5199999999999998,137516.66666666666,Elevation,50 - 99%,Single Family,22
+98586,497522.0,1,1,0.75,497522.0,3.186,1589706.0,Seismic Retrofit,0 - 49%,Non-residential - Public,22
