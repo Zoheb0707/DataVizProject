@@ -1,5 +1,6 @@
 CREATE TABLE zip_codes (ZIP char(5), LATITUDE double precision, LONGITUDE double precision);
 
+-- Update absolute path before running sql script
 COPY zip_codes FROM '/Users/li/Documents/CS6242/zipcode_lat_lon.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',');
 
 -- prefix 0s are lost in copy, so reappend 
@@ -15,6 +16,7 @@ CREATE TABLE earthquake_risk_lat_lon (
     MMI_2 real
 );
 
+-- Update absolute path before running sql script
 COPY earthquake_risk_lat_lon(LONGITUDE, LATITUDE, MMI_50, MMI_10, MMI_2) FROM '/Users/li/Documents/CS6242/earthquake_risk_lat_lon_us.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',');
 
 CREATE EXTENSION postgis;
@@ -48,6 +50,8 @@ COPY (
     AVG(MMI_10) AS MMI_10,
     AVG(MMI_2) AS MMI_2 FROM (SELECT (SELECT ZIP FROM geo_zipcode ORDER BY geo_zipcode.geog <-> ST_MakePoint(LATITUDE,LONGITUDE)::geography limit 1) AS ZIP, MMI_50, MMI_10, MMI_2 FROM earthquake_risk_lat_lon) AS avg_zip GROUP BY ZIP) TO '/Users/li/Documents/CS6242/earthquake_risk_zipcode.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',');
 
+
+-- Update absolute path before running sql script
 COPY
 (SELECT ZIP, MMI_50, MMI_10, MMI_2
 FROM (
