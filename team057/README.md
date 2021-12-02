@@ -1,10 +1,8 @@
 # Package Description
 
-This package contains csv datasets for flood, fire, and earthquake risks at the zipcode level. These datasets are combined together by grouping them together over the zip code to create a single csv containing all disaster data. 
+This package contains Team 57's project - a tool to visualize the risk of different types of natural disasters across the US, as well as provide information on what mitigation actions are being taken for regions with similar risk profiles. It contains csv datasets for flood, fire, and earthquake risks at the zipcode level (earthquake risk had to be resolved from coordinates to zipcodes using earthquake_lat_lon_to_zip.sql). These datasets are combined together by zip code to create a single csv containing all disaster risks. The disaster risk datasets are grouped in clusters based on similar zipcodes. It also contains a dataset for disaster mitigation actions and results for each zipcode.
 
-The disaster risk datasets are grouped in clusters based on similar zipcodes. It also contains a dataset for disaster mitigation actions and results for each zipcode.
-
-The risk_clustering_v2.py file is responsible for clustering the zip codes based on disaster data similarity.
+The risk_clustering_v2.py file is responsible for merging the different risk models and clustering the zip codes based on disaster risk characteristics.
 
 The mitigation_analysis.ipynb jupyter notebook is responsible for cleaning the disaster and mitigation datasets, grouping them over zipcodes and then creating the following visualization files:
 1. flood_earthquake_wildfire_data_clustered.csv: contains risk data for each zip code
@@ -20,9 +18,10 @@ Lastly we have a tableau workbook responsible for the visualization ("Natural Di
 
 # Installation and Execution
 
-1. Visit the following github repository: https://github.com/Zoheb0707/DataVizProject
-2. Please click the fork button on the top left corner to fork the repository.
-3. Use the `git clone` command to pull the package into your local machine.
-4. The risk_clustering_v2.py file can be run in any python editor that supports python 3.7.
-5. The mitigation_analysis.ipynb file can be run in iny JupyterHub server that supports a python 3.7 kernel.
-5. The "Natural Disaster Risk Visualization_112921.twbx" file can be ran in Tableau Desktop.
+1. Ensure Tableau Desktop is installed and licensed on your computer
+2. Download and run the "Natural Disaster Risk Visualization_112921.twbx" file
+3. Change the type of disaster risk to visualize in the upper right hand corner (Flood, Earthquake, Wildfire)
+4. Zoom and pan around the map and select a zip code of interest
+5. On the tooltip that pops up near the selected zip code, click the link titled "View Data by Cluster." This will bring you to the second report
+6. In the second report, observe the cluster your selected zip code belongs to, and the mitigation actions taken in that cluster
+7. If desired, use the Tableau features available to modify or change the visualizations. 
