@@ -16,12 +16,13 @@ Lastly we have a tableau workbook responsible for the visualization ("Natural Di
 1. Natural Disaster Risk: This dashboard contains a choropleth map and tables/charts that display the risk and mitigation data of the selected zip codes. By default all zip codes across the US are selected. There are filters at the right of the dashboard to change which zip codes are selected, along with a dropdown menu to change the risk type that is displayed. There is a search bar at the top left of the choropleth map that can be used to zoom the map into specific regions (city, county, state, etc.). Upon selecting a zip code by clicking, there is a link displayed in the tooltip titled "View data by cluster" that will take you to the second dashboard described below.
 2. Risk Profiles by Cluster: This dashboard contains a choropleth map and tables/charts that display the risk and mitigation data of the cluster linked from the first dashboard. Users can observe the mitigation actions taken amongst the selected cluster and make inferences on which were most popular or beneficial.
 
-# Installation and Execution
-
+# Installation
 1. Ensure Tableau Desktop is installed and licensed on your computer
 2. Download and run the "Natural Disaster Risk Visualization_112921.twbx" file
-3. Change the type of disaster risk to visualize in the upper right hand corner (Flood, Earthquake, Wildfire)
-4. Zoom and pan around the map and select a zip code of interest
-5. On the tooltip that pops up near the selected zip code, click the link titled "View Data by Cluster." This will bring you to the second report
-6. In the second report, observe the cluster your selected zip code belongs to, and the mitigation actions taken in that cluster
-7. If desired, use the Tableau features available to modify or change the visualizations. 
+
+# Execution
+1. Change the type of disaster risk to visualize in the upper right hand corner (Flood, Earthquake, Wildfire)
+2. Zoom and pan around the map and select a zip code of interest
+3. In the tooltip that pops up near the selected zip code, click the link titled "View Data by Cluster." This will bring you to the second report
+4. In the second report, observe the cluster your selected zip code belongs to, and the mitigation actions taken in that cluster
+5. If desired, use the Tableau features available to modify or change the visualizations. 
