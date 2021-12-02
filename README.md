@@ -7,13 +7,12 @@ The disaster risk datasets are grouped in clusters based on similar zipcodes. It
 The risk_clustering_v2.py file is responsible for clustering the zip codes based on disaster data similarity.
 
 The mitigation_analysis.ipynb jupyter notebook is responsible for cleaning the disaster and mitigation datasets, grouping them over zipcodes and then creating the following visualization files:
-1. flood_earthquake_cluster_data.csv: contains risk data for each zip code
+1. flood_earthquake_wildfire_data_clustered.csv: contains risk data for each zip code
 2. mitigation_data.csv: contains mitigitation data for each zip code
-3. aggregate_cluster_data.csv: contains risk data for each cluster
+3. mitigation_and_risk_data.csv: contains mitigation data, risk data and cluster information for each zipcode
 4. zipcode_cluster_data.csv: maps each zipcode to a cluster
-5. mitigion_and_cluster_aggregate_data.csv: mitigation data for each cluster
 
-The file also contains helper functions that help with visualization.
+The file also contains examples of graphs key metrics that could be used for visualization.
 
 Lastly we have a tableau workbook responsible for the visualization ("Natural Disaster Risk Visualization_112921.twbx"). It contains two dashboards that help explore risk and mitigation data among zip codes and facilitates comparisons across similar zip codes:
 1. Natural Disaster Risk: This dashboard contains a choropleth map and tables/charts that display the risk and mitigation data of the selected zip codes. By default all zip codes across the US are selected. There are filters at the right of the dashboard to change which zip codes are selected, along with a dropdown menu to change the risk type that is displayed. There is a search bar at the top left of the choropleth map that can be used to zoom the map into specific regions (city, county, state, etc.). Upon selecting a zip code by clicking, there is a link displayed in the tooltip titled "View data by cluster" that will take you to the second dashboard described below.
